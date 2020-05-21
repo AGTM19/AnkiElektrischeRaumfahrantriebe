@@ -8,6 +8,7 @@
             "__type__": "DeckConfig",
             "autoplay": true,
             "crowdanki_uuid": "22b877c8-9b52-11ea-82dd-b4d5bdceb84c",
+            "dyn": false,
             "lapse": {
                 "delays": [
                     10.0
@@ -51,6 +52,7 @@
     "extendNew": 10,
     "extendRev": 50,
     "media_files": [],
+    "mid": "1590059584748",
     "name": "Elektrische Raumfahrtantriebe",
     "note_models": [
         {
@@ -80,7 +82,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Einfach",
+            "name": "Einfach-a79cd",
             "req": [
                 [
                     0,
@@ -91,9 +93,7 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [
-                ""
-            ],
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Rückseite}}",
@@ -134,6 +134,19 @@
             ],
             "flags": 0,
             "guid": "CNcf;nxLr",
+            "newlyAdded": false,
+            "note_model_uuid": "ceace2a4-9b4e-11ea-b55e-b4d5bdceb84c",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Funktioniert es?",
+                "Offenbar schon, wenn du das hier ließt!"
+            ],
+            "flags": 0,
+            "guid": "j~ofIVkQ:y",
             "newlyAdded": false,
             "note_model_uuid": "ceace2a4-9b4e-11ea-b55e-b4d5bdceb84c",
             "tags": []
