@@ -142,24 +142,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Funktioniert es?",
-                "Offenbar schon, wenn du das hier ließt!"
+                "Ein anderer Test von Barry",
+                "Congratulaions!"
             ],
             "flags": 0,
-            "guid": "j~ofIVkQ:y",
-            "newlyAdded": false,
-            "note_model_uuid": "ceace2a4-9b4e-11ea-b55e-b4d5bdceb84c",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Noch ein test",
-                "Test success"
-            ],
-            "flags": 0,
-            "guid": "ynyUM)~hP3",
+            "guid": "iofn5i<g_i",
             "newlyAdded": false,
             "note_model_uuid": "ceace2a4-9b4e-11ea-b55e-b4d5bdceb84c",
             "tags": []
