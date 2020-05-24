@@ -10,19 +10,302 @@
             "dyn": 0,
             "extendNew": 10,
             "extendRev": 50,
-            "media_files": [],
+            "media_files": [
+                "ERA_2019_01_Einfuehrung(Alt).pptx_15.png",
+                "ERA_2019_01_Einfuehrung(Alt).pptx_26.png",
+                "ERA_2019_01_Einfuehrung(Alt).pptx_33.png",
+                "ERA_2019_01_Einfuehrung(Alt).pptx_34.png",
+                "ERA_2019_01_Einfuehrung(Alt).pptx_35.png",
+                "ERA_2019_01_Einfuehrung(Alt).pptx_36.png",
+                "latex-02c0040250d98e7dd57f53fd6c9aee1288067b77.png",
+                "latex-03d77a245943f3b4a9d9098c763b933222d8faca.png",
+                "latex-171f0af359863131fd357714070cec30a0356cb5.png",
+                "latex-1822e183e7475bc4e31f5b02ccafe766a59a742c.png",
+                "latex-1bb5a1ed18038488e28bb0c240a1c6d65b82dbd0.png",
+                "latex-20b6688f3c7f36577a466db53819c0b0dc6ac2bc.png",
+                "latex-299e6441ea8fefa5d4f032dbca79fe7a2cb748fd.png",
+                "latex-32efb527df27667e1611fa10079dbbd5bfecdcf7.png",
+                "latex-3a276bedd69add428f1fd52ac62166767c87d589.png",
+                "latex-44f276caddccbace1b706c9d34c6f43af020678b.png",
+                "latex-454a7dd94a3474602048299ba6cd943dc5e0ab33.png",
+                "latex-48eca1ca7a44cadb192e50e0a5b34aed86b7b6ad.png",
+                "latex-4a77a0fbe7d24de2fbe19bfacb5ebeccc910fe78.png",
+                "latex-5436401deb759946bf1dd41f6556375f66f1e840.png",
+                "latex-56009134d19dc619bf4f4ad596896a2d7736dad3.png",
+                "latex-570ad911040ec5a01b301ab6530888e2f4614733.png",
+                "latex-5864488532b5ef316e6971a37b15a48e5352a8c6.png",
+                "latex-5de15eaed41b0290057a12fa88c74597eaa3f18f.png",
+                "latex-5ead89922ddaedbdf800cf983f46a0542c7063d9.png",
+                "latex-63c38dd259bc337f3e4f01ad93d613925016bba5.png",
+                "latex-678e5ac10a356e89df61107d41e5e97b23c5ebd7.png",
+                "latex-6cf866799eb38843a42101e1503ad3e16d8dc2fb.png",
+                "latex-6fb829735e25d7d2707c6d07354554c92edc83ed.png",
+                "latex-715717efcf1b57664e1dd1143feee36af6a2e014.png",
+                "latex-750e182dba954475ff6d69b37e6e9e693b629e6f.png",
+                "latex-7c3cae1a6a199de41fb3e3016f75b2570d6b5e9d.png",
+                "latex-8030092ff5694dafe593494a204270ba230185ab.png",
+                "latex-885d4d7581704af20ece563b37dab68671edb3d5.png",
+                "latex-93bda1c1f4448ee975c6aa1cbc42b43baf3353ca.png",
+                "latex-983abac274584d4295b72d133ce942d028dcd692.png",
+                "latex-a506bbf4cba1b39af8819c1f56a981f0c186945e.png",
+                "latex-b794db1183316dda275781ea0ca9b7595181bcc9.png",
+                "latex-dfe24d949785f9c46fbd8517dc0d110fb4b4099b.png",
+                "latex-e0138df778cc6dac460302e548a3664704906569.png",
+                "latex-e06745d823f4a0783ad52cf02a06e6398a1a9aaf.png",
+                "latex-e247d559d3ff3381ef1c13d232b88224153c5364.png",
+                "latex-e72c606142ced1ba3c404367e3c0a8645b521239.png",
+                "latex-e81ed2a9a112277c6a7892c29a57e746efbf9a1d.png",
+                "latex-ea617109f48cf06417f937ccc7c80f6efa7490b6.png",
+                "latex-efa696156026de8488e13bc962e6d8f4b078e1e3.png",
+                "latex-f45f7a959b65e034313ec200c70c1a1dc4e40a08.png",
+                "latex-fa794c9ed62d80f9fe6da6fe578ffbefa2b1caa0.png"
+            ],
             "mid": "1590141564578",
-            "name": "Kapitel 01",
+            "name": "01 Einführung",
             "notes": [
                 {
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "Testfrage Kap1",
-                        "bestanden1"
+                        "[latex]Wonach werden elektrische Raumfahrtantriebe unterteilt? Nennen Sie drei Kathegorien.[/latex]",
+                        "[latex]Nach der Art, wie der Treibstoff beschleunigt wird:<div>\\begin{itemize}<br>\\item Thermoelektrisch<br><div>\\item Elektrostatisch (landläufig: Ionentriebwerke)</div><div>\\item Magneto-Plasma-Dynamisch</div><div>\\end{itemize}</div>[/latex]<br></div>"
                     ],
                     "flags": 0,
-                    "guid": "MShRY,:Hwz",
+                    "guid": "N75r#~u.tw",
+                    "newlyAdded": false,
+                    "note_model_uuid": "ceace2a4-9b4e-11ea-b55e-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen und beschreiben Sie kurz die Funktionsweise dreier Kathegorien von Elektrischen Raumfahrtantrieben.[/latex]",
+                        "[latex]<div>\\begin{itemize}<br><div>\\item Thermodynamisch:\nklassische Rakete; die Gas Beschleunigt und klassisch über Geometrie expandiert\n(über Geometrie der Düse)</div>\n<div>\\item Elektrostatisch:\nbeschleunigt mittels Elektrischer Felder geladene Partikel (vor allem&nbsp; Ionen) auf möglichst hohe\nAustrittsgeschwindigkeiten</div>\n<div>\\item Magneto-Plasmadynamisch:\nähnlich wie Elektostatisch nur mit Magnetfeldern -&gt; Lorenzkräften;\nBeschleunigt geladene Partikel im Antriebsplasma nach außen</div><div>\\end{itemize}<br></div>[/latex]<br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "KD<G4p3z<4",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist unter \"Energiebeschränkung\" im Zusammenhang mit chemischen Raketen zu verstehen? Was folgt daraus?[/latex]",
+                        "[latex]Die maximale für die kinietische Energie des\nSchubstrahls verfügbare Energie ist gedeckelt durch die maximal verfügbare\nReaktionsenthalpie des Treibstoffsystems.<br>Folgen: Vergleichsweise niedrige $c_{e}$.[/latex]<br>"
+                    ],
+                    "flags": 0,
+                    "guid": "dhTUxw(n,b",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wofür steht PPT?[/latex]",
+                        "[latex]Pulsed Plasma Thruster[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "u#W7.mV&i3",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Vergleichen Sie qualitativen elektrische und chemische Antrieben im Bezug auf Nutzlast und Missionsdauer.[/latex]",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item Mit Chemisch kommt man schneller an sein Ziel (Bsp. Mond) wegen des hohen\nSchubes. Aber die Nutzlast wird winzig.<div>\\item Mit elektrischen Antrieben kann man einen riesigen Teil an Treibstoff (und\nTank) sparen und seinen Nutzlastanteil signifikant erhöhen. (Dauert z.B. beim Mond aber halt\nJahre, wenn man Pech hat)</div><div>\\end{itemize}[/latex]<br></div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "nKSE(OSi8Q",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie die Gleichung für Massenspezifische Leistungsdichte, eine Systemcharakteristik des Antriebs. Benennen Sie die Größen und ihre Einheiten.\\\\Was folgt unter der Berücksichtigung der Zielkowsky Gleichung und der qualitativen $c_{e}$ unterschiede für den Schub und den benötigten Treibstoffbedarf bei einem gegebenen $\\Delta v$?[/latex]",
+                        "[$]\\alpha = \\frac{P}{m} = \\frac{\\frac{1}{2}Fc_{e}}{m} = \\frac{1}{2}ac_{e}[/$]<br><div>[latex]<br></div><div>$\\alpha$ in $\\frac{W}{kg}$\\hfill Massenspezifische Leistungsdichte\\\\</div><div>$P$ in $W$\\hfill Leistung\\\\</div><div>$m$ in $kg$\\hfill Masse\\\\</div><div>$a$ in $\\frac{m}{s}$\\hfill Beschleunigung\\\\</div><div>$F$ in $N$\\hfill Schub\\\\</div><div><br></div><div>Aus definition für $\\alpha$ und Zielkowsky folgt:</div><div>\\begin{itemize}</div><div>\\item chemisch: bei niedrigem $c_{e}$; hoher Schub, hoher Treibstoffbedarf</div><div>\\item elektrisch: bei hohem $c_{e}$; niedriger Schub, niedriger Treibstoffbedarf</div><div>\\end{itemize}</div><div>[/latex]<br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "p,|G_JNL,y",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was bedeutet die Reaktionsenthalpie für das $c_{e}$ der Rakete?[/latex]<br>",
+                        "[latex]Die Reaktionsenthalpie liefert bestenfalls ein Upper-Limit für die Austrittsgeschwindigkeit. In der Realität kommen jedoch noch weitere Verluste zum tragen.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "wCJ)^uoviA",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Welche Aussage liefert die Massenspezifische Leistungsdichte $\\alpha$?[/latex]<br>",
+                        "[latex]Die Massenspezifische Leistungsdichte ist eine Systemcharekteristik und liefert eine Aussage über die Energieversorgungsanlage des Systems.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "g9U,[s&eCW",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie jeweils die Begrenzungsart des Antriebsvermögens von chemischen und elektrischen Antriebssystemen.[/latex]",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item chemisch: Energiebegrenzt durch die maximale Reaktionsenthalpie</div><div>\\item elektrisch: Leistungsbegrenzt durch die Leistung, die z.B. ein photovoltaisches System zur Verfügung stellen kann. (Energie hat es prinzipiell unendlich)</div><div>\\end{itemize}</div><div>[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "BG,|=rB9e$",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie lautet die Gleichung für die effektive Austrittsgeschwindigkeit von Chemischen oder Elektro-Thermischen Raketen?[/latex]",
+                        "[latex]<div>$c_{e} \\approx \\sqrt{\\frac{2\\kappa}{\\kappa -1}\\frac{RT_{0}}{M_{A}}}$</div><div>[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "MMpfmr)-ck",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wovon wird die Systemarchitektur eines Raumfahrzeugs dominiert? Was folgt daraus?[/latex]",
+                        "[latex]\\textbf{Von dem Missionsziel!} Wir bauen \"Einwegraumfahrzeuge\" die Sonderanfertigungen für gegebene Missionsziele sind und in der Regel nur dazu in der Lage sind, diese eine Mission durchzuführen. Dies ist eine defizitäre Situation.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "GD4ya+$Jtc",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist der wesentliche Unterschied von elektrischen zu chemischen Antrieben?[/latex]",
+                        "[latex]Treibstoff ist von Energiequelle getrennt. Energie wird dem Treibstoff \"von außen\" zugeführt. Treibstoff kann inert sein. Es existieren aber auch Hybridantriebe (z.B. Elektrische Antriebe mit elementen von thermischen)[/latex]<img src=\"ERA_2019_01_Einfuehrung(Alt).pptx_15.png\">"
+                    ],
+                    "flags": 0,
+                    "guid": "tB.GEQ<ymo",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was bedeutet inert?[/latex]",
+                        "[latex]Chemisch nicht aktiv.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "f*c#|R/|FF",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie Charakteristken elektrischer Raumfahrttriebwerke.[/latex]",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item Aufgrund des Antriebsprinzips kommen mehr Treibstoffe in Frage</div><div>\\item Es können mehr Parameter variiert werden. So ergibt sich eine Envelope in der das Triebwerk betrieben werden kann.</div><div>\\item Es können sehr hohe $c_{e}$ erzielt werden.</div><div>\\item Schub ist derzeit auf $100 N$ begrenzt.</div><div>\\item Flächenspezifische Schubdichte ($\\frac{F}{A}$) ist vergleichsweise gering.</div><div>\\item Können erst im Weltraum zum Einsatz kommen (geringes Schubniveau).</div><div>\\end{itemize}</div><div>[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "rp(D(aE[xx",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie klassische Anwendungen für Elektrische Raumfahrtantriebe.[/latex]<br>",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item Wissenshcaftliche Missionen\n     mit interplanetaren Flugbahnen (diese Bahnen werden auch hauptsächlich von\n     Wissenschaftlichen Missionen genutzt)</div><div>\\item Sekundäre Aufgaben:\n     Korrekturaufgaben eines sich bereits im Orbit befindlichen Satelliten\n     (z.B. Lage-/Bahnregelung) $\\rightarrow$ Dauer, die ich einen Satelliten\n     korrigieren kann, ist bezeichnend für die Lebensdauer des Satelliten $\\rightarrow$ damit verdient man \"echt Geld\".</div><div>\\end{itemize}<br>[/latex]<br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "C}(W7g4f#&",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Welche Elektrischen Raumfahrtantriebe haben die längste Nutzungshistorie?[/latex]<br>",
+                        "[latex]Die PPT (Pulse Plasma Thruster). Die Russen nutzen diese seit vielen Jahrzehnten für Lage- und Bahnregelung.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "IF1XZY,:40",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie zwei sehr bekannte elektrische Triebwerke.[/latex]",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item NERVA\\\\Nuclearthermisches System. Erhöhung von $\\alpha$ durch Nutzung eines Kernreaktors. Hat sehr hohes Schubniveau (kann abheben) bei gleichzeitg hohem $c_{e}$ ($&lt;8$ statt $&lt;5$ der chemischen).</div><div>\\item VASIMR $10kW$\\\\Hybridsystem.Trennt die drei Schritte Plasmaerzeugung, -erhitzung und -beschleunigung in Düse. So ist Variation des Verhältnisses $c_{e}$ zu $F$ möglich. Wurde auf ISS getestet.</div><div>\\end{itemize}</div><div>[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "B}mo:VEQL.",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie eine konventionelle und eine unkonventionelle Transferbahn und jeweils Vor- wie Nachteile.[/latex]",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item Hohmanntransfer\\\\Minimaler $\\Delta v$ Bedarf, lange Missionsdauer&nbsp;</div><div>\\item Hochschubbahn\\\\Hoher $\\Delta v$ Bedarf (Schubumkehr notwendig), sehr kurze Missionsdauer</div><div>\\end{itemize}</div><div>[/latex]</div><div><img src=\"ERA_2019_01_Einfuehrung(Alt).pptx_26.png\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "Fb8Khd/U&S",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie einige Wissenschaftliche Missionen zur Erprobung oder mit Nutzung Elektrischer Raumfahrtantriebe und zugehörige Antriebsdaten.[/latex]",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item SFU\\\\erstes MPD Triebwerk im All</div><div>\\end{itemize}</div><div>[/latex]</div><div><img src=\"ERA_2019_01_Einfuehrung(Alt).pptx_33.png\"></div><div>[latex]</div><div><div>\\begin{itemize}</div></div><div>\\item ESEX\\\\Erstes Lichtbogentriebwerk im Hochschubbereich. Dieses Triebwerk kann als Primärtriebwerk aufgefasst werden (in Abgrenzung zu Arcjets für Sekundäraufgaben; $26kW$ statt ca. $1kW$).</div><div><div>\\end{itemize}</div><div>[/latex]</div></div><div><img src=\"ERA_2019_01_Einfuehrung(Alt).pptx_34.png\"><br></div><div>[latex]<div>\\begin{itemize}</div><div>\\item Deep Space I</div><div>\\end{itemize}</div><div>[/latex]</div></div><div><img src=\"ERA_2019_01_Einfuehrung(Alt).pptx_35.png\"><br></div><div>[latex]<div>\\begin{itemize}</div><div>\\item ARTEMIS\\\\Mit zwei Radiofrequenz-Ionentriebwerken (RIT). Durch Fehler in Oberstufe war der Orbit zu niedrig. Die RITs wurden zur Anhebung des Orbits genutzt. Riesen Erfolg da Orbittransfer mit elektrischen Raumfahrtantrieben stattgefunden hat.</div><div>\\end{itemize}</div><div>[/latex]</div></div><div><img src=\"ERA_2019_01_Einfuehrung(Alt).pptx_36.png\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "qqwgn;ri3=",
                     "newlyAdded": false,
                     "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
                     "tags": []
@@ -39,22 +322,8 @@
             "extendNew": 10,
             "extendRev": 50,
             "media_files": [],
-            "name": "Kapitel 02",
-            "notes": [
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Testfrage Kap2",
-                        "bestanden2"
-                    ],
-                    "flags": 0,
-                    "guid": "h(QoifefXK",
-                    "newlyAdded": false,
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                }
-            ]
+            "name": "02 Analyse von Antrieben",
+            "notes": []
         }
     ],
     "crowdanki_uuid": "ceacbbb3-9b4e-11ea-8a75-b4d5bdceb84c",
@@ -237,7 +506,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Einfach",
+            "name": "Einfach-f04d0",
             "req": [
                 [
                     0,
@@ -257,52 +526,12 @@
                     "did": null,
                     "name": "Karte 1",
                     "ord": 0,
-                    "qfmt": "{{Vorderseite}}"
+                    "qfmt": "{{Vorderseite}}\n"
                 }
             ],
             "type": 0,
             "vers": []
         }
     ],
-    "notes": [
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Wonach werden elektrische Raumfahrtantriebe unterteilt? Nennen Sie drei Kathegorien.",
-                "Nach der Art, wie der Treibstoff beschleunigt wird.<br>- Thermoelektrisch<div>- Elektrostatisch</div><div>- Magneto-Plasma-Dynamisch</div>"
-            ],
-            "flags": 0,
-            "guid": "N75r#~u.tw",
-            "newlyAdded": false,
-            "note_model_uuid": "ceace2a4-9b4e-11ea-b55e-b4d5bdceb84c",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Was ist die Antowrt auf die Frage nach dem Sinn des Lebens?",
-                "42."
-            ],
-            "flags": 0,
-            "guid": "CNcf;nxLr",
-            "newlyAdded": false,
-            "note_model_uuid": "ceace2a4-9b4e-11ea-b55e-b4d5bdceb84c",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Ein anderer Test von Barry",
-                "Congratulaions!"
-            ],
-            "flags": 0,
-            "guid": "iofn5i<g_i",
-            "newlyAdded": false,
-            "note_model_uuid": "ceace2a4-9b4e-11ea-b55e-b4d5bdceb84c",
-            "tags": []
-        }
-    ]
+    "notes": []
 }
