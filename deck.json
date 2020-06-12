@@ -19,6 +19,7 @@
                 "ERA_2019_01_Einfuehrung(Alt).pptx_36.png",
                 "latex-02c0040250d98e7dd57f53fd6c9aee1288067b77.png",
                 "latex-03d77a245943f3b4a9d9098c763b933222d8faca.png",
+                "latex-13736d2878e204ca77dcc8c63e10f65ae393889c.png",
                 "latex-171f0af359863131fd357714070cec30a0356cb5.png",
                 "latex-1822e183e7475bc4e31f5b02ccafe766a59a742c.png",
                 "latex-1bb5a1ed18038488e28bb0c240a1c6d65b82dbd0.png",
@@ -48,10 +49,9 @@
                 "latex-93bda1c1f4448ee975c6aa1cbc42b43baf3353ca.png",
                 "latex-983abac274584d4295b72d133ce942d028dcd692.png",
                 "latex-a506bbf4cba1b39af8819c1f56a981f0c186945e.png",
-                "latex-b794db1183316dda275781ea0ca9b7595181bcc9.png",
+                "latex-ca85bc57661383bffec33b0b342a26b39388584a.png",
                 "latex-dfe24d949785f9c46fbd8517dc0d110fb4b4099b.png",
                 "latex-e0138df778cc6dac460302e548a3664704906569.png",
-                "latex-e06745d823f4a0783ad52cf02a06e6398a1a9aaf.png",
                 "latex-e247d559d3ff3381ef1c13d232b88224153c5364.png",
                 "latex-e72c606142ced1ba3c404367e3c0a8645b521239.png",
                 "latex-e81ed2a9a112277c6a7892c29a57e746efbf9a1d.png",
@@ -133,7 +133,7 @@
                     "data": "",
                     "fields": [
                         "[latex]Nennen Sie die Gleichung für Massenspezifische Leistungsdichte, eine Systemcharakteristik des Antriebs. Benennen Sie die Größen und ihre Einheiten.\\\\Was folgt unter der Berücksichtigung der Zielkowsky Gleichung und der qualitativen $c_{e}$ unterschiede für den Schub und den benötigten Treibstoffbedarf bei einem gegebenen $\\Delta v$?[/latex]",
-                        "[$]\\alpha = \\frac{P}{m} = \\frac{\\frac{1}{2}Fc_{e}}{m} = \\frac{1}{2}ac_{e}[/$]<br><div>[latex]<br></div><div>$\\alpha$ in $\\frac{W}{kg}$\\hfill Massenspezifische Leistungsdichte\\\\</div><div>$P$ in $W$\\hfill Leistung\\\\</div><div>$m$ in $kg$\\hfill Masse\\\\</div><div>$a$ in $\\frac{m}{s}$\\hfill Beschleunigung\\\\</div><div>$F$ in $N$\\hfill Schub\\\\</div><div><br></div><div>Aus definition für $\\alpha$ und Zielkowsky folgt:</div><div>\\begin{itemize}</div><div>\\item chemisch: bei niedrigem $c_{e}$; hoher Schub, hoher Treibstoffbedarf</div><div>\\item elektrisch: bei hohem $c_{e}$; niedriger Schub, niedriger Treibstoffbedarf</div><div>\\end{itemize}</div><div>[/latex]<br></div>"
+                        "[$]\\alpha = \\frac{P}{m} = \\frac{\\frac{1}{2}Fc_{e}}{m} = \\frac{1}{2}ac_{e}[/$]<br><div>[latex]<br></div><div>$\\alpha$ in $\\frac{W}{kg}$\\hfill Massenspezifische Leistungsdichte\\\\</div><div>$P$ in $W$\\hfill Leistung\\\\</div><div>$m$ in $kg$\\hfill Masse\\\\</div><div>$a$ in $\\frac{m}{s^2}$\\hfill Beschleunigung\\\\</div><div>$F$ in $N$\\hfill Schub\\\\</div><div><br></div><div>Aus definition für $\\alpha$ und Zielkowsky folgt:</div><div>\\begin{itemize}</div><div>\\item chemisch: bei niedrigem $c_{e}$; hoher Schub, hoher Treibstoffbedarf</div><div>\\item elektrisch: bei hohem $c_{e}$; niedriger Schub, niedriger Treibstoffbedarf</div><div>\\end{itemize}</div><div>[/latex]<br></div>"
                     ],
                     "flags": 0,
                     "guid": "p,|G_JNL,y",
@@ -237,7 +237,7 @@
                     "data": "",
                     "fields": [
                         "[latex]Nennen Sie Charakteristken elektrischer Raumfahrttriebwerke.[/latex]",
-                        "[latex]<div>\\begin{itemize}</div><div>\\item Aufgrund des Antriebsprinzips kommen mehr Treibstoffe in Frage</div><div>\\item Es können mehr Parameter variiert werden. So ergibt sich eine Envelope in der das Triebwerk betrieben werden kann.</div><div>\\item Es können sehr hohe $c_{e}$ erzielt werden.</div><div>\\item Schub ist derzeit auf $100 N$ begrenzt.</div><div>\\item Flächenspezifische Schubdichte ($\\frac{F}{A}$) ist vergleichsweise gering.</div><div>\\item Können erst im Weltraum zum Einsatz kommen (geringes Schubniveau).</div><div>\\end{itemize}</div><div>[/latex]</div>"
+                        "[latex]<div>\\begin{itemize}</div><div>\\item Aufgrund des Antriebsprinzips kommen mehr Treibstoffe in Frage</div><div>\\item Es können mehr Parameter variiert werden. So ergibt sich eine Envelope in der das Triebwerk betrieben werden kann.</div><div>\\item Es können sehr hohe $c_{e}$ erzielt werden.</div><div>\\item Schub ist derzeit auf $100\\,N$ begrenzt.</div><div>\\item Flächenspezifische Schubdichte ($\\frac{F}{A}$) ist vergleichsweise gering.</div><div>\\item Können erst im Weltraum zum Einsatz kommen (geringes Schubniveau).</div><div>\\end{itemize}</div><div>[/latex]</div>"
                     ],
                     "flags": 0,
                     "guid": "rp(D(aE[xx",
@@ -666,9 +666,347 @@
             "dyn": 0,
             "extendNew": 10,
             "extendRev": 50,
-            "media_files": [],
+            "media_files": [
+                "Anmerkung 2020-06-02 115638.png",
+                "ERA_2020_03_GrundlagenThermischerRaketen_14.png",
+                "ERA_2020_03_GrundlagenThermischerRaketen_16.png",
+                "ERA_2020_03_GrundlagenThermischerRaketen_4.png",
+                "ERA_2020_03_GrundlagenThermischerRaketen_8.png",
+                "latex-07b38b5d5317bf568ba36bf0b11d0c028ab9940a.png",
+                "latex-1610ee2dbe8a04a68fec9a9fff9697de19b02ae6.png",
+                "latex-1c9733ca96acc4765cb7e6b8a130f1ff51180e4b.png",
+                "latex-20e2795333347287443958f44a32525b76356722.png",
+                "latex-22689587e65c2eab7589d888c024653838c757b0.png",
+                "latex-27be786854e6ed7641be2f27f2c7f5ef129b096f.png",
+                "latex-31630191a7e822164bcdffeb2dbea3854e3d17c6.png",
+                "latex-395b8a392e3888165806e86b1a7088dc4660c63d.png",
+                "latex-3c2861221da512ec99d87097edee01c833de98eb.png",
+                "latex-3c6f7a58ced5f47dfb2e86ea19162b9a127eb548.png",
+                "latex-5b6dca4f1e1932e69be50d882d01b9707e1f73d0.png",
+                "latex-61d94ec978c2b7e3630a7960f6b1e34be99746f3.png",
+                "latex-6e494286b3eb039fb5da185342d808cc6a2d1f5f.png",
+                "latex-7535c1878cdebc4261022b510d2ba110159d7aa2.png",
+                "latex-79aa90dd3a49dac23a1a9d01f64408cbbf925b80.png",
+                "latex-7aa54f4ec25ca7796ba1181f899673ce79fd7425.png",
+                "latex-7ab4b6e028e00c40ba12fd124c265f88e2e68289.png",
+                "latex-7dadf963608e5da2ac7cd0fb797046bc61a06f6c.png",
+                "latex-7ff2a25022d88699713536e15cb4c3f18d0e3f4a.png",
+                "latex-803d0d3e277876a443ab2477a9b2da70536f905f.png",
+                "latex-8d697d85c78a7f762549118b0c785b0f0bab3c23.png",
+                "latex-8f1cf5082b17b6548affdebcf6910b16c588b812.png",
+                "latex-9d5614a01300555a5daf76dad2e7758428f8d5cc.png",
+                "latex-a5ccaaae645ad95a6be8140b4115ec36c0700b71.png",
+                "latex-a776d5299f817c65b835323edc9f04b299e800e2.png",
+                "latex-b2db2eb69c49e521c5398306934c3555271d7973.png",
+                "latex-bf6192cb331cc185579a1aee1a745e9f3aaaed4f.png",
+                "latex-bfd5485d336ac11f64acf3e92dacebfee7dae8fb.png",
+                "latex-c0f763fe1a11f2b0656fd7d6474cd94829d19200.png",
+                "latex-c0f830afebef1b51995ab3d7d2945846391afdd3.png",
+                "latex-c4b882c6857513efcafd1f5fa957c5e195d2c669.png",
+                "latex-cbf12cda73f6044871d8ee6e3832c8696257131c.png",
+                "latex-cc356a750f45258458d73ed166e9ad822f89f400.png",
+                "latex-cda4ae85d94b7a2342a57a8ed5d13d4b55bde739.png",
+                "latex-d3b4b38614dfbf664152d64320ac24f4fdb2c619.png",
+                "latex-d401932a74bf8319e7716063a7f27eb1be60c407.png",
+                "latex-d71965406d5be6dae461b229837cd6a2d8f7b90e.png",
+                "latex-df0ab99340bbf4446cbe7b351b5f04783ddd9900.png",
+                "latex-e13a19b075ad48767c28c6c2f2c1b5df83e8f34c.png",
+                "latex-e1f7af23b57ac9d47b5bb8a081c20e349141e72a.png",
+                "latex-f47957e7872ffb2a50c3977ab8a33865d93e3825.png",
+                "latex-fa968bb0a8643f76a5d3c3b1e8be0fc6a16d9b6b.png",
+                "latex-fd877e0509efad7746b317cc26bf01815e4f4f61.png",
+                "paste-46daf3b06179102edb753719ac4d59f11bbb57fa.jpg",
+                "paste-a81dc78c1e28fd9bd7f887b0107194cfac28269a.jpg"
+            ],
             "name": "03 Grundlagen Thermischer Raketen",
-            "notes": []
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Beschreiben Sie das Prinzip thermischer Raketen. Welches Kriterium sollte der Treibstoff qualitativ erfüllen?[/latex]<br>",
+                        "<div><img src=\"ERA_2020_03_GrundlagenThermischerRaketen_4.png\"><br></div>[latex]Treibstoff sollte eine geringe molare Masse haben.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "MAd^Yaq`9f",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie ein Synonym für Photovoltaisch.[/latex]",
+                        "[latex]Solarelektrisch. (Unnötig, aber hey)[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "DcTNqZsS$,",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie drei unkonventionelle und zwei konventionelle thermische Triebwerksarten.[/latex]",
+                        "[latex]<div>Unkonventionell:</div><div>\\begin{itemize}</div><div>\\item Nuklearthermische Rakete (bsp. NERVA, Poodle)</div><div>\\item Solarthermische Rakete (STP)</div><div>\\item Laserthermische-Antriebe, Mikrowellen</div><div>\\end{itemize}</div><div>Konventionell (Mit solar- oder nuklearelektrischer Energiezufuhr):<br>\\begin{itemize}</div><div>\\item Widerstandsbeheitzte Rakete (\"Resistojet\")</div><div>\\item Lichtbogenbeheitzte Ragete (TLT/\"Arcjet\")</div><div>\\end{itemize}</div><div>[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "j_j*)M#f@i",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist im Bezug auf $c_e$ von einem thermischen Triebwerk gefordert? Was begrenzt das $c_e$?[/latex]",
+                        "<div>[latex]</div><div>Wenn man vernachlässigt, dass es für eine gegebene Mission bei einem gegebenen $\\Delta v$ ein optimales $c_e$ gibt, will man von seinem $c_e$ prinzipiell, dass es \\textit{so hoch wie möglich} ist.\\\\</div><div><br></div><div>Die effektive Austrittsgeschwindigkeit wird maßgeblich von der \"Entladungskammer\"-Temperatur $T_0$ bestimmt. Diese Temperatur ist aber begrenzt durch<br>\\begin{itemize}</div><div>\\item den Wärmetauscher (Material/Austausch)</div><div>\\item Brennkammerwände</div><div>\\item Düsenhals</div><div>\\end{itemize}</div><div>Die Materialien sind prinzipiell durch ihre maximal mögliche thermische Belastung begrenzt.</div><div>[/latex]<br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "JGiX[R/v%#",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Welche Größen haben einen signifikanten Einfluss auf die effektive Austrittsgeschwindigkeit eines thermischen Triebwerks? Leiten Sie die entsprechende Gleichung her und schlussfolgern Sie, wie die größen zu wählen sind um eine möglichst hohe effektive Austrittsgeschwindigkeit zu erhalten. Nehmen Sie expansion gegen Vakuum an und gehen sie von einer stark expandierenden Düse aus.[/latex]",
+                        "<div><img src=\"Anmerkung 2020-06-02 115638.png\"><br></div>[latex]Wenn man $p_a$ (Expansion gegen Vakuum) und $p_E$ (Anpassung der Düse ans Vakuum vernachlässigbar) vernachlässigt, ergibt sich folgender rechenweg.[/latex]<div><img src=\"ERA_2020_03_GrundlagenThermischerRaketen_8.png\"><br></div><div>[latex]Aus der letzten Gleichung ergibt sich, dass die \"Entladungskammer\"-Temperatur $T_0$ möglichst groß und die molare Masse des Treibstoffs $M_A$ möglichst klein sein soll, um eine möglichst hohe effektive Austrittsgeschwindigkeit $c_e$ zu erhalten.[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "mpT0~YvPP7",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie ist die Proportionalität von $c_e$ zu den wichtigsten beiden einflussnehmenden Größen? Sagen sie etwas zu $\\overline{\\kappa}_{eff}$ und $\\overline{M}_{eff}$.[/latex]<br>",
+                        "[latex]<div>$c_e \\sim \\sqrt{\\dfrac{T_0}{\\overline{M}_{eff}}}$\\\\</div><div>Abhängig durch Ionisation und Sissoziation können sich die molare Masse $M_A$ und Freiheitsgrade $f$ eines Treibstoffs im Durchlauf von \"Entladungskammer\" zu Düsenende ändern. (Letztere haben einen Einfluss auf $\\kappa$. Man kann den effektiven Mittelwert berechenen zwischen Brennkammer und Endquerschnitt.</div><div>[/latex]</div><div><img src=\"paste-a81dc78c1e28fd9bd7f887b0107194cfac28269a.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "O>Zy?S/ffK",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Welche Begrenzungen von Materialien druch hohe Temperaturen existieren?[/latex]<br>",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item Festigkeit (Schmelzpunkt, plastische Verformung, Warmfestigkeit(!))</div><div>\\item Dampfdruck, Sublimation</div><div>\\item Thermische Verformungen, (Thermische) Spannungen, Thermal-Schock-Toleranz</div><div>\\item Wärmeleitfähigkeit, Emissionsgrad, ...</div><div>\\item Chemische Reaktionen zwischen Treibstoff und Strukturteilen</div><div>\\item Querschnitte für schnelle und langsame Neutronen, Strahlungsschädigung (bei nuklearthermischen Antrieben)</div><div>\\item Elektrische Leitfähigkeit bei hohen Temperaturen</div><div>\\end{itemize}</div><div>[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "KD<v=Z5aX",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist Warmfestigkeit?[/latex]<br>",
+                        "[latex]Die Festigkeit eines Materials bei erhöhten Temperaturen. Wichtig, da in Triebwerken die Temperatur im Allgemeinen sehr hoch ist und das Material so nachgeben kann, obwohl weder der Schmelzpunkt, noch die (bei Raumtemperatur nominelle) maximale Belastung erreicht ist.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "f(aOl`W$4D",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist Thermal-Schock? Nennen Sie ein Material mit schlechter Thermal-Schock-Toleranz.[/latex]",
+                        "[latex]Die Belastung, die durch plötzliche/rapide Änderung der Termperatur entsteht, wie beim Ein- und Ausschalten des Triebwerks.\\\\<div>Beispiel: Aluminium Oxid ($Al_2O_3$); Gute Thermalresistenz und relativ inert. Aber niedrige Thermal-Schock-Resistenz. Kann bei Ein-/Ausschalten des Triebwerks reißen.[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "hB54o7:!dD",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie ein Problem der Auslegung von Triebwerken im Bezug auf Materialien bei hohen Temperaturen.[/latex]",
+                        "[latex]Für Werkstoffe stehen für einige Materialeigenschaften in der Regel keine verlässlichen Daten bei hohen Temperaturen zur Verfügung. (Bsp. Dampfdruck, Sublimation, Wärmeleitfähigkeit, Emissionsgrad, ...)[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "P~foi:z)a^",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was versteht man Werkstofftransition? Nennen Sie ein Beispiel und die Folgen.[/latex]",
+                        "[latex]Eine Werkstofftransition ist eine Veränderung der Struktur eines Werkstoffs. Beispiel Titan. Bei einer Temperatur von etwa 882$\\,$°$C$ geht die Strukur des Materials von hexagonalem $\\alpha$-Titan zu kubisch raumzentriertem $\\beta$-Titan über ($\\beta$-Transus). Dies geht einher mit einer diskreten Änderung einiger Materialeigenschaften wie dem Emissionsgrad)[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "grTT(r{j%M",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie (mit der zugehörigen Schmelztemperatur):<div>\\begin{itemize}</div><div>\\item Eine Superlegierung</div><div>\\item Zwei wichtige Werkstoffe</div><div>\\item Zwei extreme Karbide</div><div>\\item Schmelztemperaturen von Glaskeramik, Wolfram, Graphit</div><div>\\end{itemize}</div><div>Was ist für die Warmfestigkeit im Bezug auf die Schmelztemperatur zu sagen?\\\\Welche besondere Eigenschaft besitzt Graphit hinsichtlich der Schmelztemperatur?</div><div>[/latex]</div>",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item PM1000 (Einsetzbar bis 1573$\\,K$)</div><div>\\item Bromnitrit (BN; ca. 3273$\\,K$; eingesetzt für Isolierungen), Molybdän (Mo; 2883$\\,K$)</div><div>\\item Tantalkarbid (TaC; ca. 4140$\\,K$), Hafniumkarbid (HfC; ca. 4160$\\,K$)</div><div>\\item Glaskeramik (ca. 1080$\\,K$), Wolfram (W; 3653$\\,K$), Graphit (C; subl. ca. 3920$\\,K$ bei 1$\\,bar$)</div><div>\\end{itemize}</div><div>Um ausreichend Warmfestigkeit zu gewährleisten sind von den Schmelztemperaturen ein $\\Delta T$ von etwa 300$\\,K$ abzuziehen.\\\\Graphit schmilzt bei 1$\\,bar$ nicht, sondern sublimiert direkt.</div><div>[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "i%D[ztI#6}",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie die Temperaturen für vier Thermische Triebwerke.[/latex]<br>",
+                        "<img src=\"ERA_2020_03_GrundlagenThermischerRaketen_14.png\">"
+                    ],
+                    "flags": 0,
+                    "guid": "HNIdqU>{]H",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie allgemeingültige Auswahlkriterien für Treibstoffe.[/latex]",
+                        "<img src=\"ERA_2020_03_GrundlagenThermischerRaketen_16.png\">"
+                    ],
+                    "flags": 0,
+                    "guid": "F+sbBaI7<K",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Sagen Sie qualitativ etwas zur Druckabhängigkeit der effektiven Austrittsgeschwindigkeit.[/latex]",
+                        "<div><img src=\"paste-46daf3b06179102edb753719ac4d59f11bbb57fa.jpg\"><br></div><div>[latex]Mit steigendem Druck, sinkt die theoretisch erreichbare effektive Austrittsgeschwindigkeit. Dies hängt damit zusammen, dass bei niedrigen Drücken die Dissoziation und Ionisation früher eintritt und so die effektive molare Masse sinkt. Und (wie aus vorigen Kapiteln bekannt) mit sinkender effektiver molarer Masse steigt die effektive Austrittsgeschwindigkeit.[/latex]<br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "kW7{i>rQU1",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist der beste Treibstoff für thermische Triebwerke hinsichtlich dre theoretisch maximal erreichbaren effektiven Austrittsgeschwindigkeit?[/latex]",
+                        "[latex]Wasserstoff...[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "Q=l$>Qyedr",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Welche Treibstoffe sind für TLT interessant?[/latex]<br>",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item insbesondere Wasserstoff</div><div>\\item Ammoniak</div><div>\\item Hydrazin</div><div>\\item auch Helium (hohe Schubwirkungsgrade)</div><div>\\end{itemize}<br></div><div>[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "u0b@0d)ybf",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist der Unterschied zwischen Eingefrorenen Reaktionen und dem Eingefrorenem Gaszustand?[/latex]",
+                        "[latex]In beiden Fällen läuft die Expansion schneller ab, als die chemischen Reaktionen. Im Falle des Eingefrorenen Gaszustands ist die Expansion auch schneller als die physikalischen Expansionen (zum Beispiel Anteile wie vibronische Relaxation).[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "C?}$t[O(+&",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was sind $\\varepsilon_R$, $\\varepsilon_D$ und $\\varepsilon_I$ und wie stehen sie im Zusammenhang? [/latex]",
+                        "[latex]\\begin{itemize}<div>\\item $\\varepsilon_R$ Reaktionsenergie</div><div>\\item $\\varepsilon_D$ Dissotiationsenergie<br>\\item $\\varepsilon_I$ Ionisationsenergie<br><div>\\end{itemize}</div><div>Die Dissotiationsenergie und die Ionisationsenergie können Teile der Reaktionsenergie sein.[/latex]</div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "Mpz7mG,Y5z",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Von welcher Voraussetzung wird bei der Betrachtung von Nichtgleichgewichtseffekten in thermischen Wasserstoffraketen ausgegangen? Welche Folgen hat das?[/latex]<br>",
+                        "[latex]Es wird vorausgesetzt, dass es keine angeregten Moleküle gibt, sondern ausschließlich \"normalen\", dissoziierten und ionisierten Wasserstoff. Dies hat zur Folge, dass ein Vier-Komponenten-Gas vorliegt.\\\\<div>Die Gleichungen für die Dissoziation und Ionisation lauten\\\\</div><div>$H_2 + \\varepsilon_D \\longleftrightarrow H + H$\\\\</div><div>$H_2 + \\varepsilon_I \\longleftrightarrow H^+ + e^-$\\\\</div><div>Zudem kann davon ausgegangen werden, dass die Ionisation der Dissoziation nachgeschaltet ist. Davon darf ausgegangen werden, da $\\varepsilon_I$ signifikant höher ist als $\\varepsilon_D$.[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "B{*Ikn9QI:",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie hängen die Ionisations- und Dissoziationstemperaturen qualitativ vom Druck ab?[/latex]<br>",
+                        "[latex]Mit steigendem Druck steigen die benötigten Temperaturen an.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "DO3MvW=x#v",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie Berechnet sich der Energieinhalt eines Gases? Wie verändert sich die Gleichung mit eingefrorenen Freiheitsgraden?[/latex]",
+                        "[latex]<div>$E = \\dfrac{f}{2}\\mathfrak{R}T$\\\\</div><div><br></div><div>Mit eingefrorenen Freiheitsgraden gilt:\\\\</div><div>$f = f_1 + f_2$\\\\</div>$E = \\dfrac{f_1}{2}\\mathfrak{R}T_0 + \\dfrac{f_2}{2}\\mathfrak{R}T$\\\\<div><br><div>$f\\,\\,$ Freiheitsgrade\\\\</div><div>$f_1$ Eingefrohrene Freiheitsgrade\\\\</div><div>$f_2$ Wirkliche Freiheitsgrade\\\\</div><div>[/latex]</div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "c3ZU@dW^Il",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                }
+            ]
         },
         {
             "__type__": "Deck",
