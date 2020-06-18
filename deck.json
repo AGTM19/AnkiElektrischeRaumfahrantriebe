@@ -1017,9 +1017,146 @@
             "dyn": 0,
             "extendNew": 10,
             "extendRev": 50,
-            "media_files": [],
+            "media_files": [
+                "ERA_2020_04_Resistojets_11.png",
+                "latex-01a6c63171f3b6e92076a687722862005b0abddf.png",
+                "latex-138a94858f2fad2e533b49552ef5a326c9648615.png",
+                "latex-21ef59fe04a054ed7b878909f1e8f61cf3697c73.png",
+                "latex-2cedadf1d7a702ee417d50ef7816e1fa40526c59.png",
+                "latex-407b48b0dafaae4c9d19c9984a045f137526cef4.png",
+                "latex-490c3149939a303f2b4f027bf70ed8473c0cc6d6.png",
+                "latex-4a5a27d5e6f1ad10778cba8df85dd96168392767.png",
+                "latex-66c97e7d8dc01f9f64064dbb38da85599322cc1f.png",
+                "latex-858503669753a05f88f203b2f3012d310ac97288.png",
+                "latex-ac550e42b8b6861dd2bd1bb2c38a13df38f83bb2.png",
+                "latex-adf82e1c481fc933c72ddd3ca21e90f70921387f.png",
+                "latex-b23279f27f3c4fe33aa07200afac069152bce9e2.png",
+                "latex-b913ac662922902e29d24eba92e41a1d4d423368.png",
+                "latex-c78e56d63b5ef3925bc1826514251cf94a4a70cc.png",
+                "latex-e86b3be4f0fa2e9ff21c6472eabf66c88a726f3b.png",
+                "latex-e90ccf32418b2ba34a67c9868b42eca55bf3413f.png",
+                "latex-e9576773afc47360855d9ca302a8a45facee431b.png"
+            ],
             "name": "04 Resistojets",
-            "notes": []
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Warum können Widerstandsbeheitzte Elektrothermische Triebwerke trotz ihrer deutlich erhöhten effektiven Austrittsgeschwindigkeit nicht die Chemischen Triebwerke ersetzen?[/latex]<br>",
+                        "[latex]<div>Bei gegebener Austrittsgeschwindigkeit ist der Massenstrom begrenzt von der Heizleistung des WTs:\\\\</div><div>$\\dot{m} = \\dfrac{2P}{{c_e}^2}\\eta$\\\\</div><div>Hierbei spielt die Begrenzung der Energieversorgungsanlage die entscheidende Rolle. Die zur Verfügung stehende Leistung reicht nicht aus, um mit dem Schub\\\\</div><div>$F = \\dot{m}c_e$\\\\</div><div>chemischer Raketen mitzuhalten.</div><div>[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "M<HrbNX9@3",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Welche Arten von Widerständen sind für ein WT denkbar?[/latex]",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item Spule</div><div>\\item System aus Spulen</div><div>\\item Schüttung von Wolframkugeln</div><div>\\item Kontaktkörper (im weitesten Sinne)</div><div>\\item Beheitzte Triebwerkswand</div><div>\\end{itemize}</div><div>Generell wird eher konvektiv geheitzt. Es existieren aber auch strahlungsheitzende Geräte. Der Widerstandskörper ist dann meist aus Graphit und werden bei relativ hohen Temperaturen betrieben.</div><div>[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "k$bki9uS?o",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wovon hängt die effektive Austrittsgeschwindigkeit eines Widerstandsbeheitzten Triebwerks ab? Welche maximale effektive Austrittsgeschwindigkeit ist denkbar?[/latex]",
+                        "[latex]<div>Von der Molmasse und der steigerung der Kammertemperatur $T_0$.\\\\</div><div>$c_e \\approx\\sqrt{2\\kappa\\dfrac{\\mathfrak{R}T_0}{(\\kappa -1)M_A}}$\\\\</div><div>Wobei $\\kappa = \\kappa (p,T)$.\\\\</div><div>Mit dem leichtesten Treibstoff (Wasserstoff mit $M_A = 2\\,g/mol$) und dem Widerstand mit der höchsten Schmelztemperatur (Wolfram mit $T_s = 3653K$) ist eine effektive Austrittsgeschwindigkeit von $c_e = 10.6\\, km/s$ denkbar.</div><div>[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "DaA{vu%!vl",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie eine typische spezifische Leistung für eine Energieversorgungsanlage eines Widerstandsbeheitzten Triebwerks und einen typischen Wirkungsgrad für die Heizleistung.[/latex]",
+                        "[latex]<div>$\\alpha = 25\\,W/kg$\\\\</div><div>$\\eta = 0.8$</div><div>[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "A!_Q./at[n",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wann kann Xenon für ein Widerstandsbeheitztes Triebwerk sinnvoll sein?[/latex]",
+                        "[latex]Wenn ein anderes System (z.B. ein Ionentriebwerk) an Bord ist und Xenon benötigt, kann es für die Massenbilanz günstiger sein, Xenon auch für den Resistojet zu verwenden.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "Ci=-L=lgTh",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie typische Werte für einen Low Power Resistojet. ($T_{max}, p_{max}, \\dot{m}, P, F, F_{kaltgas}$)[/latex]",
+                        "[latex]<div>$T_{max}=773.15\\,K$\\\\<div>$p_{max}=10\\,bar$\\\\</div><div>$P = 50\\,W$\\\\</div><div>$\\dot{m}=58\\,kg/s$\\\\</div><div>$F=76\\,mN$\\\\</div><div>davon Kaltgasschub: $F_{kaltgas}=46\\,mN$</div></div><div>[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "b!(GY#<VG[",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie vor und Nachteile von WTs.[/latex]<br>",
+                        "<img src=\"ERA_2020_04_Resistojets_11.png\">"
+                    ],
+                    "flags": 0,
+                    "guid": "dN{<Q;SgA^",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Welche kontinentaleuropäischen WT fliegen?[/latex]",
+                        "[latex]Keine. Nur welche aus GB von SSLT.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "uYvd^B57Ly",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Welche Einsätze und welche Entwicklungen gibt es zu WTs in der Welt?[/latex]",
+                        "[latex]Siehe Folien...[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "qZGWB+~~y`",
+                    "newlyAdded": false,
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                }
+            ]
         },
         {
             "__type__": "Deck",
