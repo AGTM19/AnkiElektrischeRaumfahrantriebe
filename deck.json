@@ -1102,16 +1102,24 @@
                 "latex-1ddcf95865fae8dddbeb9244d07f474a237e2bb9.png",
                 "latex-20aecc3020805767b3de01c887be628e77063310.png",
                 "latex-24728d9bf58b90b5757f9317aed8aff4a0f6d07c.png",
+                "latex-2add0ac069eb3070e9edbc41d30dd04a167f2349.png",
                 "latex-53fecdd353a455008f12693d747ad1e3ca8abb3d.png",
                 "latex-67ab1b37f7fe81ad8abc60c93d407feb184c47f6.png",
+                "latex-6a3ac057692e086592da1ce599822d62adb4d2bd.png",
                 "latex-759149e5abd74a9e98222e68161abd4bea630689.png",
                 "latex-7a3126d91ca9b31d91748859f1852f5c85e5cf6d.png",
+                "latex-a7ce6bfb259e0b1a027963a9398237eebd360483.png",
+                "latex-b49111232c0f5eceb5ffd7f30bbec930f0a62d0f.png",
+                "latex-b90aea3d73656e7bf46ac3cba2da6a03259f5895.png",
+                "latex-c4e7947d062e28acae378ec42c34dd8a4c64e68c.png",
+                "latex-caf79d65db3303c51b031c2acb836b810dcaabd6.png",
                 "latex-d3865215f0c079a112c8e5bed647ffffa0cd308f.png",
                 "latex-e06bca0b567981842e1421800d7e9a83c00c8b73.png",
                 "latex-e105f76a71d938118ae910cce74b71f788913eba.png",
                 "latex-e42f817bb9a2ff9b1bc0a6ae534578dc388519b5.png",
                 "latex-e46bb48d07e6cfa0b0582182f55141ae0e3abb74.png",
                 "latex-f19a6aa554226f161f027624a083297c36df713f.png",
+                "latex-f6427b3038f0466050f279cc9d3adf1790d6ff61.png",
                 "paste-b479ff9321cafdadde7cb958e0283c0f3fb32f7b.png",
                 "paste-ba7c3152e5d0e9d2f34ce2b8e857b6791dce4b35.jpg",
                 "paste-f0392adbb43b3ec1c98a418a171e95e8d3b47bdd.jpg"
@@ -1185,6 +1193,46 @@
                         "<div>\n<div>\n<div><img src=\"paste-b479ff9321cafdadde7cb958e0283c0f3fb32f7b.png\"></div>\n</div></div>"
                     ],
                     "guid": "g,CR9-SUlq",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Warum kann bei der Betrachtung der Arc-Eigenschaften der Durchgang der Glimmentladung vernachlässigt werden?[/latex]<br>",
+                        "[latex]Der Durchgang durch den Bereich der Glimmentladung muss nicht erfolgen. Es kann direkt ein Durchbruch eines Arcs stattfinden. Ein effizientes Triebwerk strebt das an.[/latex]"
+                    ],
+                    "guid": "fEuXW@mj!;",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wovon hängt die Durchbruchspannung eines Arcs ab?[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Gasdruck</div><div>&nbsp; \\item Elektrodenabstand</div><div>&nbsp; \\item Elektrodenform (beeinflusst E-Feldverteilung</div><div>&nbsp; \\item Gas- und Kathodentemperatur</div><div>&nbsp; \\item Einstrahlungsbedingungen</div><div>\\end{itemize}[/latex]</div>"
+                    ],
+                    "guid": "JV6+pc-(O`",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Was ist die Paschenkurve?[/latex]",
+                        "[latex]1889 stellte Friedrich Paschen experimentell das Paschen-Gesetz auf, das besagt, dass die Durchschlagsspannung bei gegebenem Gas eine Funktion des Produktes aus dem Abstand der Elektroden (Schlagweite) und des Druckes ist. Die Paschenkurve ist die Visualisierung dieses Paschengesetzes.[/latex]"
+                    ],
+                    "guid": "v0.5eufh]s",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Warum ist die Paschenkurve im niedrigen Bereich, so steil? Warum steigt sie später wieder an?[/latex]",
+                        "[latex]Steil am Anfang:\\begin{itemize}<div>&nbsp; \\item Bei konstantem Druck:\\\\Je geringer der Abstand, desto kürzer die Strecke, die Elektronen Beschleunigt werden, bis sie auf der anderen Elektrode auftreffen. Ist die kinetische Energie zu gering, so werden keine Gasteilchen Ionisiert.</div><div>&nbsp; \\item Bei konstantem Abstand:\\\\Je geringer der Druck, desto weniger Teilchen zum Ionisieren stehen zur Verfügung.</div><div>\\end{itemize}</div><div>Später steigt die benötigte Spannung wieder an, da der Widerstand des Gases überwunden werden muss. Also mehr Atome oder mehr Distanz (was irgendwie auch mehr Atome sind).[/latex]</div>"
+                    ],
+                    "guid": "Pc>kU!_mc5",
                     "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
                     "tags": []
                 }
