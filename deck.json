@@ -216,897 +216,6 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "4de1d3e0-a0f4-11ea-878b-b4d5bdceb84f",
-            "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
-            "desc": "",
-            "dyn": 0,
-            "extendNew": 10,
-            "extendRev": 50,
-            "media_files": [
-                "Anmerkung 2020-06-02 115638.png",
-                "ERA_2020_03_GrundlagenThermischerRaketen_14.png",
-                "ERA_2020_03_GrundlagenThermischerRaketen_16.png",
-                "ERA_2020_03_GrundlagenThermischerRaketen_4.png",
-                "ERA_2020_03_GrundlagenThermischerRaketen_8.png",
-                "latex-1c9733ca96acc4765cb7e6b8a130f1ff51180e4b.png",
-                "latex-20e2795333347287443958f44a32525b76356722.png",
-                "latex-22689587e65c2eab7589d888c024653838c757b0.png",
-                "latex-27be786854e6ed7641be2f27f2c7f5ef129b096f.png",
-                "latex-29a8916afb1021b7631acfadf28449cef89d06d4.png",
-                "latex-31630191a7e822164bcdffeb2dbea3854e3d17c6.png",
-                "latex-395b8a392e3888165806e86b1a7088dc4660c63d.png",
-                "latex-3c2861221da512ec99d87097edee01c833de98eb.png",
-                "latex-3c6f7a58ced5f47dfb2e86ea19162b9a127eb548.png",
-                "latex-61d94ec978c2b7e3630a7960f6b1e34be99746f3.png",
-                "latex-6e494286b3eb039fb5da185342d808cc6a2d1f5f.png",
-                "latex-7535c1878cdebc4261022b510d2ba110159d7aa2.png",
-                "latex-79aa90dd3a49dac23a1a9d01f64408cbbf925b80.png",
-                "latex-7aa54f4ec25ca7796ba1181f899673ce79fd7425.png",
-                "latex-7ab4b6e028e00c40ba12fd124c265f88e2e68289.png",
-                "latex-7ba1e4ed8e5fe9b8a6554ad743c87388c207890e.png",
-                "latex-7dadf963608e5da2ac7cd0fb797046bc61a06f6c.png",
-                "latex-7dbe4d7b7f3f10f2a0a23b47482b068949ded687.png",
-                "latex-7ff2a25022d88699713536e15cb4c3f18d0e3f4a.png",
-                "latex-803d0d3e277876a443ab2477a9b2da70536f905f.png",
-                "latex-8d697d85c78a7f762549118b0c785b0f0bab3c23.png",
-                "latex-8f1cf5082b17b6548affdebcf6910b16c588b812.png",
-                "latex-9d5614a01300555a5daf76dad2e7758428f8d5cc.png",
-                "latex-a5ccaaae645ad95a6be8140b4115ec36c0700b71.png",
-                "latex-a776d5299f817c65b835323edc9f04b299e800e2.png",
-                "latex-a79e7325a009ce307ac2fb849fe5e8d60dd29d00.png",
-                "latex-b2db2eb69c49e521c5398306934c3555271d7973.png",
-                "latex-bf6192cb331cc185579a1aee1a745e9f3aaaed4f.png",
-                "latex-bfd5485d336ac11f64acf3e92dacebfee7dae8fb.png",
-                "latex-c0f763fe1a11f2b0656fd7d6474cd94829d19200.png",
-                "latex-c0f830afebef1b51995ab3d7d2945846391afdd3.png",
-                "latex-cbf12cda73f6044871d8ee6e3832c8696257131c.png",
-                "latex-cc356a750f45258458d73ed166e9ad822f89f400.png",
-                "latex-cda4ae85d94b7a2342a57a8ed5d13d4b55bde739.png",
-                "latex-d3b4b38614dfbf664152d64320ac24f4fdb2c619.png",
-                "latex-d401932a74bf8319e7716063a7f27eb1be60c407.png",
-                "latex-d71965406d5be6dae461b229837cd6a2d8f7b90e.png",
-                "latex-d735b9e5919ff919d682a2dfcf2c5a294539a20f.png",
-                "latex-df0ab99340bbf4446cbe7b351b5f04783ddd9900.png",
-                "latex-e1f7af23b57ac9d47b5bb8a081c20e349141e72a.png",
-                "latex-f47957e7872ffb2a50c3977ab8a33865d93e3825.png",
-                "latex-fa625e81f4d4b93ae4795289e39d94eb602a0c7d.png",
-                "latex-fa968bb0a8643f76a5d3c3b1e8be0fc6a16d9b6b.png",
-                "latex-fc0c877076aa5bdd4a887400a47add362327d3c3.png",
-                "latex-fd877e0509efad7746b317cc26bf01815e4f4f61.png",
-                "paste-46daf3b06179102edb753719ac4d59f11bbb57fa.jpg",
-                "paste-a81dc78c1e28fd9bd7f887b0107194cfac28269a.jpg"
-            ],
-            "name": "03 Grundlagen Thermischer Raketen",
-            "notes": [
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Beschreiben Sie das Prinzip thermischer Raketen. Welches Kriterium sollte der Treibstoff qualitativ erfüllen?[/latex]<br>",
-                        "<div><img src=\"ERA_2020_03_GrundlagenThermischerRaketen_4.png\"><br></div>[latex]Treibstoff sollte eine geringe molare Masse haben.[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "MAd^Yaq`9f",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Nennen Sie ein Synonym für Photovoltaisch.[/latex]",
-                        "[latex]Solarelektrisch. (Unnötig, aber hey)[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "DcTNqZsS$,",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Nennen Sie drei unkonventionelle und zwei konventionelle thermische Triebwerksarten.[/latex]",
-                        "[latex]<div>Unkonventionell:</div><div>\\begin{itemize}</div><div>\\item Nuklearthermische Rakete (bsp. NERVA, Poodle)</div><div>\\item Solarthermische Rakete (STP)</div><div>\\item Laserthermische-Antriebe, Mikrowellen</div><div>\\end{itemize}</div><div>Konventionell (Mit solar- oder nuklearelektrischer Energiezufuhr):<br>\\begin{itemize}</div><div>\\item Widerstandsbeheitzte Rakete (\"Resistojet\")</div><div>\\item Lichtbogenbeheitzte Rakete (TLT/\"Arcjet\")</div><div>\\end{itemize}</div><div>[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "j_j*)M#f@i",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was ist im Bezug auf $c_e$ von einem thermischen Triebwerk gefordert? Was begrenzt das $c_e$?[/latex]",
-                        "<div>[latex]</div><div>Wenn man vernachlässigt, dass es für eine gegebene Mission bei einem gegebenen $\\Delta v$ ein optimales $c_e$ gibt, will man von seinem $c_e$ prinzipiell, dass es \\textit{so hoch wie möglich} ist.\\\\</div><div><br></div><div>Die effektive Austrittsgeschwindigkeit wird maßgeblich von der \"Entladungskammer\"-Temperatur $T_0$ bestimmt. Diese Temperatur ist aber begrenzt durch<br>\\begin{itemize}</div><div>\\item den Wärmetauscher (Material/Austausch)</div><div>\\item Brennkammerwände</div><div>\\item Düsenhals</div><div>\\end{itemize}</div><div>Die Materialien sind prinzipiell durch ihre maximal mögliche thermische Belastung begrenzt.</div><div>[/latex]<br></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "JGiX[R/v%#",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Welche Größen haben einen signifikanten Einfluss auf die effektive Austrittsgeschwindigkeit eines thermischen Triebwerks? Leiten Sie die entsprechende Gleichung her und schlussfolgern Sie, wie die größen zu wählen sind um eine möglichst hohe effektive Austrittsgeschwindigkeit zu erhalten. Nehmen Sie expansion gegen Vakuum an und gehen sie von einer stark expandierenden Düse aus.[/latex]",
-                        "<div><img src=\"Anmerkung 2020-06-02 115638.png\"><br></div>[latex]Wenn man $p_a$ (Expansion gegen Vakuum) und $p_E$ (Anpassung der Düse ans Vakuum vernachlässigbar) vernachlässigt, ergibt sich folgender rechenweg.[/latex]<div><img src=\"ERA_2020_03_GrundlagenThermischerRaketen_8.png\"><br></div><div>[latex]Aus der letzten Gleichung ergibt sich, dass die \"Entladungskammer\"-Temperatur $T_0$ möglichst groß und die molare Masse des Treibstoffs $M_A$ möglichst klein sein soll, um eine möglichst hohe effektive Austrittsgeschwindigkeit $c_e$ zu erhalten.[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "mpT0~YvPP7",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wie ist die Proportionalität von $c_e$ zu den wichtigsten beiden einflussnehmenden Größen? Sagen sie etwas zu $\\overline{\\kappa}_{eff}$ und $\\overline{M}_{eff}$.[/latex]<br>",
-                        "[latex]<div>$c_e \\sim \\sqrt{\\dfrac{T_0}{\\overline{M}_{eff}}}$\\\\</div><div>Abhängig durch Ionisation und Dissoziation können sich die molare Masse $M_A$ und Freiheitsgrade $f$ eines Treibstoffs im Durchlauf von \"Entladungskammer\" zu Düsenende ändern. (Letztere haben einen Einfluss auf $\\kappa$. Man kann den effektiven Mittelwert berechenen zwischen Brennkammer und Endquerschnitt.</div><div>[/latex]</div><div><img src=\"paste-a81dc78c1e28fd9bd7f887b0107194cfac28269a.jpg\"><br></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "O>Zy?S/ffK",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Welche Begrenzungen von Materialien druch hohe Temperaturen existieren?[/latex]<br>",
-                        "[latex]<div>\\begin{itemize}</div><div>\\item Festigkeit (Schmelzpunkt, plastische Verformung, Warmfestigkeit(!))</div><div>\\item Dampfdruck, Sublimation</div><div>\\item Thermische Verformungen, (Thermische) Spannungen, Thermal-Schock-Toleranz</div><div>\\item Wärmeleitfähigkeit, Emissionsgrad, ...</div><div>\\item Chemische Reaktionen zwischen Treibstoff und Strukturteilen</div><div>\\item Querschnitte für schnelle und langsame Neutronen, Strahlungsschädigung (bei nuklearthermischen Antrieben)</div><div>\\item Elektrische Leitfähigkeit bei hohen Temperaturen</div><div>\\end{itemize}</div><div>[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "KD<v=Z5aX",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was ist Warmfestigkeit?[/latex]<br>",
-                        "[latex]Die Festigkeit eines Materials bei erhöhten Temperaturen. Wichtig, da in Triebwerken die Temperatur im Allgemeinen sehr hoch ist und das Material so nachgeben kann, obwohl weder der Schmelzpunkt, noch die (bei Raumtemperatur nominelle) maximale Belastung erreicht ist.[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "f(aOl`W$4D",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was ist Thermal-Schock? Nennen Sie ein Material mit schlechter Thermal-Schock-Toleranz.[/latex]",
-                        "[latex]Die Belastung, die durch plötzliche/rapide Änderung der Termperatur entsteht, wie beim Ein- und Ausschalten des Triebwerks.\\\\<div>Beispiel: Aluminium Oxid ($Al_2O_3$); Gute Thermalresistenz und relativ inert. Aber niedrige Thermal-Schock-Resistenz. Kann bei Ein-/Ausschalten des Triebwerks reißen.[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "hB54o7:!dD",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Nennen Sie ein Problem der Auslegung von Triebwerken im Bezug auf Materialien bei hohen Temperaturen.[/latex]",
-                        "[latex]Für Werkstoffe stehen für einige Materialeigenschaften in der Regel keine verlässlichen Daten bei hohen Temperaturen zur Verfügung. (Bsp. Dampfdruck, Sublimation, Wärmeleitfähigkeit, Emissionsgrad, ...)[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "P~foi:z)a^",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was versteht man Werkstofftransition? Nennen Sie ein Beispiel und die Folgen.[/latex]",
-                        "[latex]Eine Werkstofftransition ist eine Veränderung der Struktur eines Werkstoffs. Beispiel Titan. Bei einer Temperatur von etwa 882$\\,$°C geht die Strukur des Materials von hexagonalem $\\alpha$-Titan zu kubisch raumzentriertem $\\beta$-Titan über ($\\beta$-Transus). Dies geht einher mit einer diskreten Änderung einiger Materialeigenschaften wie dem Emissionsgrad)[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "grTT(r{j%M",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Nennen Sie (mit der zugehörigen Schmelztemperatur):<div>\\begin{itemize}</div><div>\\item Eine Superlegierung</div><div>\\item Zwei wichtige Werkstoffe</div><div>\\item Zwei extreme Karbide</div><div>\\item Schmelztemperaturen von Glaskeramik, Wolfram, Graphit</div><div>\\end{itemize}</div><div>Was ist für die Warmfestigkeit im Bezug auf die Schmelztemperatur zu sagen?\\\\Welche besondere Eigenschaft besitzt Graphit hinsichtlich der Schmelztemperatur?</div><div>[/latex]</div>",
-                        "[latex]<div>\\begin{itemize}</div><div>\\item PM1000 (Einsetzbar bis $1573\\,$K)</div><div>\\item Bromnitrit (BN; ca. $3273\\,$K; eingesetzt für Isolierungen), Molybdän (Mo; $2883\\,$K)</div><div>\\item Tantalkarbid (TaC; ca. $4140\\,$K), Hafniumkarbid (HfC; ca. $4160\\,$K)</div><div>\\item Glaskeramik (ca. $1080\\,$K), Wolfram (W; $3653\\,$K), Graphit (C; subl. ca. $3920\\,$K bei $1\\,$bar)</div><div>\\end{itemize}</div><div>Um ausreichend Warmfestigkeit zu gewährleisten sind von den Schmelztemperaturen ein $\\Delta T$ von etwa $300\\,$K abzuziehen.\\\\Graphit schmilzt bei $1\\,$bar nicht, sondern sublimiert direkt.</div><div>[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "i%D[ztI#6}",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Nennen Sie die Temperaturen für vier Thermische Triebwerke.[/latex]<br>",
-                        "<img src=\"ERA_2020_03_GrundlagenThermischerRaketen_14.png\">"
-                    ],
-                    "flags": 0,
-                    "guid": "HNIdqU>{]H",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Nennen Sie allgemeingültige Auswahlkriterien für Treibstoffe.[/latex]",
-                        "<img src=\"ERA_2020_03_GrundlagenThermischerRaketen_16.png\">"
-                    ],
-                    "flags": 0,
-                    "guid": "F+sbBaI7<K",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Sagen Sie qualitativ etwas zur Druckabhängigkeit der effektiven Austrittsgeschwindigkeit.[/latex]",
-                        "<div><img src=\"paste-46daf3b06179102edb753719ac4d59f11bbb57fa.jpg\"><br></div><div>[latex](Diagramm für Wasserstoff)\\\\Mit steigendem Druck, sinkt die theoretisch erreichbare effektive Austrittsgeschwindigkeit. Dies hängt damit zusammen, dass bei niedrigen Drücken die Dissoziation und Ionisation früher eintritt und so die effektive molare Masse sinkt. Und (wie aus vorigen Kapiteln bekannt) mit sinkender effektiver molarer Masse steigt die effektive Austrittsgeschwindigkeit.[/latex]<br></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "kW7{i>rQU1",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was ist der beste Treibstoff für thermische Triebwerke hinsichtlich dre theoretisch maximal erreichbaren effektiven Austrittsgeschwindigkeit?[/latex]",
-                        "[latex]Wasserstoff...[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "Q=l$>Qyedr",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Welche Treibstoffe sind für TLT interessant?[/latex]<br>",
-                        "[latex]<div>\\begin{itemize}</div><div>\\item insbesondere Wasserstoff</div><div>\\item Ammoniak</div><div>\\item Hydrazin</div><div>\\item auch Helium (hohe Schubwirkungsgrade)</div><div>\\end{itemize}<br></div><div>[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "u0b@0d)ybf",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was ist der Unterschied zwischen Eingefrorenen Reaktionen und dem Eingefrorenem Gaszustand?[/latex]",
-                        "[latex]In beiden Fällen läuft die Expansion schneller ab, als die chemischen Reaktionen. Im Falle des Eingefrorenen Gaszustands ist die Expansion auch schneller als die physikalischen Expansionen (zum Beispiel Anteile wie vibronische Relaxation).[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "C?}$t[O(+&",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was sind $\\varepsilon_R$, $\\varepsilon_D$ und $\\varepsilon_I$ und wie stehen sie im Zusammenhang? [/latex]",
-                        "[latex]\\begin{itemize}<div>\\item $\\varepsilon_R$ Reaktionsenergie</div><div>\\item $\\varepsilon_D$ Dissotiationsenergie<br>\\item $\\varepsilon_I$ Ionisationsenergie<br><div>\\end{itemize}</div><div>Die Dissotiationsenergie und die Ionisationsenergie können Teile der Reaktionsenergie sein.[/latex]</div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "Mpz7mG,Y5z",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Von welcher Voraussetzung wird bei der Betrachtung von Nichtgleichgewichtseffekten in thermischen Wasserstoffraketen ausgegangen? Welche Folgen hat das?[/latex]<br>",
-                        "[latex]Es wird vorausgesetzt, dass es keine angeregten Moleküle gibt, sondern ausschließlich \"normalen\", dissoziierten und ionisierten Wasserstoff. Dies hat zur Folge, dass ein Vier-Komponenten-Gas vorliegt.\\\\<div>Die Gleichungen für die Dissoziation und Ionisation lauten\\\\</div><div>$H_2 + \\varepsilon_D \\longleftrightarrow H + H$\\\\</div><div>$H_2 + \\varepsilon_I \\longleftrightarrow H^+ + e^-$\\\\</div><div>Zudem kann davon ausgegangen werden, dass die Ionisation der Dissoziation nachgeschaltet ist. Davon darf ausgegangen werden, da $\\varepsilon_I$ signifikant höher ist als $\\varepsilon_D$.[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "B{*Ikn9QI:",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wie hängen die Ionisations- und Dissoziationstemperaturen qualitativ vom Druck ab?[/latex]<br>",
-                        "[latex]Mit steigendem Druck steigen die benötigten Temperaturen an.[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "DO3MvW=x#v",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wie Berechnet sich der Energieinhalt eines Gases? Wie verändert sich die Gleichung mit eingefrorenen Freiheitsgraden?[/latex]",
-                        "[latex]<div>$E = \\dfrac{f}{2}\\mathfrak{R}T$\\\\</div><div><br></div><div>Mit eingefrorenen Freiheitsgraden gilt:\\\\</div><div>$f = f_1 + f_2$\\\\</div>$E = \\dfrac{f_1}{2}\\mathfrak{R}T_0 + \\dfrac{f_2}{2}\\mathfrak{R}T$\\\\<div><br><div>$f\\,\\,$ Freiheitsgrade\\\\</div><div>$f_1$ Eingefrohrene Freiheitsgrade\\\\</div><div>$f_2$ Wirkliche Freiheitsgrade\\\\</div><div>[/latex]</div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "c3ZU@dW^Il",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wie ist der Thermische Gleichgewichtszustand definiert?[/latex]<br>",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Hin- und Rückreaktionen sind gleichschnell</div><div>&nbsp; \\item aus $T_g$ und $p_g$ lässt sich die Zussammensetzung des Gasgemisches errechnen</div><div>&nbsp; \\item die Gaszusammensetzung hängt auch von der Strömungsgeschwindigkeit ab<br><div>\\end{itemize}[/latex]<br></div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "y7|vE&,&=2",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                }
-            ]
-        },
-        {
-            "__type__": "Deck",
-            "children": [],
-            "crowdanki_uuid": "4de1faac-a0f4-11ea-b2f1-b4d5bdceb84f",
-            "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
-            "desc": "",
-            "dyn": 0,
-            "extendNew": 10,
-            "extendRev": 50,
-            "media_files": [],
-            "name": "06 Thermische Lichtbogentriebwerke",
-            "notes": []
-        },
-        {
-            "__type__": "Deck",
-            "children": [],
-            "crowdanki_uuid": "4de1faa8-a0f4-11ea-bcc6-b4d5bdceb84f",
-            "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
-            "desc": "",
-            "dyn": 0,
-            "extendNew": 10,
-            "extendRev": 50,
-            "media_files": [
-                "latex-09dd0bb6c58fc53c72391ec32b766a1bf1b24a07.png",
-                "latex-1ddcf95865fae8dddbeb9244d07f474a237e2bb9.png",
-                "latex-1ecdc740ab9c49de4397e364186e3bbad7098d06.png",
-                "latex-20aecc3020805767b3de01c887be628e77063310.png",
-                "latex-24728d9bf58b90b5757f9317aed8aff4a0f6d07c.png",
-                "latex-2add0ac069eb3070e9edbc41d30dd04a167f2349.png",
-                "latex-4ddc707b657d3df2706a758c71a5337c80075e85.png",
-                "latex-53fecdd353a455008f12693d747ad1e3ca8abb3d.png",
-                "latex-66d062833345c3e93d3fe5dfa6fe36898df31b26.png",
-                "latex-67ab1b37f7fe81ad8abc60c93d407feb184c47f6.png",
-                "latex-6a3ac057692e086592da1ce599822d62adb4d2bd.png",
-                "latex-759149e5abd74a9e98222e68161abd4bea630689.png",
-                "latex-7a3126d91ca9b31d91748859f1852f5c85e5cf6d.png",
-                "latex-a7ce6bfb259e0b1a027963a9398237eebd360483.png",
-                "latex-b49111232c0f5eceb5ffd7f30bbec930f0a62d0f.png",
-                "latex-b90aea3d73656e7bf46ac3cba2da6a03259f5895.png",
-                "latex-c4e7947d062e28acae378ec42c34dd8a4c64e68c.png",
-                "latex-caf79d65db3303c51b031c2acb836b810dcaabd6.png",
-                "latex-d3865215f0c079a112c8e5bed647ffffa0cd308f.png",
-                "latex-e06bca0b567981842e1421800d7e9a83c00c8b73.png",
-                "latex-e105f76a71d938118ae910cce74b71f788913eba.png",
-                "latex-e42f817bb9a2ff9b1bc0a6ae534578dc388519b5.png",
-                "latex-e46bb48d07e6cfa0b0582182f55141ae0e3abb74.png",
-                "latex-f19a6aa554226f161f027624a083297c36df713f.png",
-                "latex-f6427b3038f0466050f279cc9d3adf1790d6ff61.png",
-                "paste-b479ff9321cafdadde7cb958e0283c0f3fb32f7b.png",
-                "paste-ba7c3152e5d0e9d2f34ce2b8e857b6791dce4b35.jpg",
-                "paste-f0392adbb43b3ec1c98a418a171e95e8d3b47bdd.jpg"
-            ],
-            "name": "05 Grundlagen Lichtbogentriebwerke",
-            "notes": [
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Welche Arten von Lichtbogentriebwerken existieren und wie ist das Wirkungsprinzip? Nennen Sie jeweils Beispiele für Triebwerke am IRS.[/latex]<br>",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Thermisches Lichtbogentriebwerk.\\\\Nutzt Thermische Expansion des Treibstoffs zur Schubgewinnung.\\\\Bsp. ARTUS/TALOS, MARX, HIPARC (stationär)</div><div>&nbsp; \\item Magnetoplasmadynamisches Triebwerk (MPD).\\\\Nutzt Lorenzkraft eines ionisierten Plasmas zur Schuberzeugung.\\\\Bsp. DT-x, ZT-x (stationär); SIMPLEX, ADD-SIMPLEX (instationär/gepulst)</div><div>\\end{itemize}[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "NP>2tJtRPw",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wie wird der Düsenhals eines Arcjets genannt? Warum ist er im Vergleich einer gewählichen Laval-Düse so lang?[/latex]",
-                        "[latex]Restriktor. Um dem Treibstoff Zeit zu geben, die Energie des Arcs aufzunehmen.[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "xH<PYe1_<C",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wie ist das Beschleunigungsprinzip eines Thermischen Lichtbogentriebwekrs?[/latex]",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Der Massenstrom wird im Ulterschallbereich durch den elektrischen Widerstand eines Lichtbogens erhitzt</div><div>&nbsp; \\item Überschalldurchgang in der Nähe des engsten Düsenquerschnitts</div><div>&nbsp; \\item Anschließende Beschleunigungn durch Lavaldüse</div><div>\\end{itemize}</div><div>Aufheizung im Überschallbereich würde zu Verlusten führen. Daher ist Anodenansatz direkt hinter engstem Querschnitt platziert.[/latex]</div><div><img src=\"paste-f0392adbb43b3ec1c98a418a171e95e8d3b47bdd.jpg\"><br></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "crr%A#j6qh",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Warum ist das Erhitzen der Strömung im Überschallbereich (Lavaldüse) schlecht?[/latex]",
-                        "[latex]Durch Erhitzen wird die lokale Schallgeschwindigkeit erhöht. Man geht das Risiko ein, eine Stoßwand zu erzeugen.[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "Kb;^HU+7i{",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wie ist das Beschleunigungsprinzips eines MPDs?[/latex]",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Lichtbogen wird genutzt, um Treibstoff zu ionisieren</div><div>&nbsp; \\item Lorenzkraft (durch Magnetfeld) wird genuzt, um Treibstoff zu beschleunigen\\begin{itemize}</div><div>&nbsp; &nbsp; \\item Eigenfeld MPD\\\\Magnetisches Feld des Lichtbogens wird genuzt.</div><div>&nbsp; &nbsp; \\item Fremdfeld MPD\\\\Zusätzlich wird eine Magnetspule um das Triebwerk gelegt um noch höhere Kräfte zu erzeugen.</div><div>&nbsp; \\end{itemize}</div><div>&nbsp; \\item Anodenansatz sollte am Ende der Düse sein, um Überschall durch magnetische Kräfte zu erzeugen</div><div>&nbsp; \\item Thermische Effekte sind Vernachlässigbar</div><div>\\end{itemize}[/latex]</div><div><img src=\"paste-ba7c3152e5d0e9d2f34ce2b8e857b6791dce4b35.jpg\"><br></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "zHYG~7ZeI_",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Welche Arten der Gasentladung gibt es? Was sind die entsprechenden Charakteristika?[/latex]",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Dunkelentladung (Dark Discharge)\\begin{itemize}</div><div>&nbsp; &nbsp; \\item Kein sichtbares Licht</div><div>&nbsp; &nbsp; \\item Strom entsteht schon durch einwirkung natürlicher radioaktiver Strahlung<br></div>&nbsp; &nbsp; \\item Oberhalb einer Stromstärken-Schwelle kommt es zu einem Kaskaden-Effekt, da durch freigesetzte Elektronen weitere Atome ionisiert werden<div>&nbsp; \\end{itemize}</div><div>&nbsp; \\item Glimmentladung (Glow Discharge)\\begin{itemize}</div><div>&nbsp; &nbsp; \\item Sichtbares Glimmen<br></div><div>&nbsp; &nbsp; \\item Am Anfang der Phase ein negativer differentieller Widerstand<br></div><div>&nbsp; &nbsp; \\item Kathodenfall-Schicht in der Nähe der Kathode.\\\\Lichttarmer Bereich in dem ein starkes Magnetfeld herrscht. Eintreffende Teilchen schlagen weitere Elektronen heraus, die zur erzeugung weiterer Ionen beitragen.<br></div><div>&nbsp; \\end{itemize}</div><div>&nbsp; \\item Bogenentladung (Arc)\\begin{itemize}</div><div>&nbsp; &nbsp; \\item Sichtbarer Lichtbogen<br></div><div>&nbsp; &nbsp; \\item Strom fließt in dünnen Kanälen (Blitze, wegen Pincheffekt)<br></div><div>&nbsp; &nbsp; \\item Sehr hohe Temperaturen, besonders in Elektrodenbereich. Aus Glühenden Kathoden treten Elektronen aus, die Gesamtzahl der freien Elektronen sehr stark erhöht.<br></div><div>&nbsp; \\end{itemize}</div><div>\\end{itemize}[/latex]</div><div><br></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "INg&1$ju=c",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Zeichnen Sie qualitiativ eine Strom-Spannungscharakteristik der Gasentladung. Wovon hängt die Ausprägung der Kurve ab?[/latex]<br>",
-                        "<div>\n<div>\n<div><img src=\"paste-b479ff9321cafdadde7cb958e0283c0f3fb32f7b.png\"></div>\n</div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "g,CR9-SUlq",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Warum kann bei der Betrachtung der Arc-Eigenschaften der Durchgang der Glimmentladung vernachlässigt werden?[/latex]<br>",
-                        "[latex]Der Durchgang durch den Bereich der Glimmentladung muss nicht erfolgen. Es kann direkt ein Durchbruch eines Arcs stattfinden. Ein effizientes Triebwerk strebt das an.[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "fEuXW@mj!;",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wovon hängt die Durchbruchspannung eines Arcs ab?[/latex]",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Gasdruck</div><div>&nbsp; \\item Elektrodenabstand</div><div>&nbsp; \\item Elektrodenform (beeinflusst E-Feldverteilung</div><div>&nbsp; \\item Gas- und Kathodentemperatur</div><div>&nbsp; \\item Einstrahlungsbedingungen</div><div>\\end{itemize}[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "JV6+pc-(O`",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was ist die Paschenkurve?[/latex]",
-                        "[latex]1889 stellte Friedrich Paschen experimentell das Paschen-Gesetz auf, das besagt, dass die Durchschlagsspannung bei gegebenem Gas eine Funktion des Produktes aus dem Abstand der Elektroden (Schlagweite) und des Druckes ist. Die Paschenkurve ist die Visualisierung dieses Paschengesetzes.[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "v0.5eufh]s",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Warum ist die Paschenkurve im niedrigen Bereich, so steil? Warum steigt sie später wieder an?[/latex]",
-                        "[latex]Steil am Anfang:\\begin{itemize}<div>&nbsp; \\item Bei konstantem Druck:\\\\Je geringer der Abstand, desto kürzer die Strecke, die Elektronen Beschleunigt werden, bis sie auf der anderen Elektrode auftreffen. Ist die kinetische Energie zu gering, so werden keine Gasteilchen Ionisiert.</div><div>&nbsp; \\item Bei konstantem Abstand:\\\\Je geringer der Druck, desto weniger Teilchen zum Ionisieren stehen zur Verfügung.</div><div>\\end{itemize}</div><div>Später steigt die benötigte Spannung wieder an, da der Widerstand des Gases überwunden werden muss. Also mehr Atome oder mehr Distanz (was irgendwie auch mehr Atome sind).[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "Pc>kU!_mc5",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was sind typische Spannungsbereiche für einen Lichtbogen bei einem bar Druck und einem Millimeter Abstand (Typisch für Lichtbogentriebwerke)?[/latex]<br>",
-                        "[latex]Um die $4400\\,$V.[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "FY${rl[_de",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wie ist der Aufbau eines Lichtbogens (inklusive Erzeugung)? Was sind die Eigenschaften der Einzelteile und wo werden die Ladungsträger erzeugt?[/latex]",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Kathode\\\\Geladene Elektrode</div><div>&nbsp; \\item Kathodenfallbereich\\\\Bereich mit starkem Elektrischen Feld. Erzeugt Elektronen durch kinetischen Aufschlag von Ladungsträgern. Zieht Ionen an.</div><div>&nbsp; \\item Plasmasäule\\\\Das Meiste vom sichtbaren Lichtbogen</div><div>&nbsp; \\item Anodenfallbereich\\\\Pendant zum Kathodenfallbereich.</div><div>&nbsp; \\item Anode\\\\Geladene Elektrode</div><div>\\end{itemize}</div><div>In den Fallbereichen herrschen hohe elektrische Feldstärken und es herrscht eine nichtlineare Spannung, da in diesen Bereichen die Ladungsträger zur Aufrechterhaltung des Elektronen-/Ionenstroms erzeugt werden. Die Schicht ist sehr dünn; wenige mittlere freie Weglängen.\\\\Die Plasmasäule ist quasineutral, die elektrische Feldstärke ist nahezu konstant und die Spannung verläuft nahezu linear.[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "ES[rjTY0*z",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                }
-            ]
-        },
-        {
-            "__type__": "Deck",
-            "children": [],
-            "crowdanki_uuid": "27715170-9c1e-11ea-bfd1-b4d5bdceb84c",
-            "deck_config_uuid": "4a2a200c-9c13-11ea-8419-b4d5bdceb84c",
-            "desc": "",
-            "dyn": 0,
-            "extendNew": 10,
-            "extendRev": 50,
-            "media_files": [
-                "ERA_2019_01_Einfuehrung(Alt).pptx_15.png",
-                "ERA_2019_01_Einfuehrung(Alt).pptx_26.png",
-                "ERA_2019_01_Einfuehrung(Alt).pptx_33.png",
-                "ERA_2019_01_Einfuehrung(Alt).pptx_34.png",
-                "ERA_2019_01_Einfuehrung(Alt).pptx_35.png",
-                "ERA_2019_01_Einfuehrung(Alt).pptx_36.png",
-                "latex-0150399dfc041fc35097324b8c0f45e3a83694e8.png",
-                "latex-02c0040250d98e7dd57f53fd6c9aee1288067b77.png",
-                "latex-03d77a245943f3b4a9d9098c763b933222d8faca.png",
-                "latex-171f0af359863131fd357714070cec30a0356cb5.png",
-                "latex-1822e183e7475bc4e31f5b02ccafe766a59a742c.png",
-                "latex-1bb5a1ed18038488e28bb0c240a1c6d65b82dbd0.png",
-                "latex-20b6688f3c7f36577a466db53819c0b0dc6ac2bc.png",
-                "latex-299e6441ea8fefa5d4f032dbca79fe7a2cb748fd.png",
-                "latex-32efb527df27667e1611fa10079dbbd5bfecdcf7.png",
-                "latex-442e4e35ef9b9638ab79c4372f3ada514aed6589.png",
-                "latex-44f276caddccbace1b706c9d34c6f43af020678b.png",
-                "latex-454a7dd94a3474602048299ba6cd943dc5e0ab33.png",
-                "latex-4a77a0fbe7d24de2fbe19bfacb5ebeccc910fe78.png",
-                "latex-50785cd3679d587ab082a5cb2f7cf1deb9522bb4.png",
-                "latex-5436401deb759946bf1dd41f6556375f66f1e840.png",
-                "latex-570ad911040ec5a01b301ab6530888e2f4614733.png",
-                "latex-58184ae4345cfda6146daf317ef8db9879d70ac3.png",
-                "latex-5864488532b5ef316e6971a37b15a48e5352a8c6.png",
-                "latex-5de15eaed41b0290057a12fa88c74597eaa3f18f.png",
-                "latex-5ead89922ddaedbdf800cf983f46a0542c7063d9.png",
-                "latex-5f6ded70356f2802fc744c5a3ff62d1de9ce4f7a.png",
-                "latex-6100195cb911b9b6493048675b00a811f49ab982.png",
-                "latex-63c38dd259bc337f3e4f01ad93d613925016bba5.png",
-                "latex-678e5ac10a356e89df61107d41e5e97b23c5ebd7.png",
-                "latex-6cf866799eb38843a42101e1503ad3e16d8dc2fb.png",
-                "latex-6fb829735e25d7d2707c6d07354554c92edc83ed.png",
-                "latex-715717efcf1b57664e1dd1143feee36af6a2e014.png",
-                "latex-750e182dba954475ff6d69b37e6e9e693b629e6f.png",
-                "latex-7c3cae1a6a199de41fb3e3016f75b2570d6b5e9d.png",
-                "latex-7d703446ce68cbc3e2bc1b5d0ccdb1fdde15a3d0.png",
-                "latex-8030092ff5694dafe593494a204270ba230185ab.png",
-                "latex-885d4d7581704af20ece563b37dab68671edb3d5.png",
-                "latex-89b74a42e6c40d08fed3e6079b56b1d68b6d1a1b.png",
-                "latex-93bda1c1f4448ee975c6aa1cbc42b43baf3353ca.png",
-                "latex-968df386df10cb70c7c0f66fba6f0a28ebe0d7b1.png",
-                "latex-a506bbf4cba1b39af8819c1f56a981f0c186945e.png",
-                "latex-a57b00d9c5128cfa11f5c77c6bd1504645afa4e9.png",
-                "latex-b0efcca6dadfa62cfbce60060e233ddf574b4635.png",
-                "latex-b5b194d926e4f8e5850f3f2edd563d804057e72c.png",
-                "latex-c7b5d88cff7b6edd1e93fd87323c70409e7c3e3b.png",
-                "latex-cee6ca1a92d71ac78b211ae3f6a25a14fb70704e.png",
-                "latex-d5f8380b57959289ad9c8833e480b6e851b6feb3.png",
-                "latex-d90af384f8412f87314b4bd6faffa5e0c44ccb41.png",
-                "latex-dfe24d949785f9c46fbd8517dc0d110fb4b4099b.png",
-                "latex-e0138df778cc6dac460302e548a3664704906569.png",
-                "latex-e81ed2a9a112277c6a7892c29a57e746efbf9a1d.png",
-                "latex-efa696156026de8488e13bc962e6d8f4b078e1e3.png",
-                "latex-f0283816b2985d56a3b7d24370d6d81d4187ee06.png",
-                "latex-fa794c9ed62d80f9fe6da6fe578ffbefa2b1caa0.png",
-                "paste-08a5d7019cfa60ca8923dfa80c534acb3915f043.jpg"
-            ],
-            "mid": "1590141564578",
-            "name": "01 Einführung",
-            "notes": [
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wonach werden elektrische Raumfahrtantriebe unterteilt? Nennen Sie drei Kathegorien.[/latex]",
-                        "[latex]Nach der Art, wie der Treibstoff beschleunigt wird:<div>\\begin{itemize}<br>\\item Thermoelektrisch<br><div>\\item Elektrostatisch (landläufig: Ionentriebwerke)</div><div>\\item Magneto-Plasma-Dynamisch</div><div>\\item Hybride</div><div>\\end{itemize}</div>[/latex]<br></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "N75r#~u.tw",
-                    "note_model_uuid": "ceace2a4-9b4e-11ea-b55e-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Nennen und beschreiben Sie kurz die Funktionsweise dreier Kathegorien von Elektrischen Raumfahrtantrieben.[/latex]",
-                        "[latex]<div>\\begin{itemize}<br><div>\\item Thermodynamisch:\nklassische Rakete; die Gas Beschleunigt und klassisch über Geometrie expandiert\n(über Geometrie der Düse)</div>\n<div>\\item Elektrostatisch:\nbeschleunigt mittels Elektrischer Felder geladene Partikel (vor allem&nbsp; Ionen) auf möglichst hohe\nAustrittsgeschwindigkeiten</div>\n<div>\\item Magneto-Plasmadynamisch:\nähnlich wie Elektostatisch nur mit Magnetfeldern -&gt; Lorenzkräften;\nBeschleunigt geladene Partikel im Antriebsplasma nach außen</div><div>\\end{itemize}<br></div>[/latex]<br></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "KD<G4p3z<4",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was ist unter \"Energiebeschränkung\" im Zusammenhang mit chemischen Raketen zu verstehen? Was folgt daraus?[/latex]",
-                        "[latex]Die maximale für die kinietische Energie des\nSchubstrahls verfügbare Energie ist gedeckelt durch die maximal verfügbare\nReaktionsenthalpie des Treibstoffsystems.<br>Folgen: Vergleichsweise niedrige $c_{e}$ für chemische Raketen.[/latex]<br>"
-                    ],
-                    "flags": 0,
-                    "guid": "dhTUxw(n,b",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wofür steht PPT?[/latex]",
-                        "[latex]Pulsed Plasma Thruster[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "u#W7.mV&i3",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Vergleichen Sie qualitativen elektrische und chemische Antrieben im Bezug auf Nutzlast und Missionsdauer.[/latex]",
-                        "[latex]<div>\\begin{itemize}</div><div>\\item Mit Chemisch kommt man schneller an sein Ziel (Bsp. Mond) wegen des hohen\nSchubes. Aber die Nutzlast wird winzig.<div>\\item Mit elektrischen Antrieben kann man einen riesigen Teil an Treibstoff (und\nTank) sparen und seinen Nutzlastanteil signifikant erhöhen. (Dauert z.B. beim Mond aber halt\nJahre, wenn man Pech hat)</div><div>\\end{itemize}[/latex]<br></div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "nKSE(OSi8Q",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Nennen Sie die Gleichung für Massenspezifische Leistungsdichte, eine Systemcharakteristik des Antriebs. Benennen Sie die Größen und ihre Einheiten.\\\\Was folgt unter der Berücksichtigung der Zielkowsky Gleichung und der qualitativen $c_{e}$ unterschiede für den Schub und den benötigten Treibstoffbedarf bei einem gegebenen $\\Delta v$?[/latex]",
-                        "[$]\\alpha = \\frac{P}{m} = \\frac{\\frac{1}{2}Fc_{e}}{m} = \\frac{1}{2}ac_{e}[/$]<br><div>[latex]<br></div><div>$\\alpha$ in $\\frac{\\text{W}}{\\text{kg}}$\\hfill Massenspezifische Leistungsdichte\\\\</div><div>$P$ in W\\hfill Leistung\\\\</div><div>$m$ in kg\\hfill Masse\\\\</div><div>$a$ in $\\frac{\\text{m}}{\\text{s}^2}$\\hfill Beschleunigung\\\\</div><div>$F$ in N\\hfill Schub\\\\</div><div><br></div><div>Aus definition für $\\alpha$ und Zielkowsky folgt:</div><div>\\begin{itemize}</div><div>\\item chemisch: bei niedrigem $c_{e}$; hoher Schub, hoher Treibstoffbedarf</div><div>\\item elektrisch: bei hohem $c_{e}$; niedriger Schub, niedriger Treibstoffbedarf</div><div>\\end{itemize}</div><div>[/latex]<br></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "p,|G_JNL,y",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was bedeutet die Reaktionsenthalpie für das $c_{e}$ der Rakete?[/latex]<br>",
-                        "[latex]Die Reaktionsenthalpie liefert bestenfalls ein Upper-Limit für die Austrittsgeschwindigkeit. In der Realität kommen jedoch noch weitere Verluste zum tragen.[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "wCJ)^uoviA",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Welche Aussage liefert die Massenspezifische Leistungsdichte $\\alpha$?[/latex]<br>",
-                        "[latex]Die Massenspezifische Leistungsdichte ist eine Systemcharekteristik und liefert eine Aussage über die Energieversorgungsanlage des Systems. Beinhaltet Aussage über Energieversorgungsanlage des Antriebs.[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "g9U,[s&eCW",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Nennen Sie jeweils die Begrenzungsart des Antriebsvermögens von chemischen und elektrischen Antriebssystemen.[/latex]",
-                        "[latex]<div>\\begin{itemize}</div><div>\\item chemisch: Energiebegrenzt durch die maximale Reaktionsenthalpie</div><div>\\item elektrisch: Leistungsbegrenzt durch die Leistung, die z.B. ein photovoltaisches System zur Verfügung stellen kann. (Energie hat es prinzipiell unendlich \\#Sonne)</div><div>\\end{itemize}</div><div>[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "BG,|=rB9e$",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wovon wird die Systemarchitektur eines Raumfahrzeugs dominiert? Was folgt daraus?[/latex]",
-                        "[latex]\\textbf{Von dem Missionsziel!} Wir bauen \"Einwegraumfahrzeuge\" die Sonderanfertigungen für gegebene Missionsziele sind und in der Regel nur dazu in der Lage sind, diese eine Mission durchzuführen. Dies ist eine defizitäre Situation.[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "GD4ya+$Jtc",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was ist der wesentliche Unterschied von elektrischen zu chemischen Antrieben?[/latex]",
-                        "[latex]Treibstoff ist von Energiequelle getrennt. Energie wird dem Treibstoff \"von außen\" zugeführt. Treibstoff kann inert sein. Es existieren aber auch Hybridantriebe (z.B. Elektrische Antriebe mit elementen von thermischen)[/latex]<img src=\"ERA_2019_01_Einfuehrung(Alt).pptx_15.png\">"
-                    ],
-                    "flags": 0,
-                    "guid": "tB.GEQ<ymo",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was bedeutet inert?[/latex]",
-                        "[latex]Chemisch nicht aktiv.[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "f*c#|R/|FF",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Nennen Sie Charakteristken elektrischer Raumfahrttriebwerke.[/latex]",
-                        "[latex]<div>\\begin{itemize}</div><div>\\item Aufgrund des Antriebsprinzips kommen mehr Treibstoffe in Frage</div><div>\\item Es können mehr Parameter variiert werden. So ergibt sich eine Envelope in der das Triebwerk betrieben werden kann. (Großer Vorteil)</div><div>\\item Es können sehr hohe $c_{e}$ erzielt werden.</div><div>\\item Schub ist derzeit auf eine Größenordnung um $100\\,$N begrenzt.</div><div>\\item Flächenspezifische Schubdichte ($\\frac{F}{A}$) ist vergleichsweise gering.</div><div>\\item Können erst im Weltraum zum Einsatz kommen (geringes Schubniveau).</div><div>\\end{itemize}</div><div>[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "rp(D(aE[xx",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Nennen Sie klassische Anwendungen für Elektrische Raumfahrtantriebe.[/latex]<br>",
-                        "[latex]<div>\\begin{itemize}</div><div>\\item Wissenschaftliche Missionen\n     mit interplanetaren Flugbahnen (diese Bahnen werden auch hauptsächlich von\n     Wissenschaftlichen Missionen genutzt)</div><div>\\item Sekundäre Aufgaben:\n     Korrekturaufgaben eines sich bereits im Orbit befindlichen Satelliten\n     (z.B. Lage-/Bahnregelung) $\\rightarrow$ Dauer, die ich einen Satelliten\n     korrigieren kann ist bezeichnend für die Lebensdauer des Satelliten $\\rightarrow$ damit verdient man \"echt Geld\".</div><div>\\item Deorbit- Aufgabe $\\rightarrow$ erfüllen des European Code of Conduct mit Hilfe von el. Antrieben einfacher</div><div>\\end{itemize}<br>[/latex]<br></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "C}(W7g4f#&",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Welche Elektrischen Raumfahrtantriebe haben die längste Nutzungshistorie?[/latex]<br>",
-                        "[latex]Die PPT (Pulse Plasma Thruster). Die Russen nutzen diese seit vielen Jahrzehnten für Lage- und Bahnregelung.[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "IF1XZY,:40",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Nennen Sie zwei sehr bekannte elektrische Triebwerke.[/latex]",
-                        "[latex]<div>\\begin{itemize}</div><div>\\item NERVA\\\\Nuclearthermisches System. Erhöhung von $\\alpha$ durch Nutzung eines Kernreaktors. Hat sehr hohes Schubniveau (kann abheben) bei gleichzeitg hohem $c_{e}$ ($&lt;8$ statt $&lt;5$ der chemischen).</div><div>\\item VASIMR $10\\,$kW\\\\Hybridsystem. Trennt die drei Schritte Plasmaerzeugung, -erhitzung und -beschleunigung in Düse. So ist Variation des Verhältnisses $c_{e}$ zu $F$ möglich. Wurde auf ISS getestet.</div><div>\\end{itemize}</div><div>[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "B}mo:VEQL.",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Nennen Sie eine konventionelle und eine unkonventionelle Transferbahn und jeweils Vor- wie Nachteile.[/latex]",
-                        "[latex]<div>\\begin{itemize}</div><div>\\item Hohmanntransfer\\\\Minimaler $\\Delta v$ Bedarf, lange Missionsdauer&nbsp;</div><div>\\item Hochschubbahn\\\\Hoher $\\Delta v$ Bedarf (Schubumkehr notwendig), sehr kurze Missionsdauer</div><div>\\end{itemize}</div><div>[/latex]</div><div><img src=\"ERA_2019_01_Einfuehrung(Alt).pptx_26.png\"><br></div><div><img src=\"paste-08a5d7019cfa60ca8923dfa80c534acb3915f043.jpg\"><br></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "Fb8Khd/U&S",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Nennen Sie einige Wissenschaftliche Missionen zur Erprobung oder mit Nutzung Elektrischer Raumfahrtantriebe und zugehörige Antriebsdaten.[/latex]",
-                        "[latex]<div>\\begin{itemize}</div><div>\\item SFU\\\\erstes MPD Triebwerk im All</div><div>\\end{itemize}</div><div>[/latex]</div><div><img src=\"ERA_2019_01_Einfuehrung(Alt).pptx_33.png\"></div><div>[latex]</div><div><div>\\begin{itemize}</div></div><div>\\item ESEX\\\\Erstes Lichtbogentriebwerk im Hochschubbereich. Dieses Triebwerk kann als Primärtriebwerk aufgefasst werden (in Abgrenzung zu Arcjets für Sekundäraufgaben; $26kW$ statt ca. $1kW$).</div><div><div>\\end{itemize}</div><div>[/latex]</div></div><div><img src=\"ERA_2019_01_Einfuehrung(Alt).pptx_34.png\"><br></div><div>[latex]<div>\\begin{itemize}</div><div>\\item Deep Space I</div><div>\\end{itemize}</div><div>[/latex]</div></div><div><img src=\"ERA_2019_01_Einfuehrung(Alt).pptx_35.png\"><br></div><div>[latex]<div>\\begin{itemize}</div><div>\\item ARTEMIS\\\\Mit zwei Radiofrequenz-Ionentriebwerken (RIT). Durch Fehler in Oberstufe war der Orbit zu niedrig. Die RITs wurden zur Anhebung des Orbits genutzt. Riesen Erfolg da Orbittransfer mit elektrischen Raumfahrtantrieben stattgefunden hat.</div><div>\\end{itemize}</div><div>[/latex]</div></div><div><img src=\"ERA_2019_01_Einfuehrung(Alt).pptx_36.png\"><br></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "qqwgn;ri3=",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wie berechnet man aus den chemischen Eigenschaften eines Treibstoffs sein $c_e$?[/latex]<br>",
-                        "[$]c_e \\approx \\sqrt{\\dfrac{2\\kappa}{\\kappa-1}\\cdot\\dfrac{RT_0}{M_A}}[/$]<div>[latex]</div><div>$M_A$ \\hfill Molare Masse</div><div>[/latex]<br></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "o9D|tbkGj^",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wie sind die Begriffe Niedrig- und Hochschub einzuordnen?[/latex]",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Niedrigschub\\\\</div><div>&nbsp; Wenig Schub, primär für Lage- und Bahnregelung, bis hin zu Niedrigschubbahnen (wie Aufspiralen)</div><div>&nbsp; \\item Hochschub\\\\</div><div>&nbsp; Hoher Schub für Raketenstarts und effiziente Orbitmanöver, wie Hohmann-Transfer oder Hochschubbahnen<br><div>\\end{itemize}[/latex]</div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "z;s=c`(Qnn",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wie ist der Zusammenhang zwischen Massestrom mit effektiver Austrittsgeschwindigkeit und Schub/Leistung eines Triebwerks?[/latex]",
-                        "[latex]$F=\\dot m c_e$\\\\$P=\\frac{1}{2}\\dot m {c_e}^2$[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "qh}*BqS&Nw",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was sind Charakteristiken Thermischer Antriebe?[/latex]",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Bevorzugte Treibstoffwahl: Hohe Wärmekapazität (regenerative Kühlung), kleine Molare Masse (hohes $c_e$)</div><div>&nbsp; \\item Mit $T$ steigt $c_e$. Durch Materialien wird $c_e$ begrenzt; Austrittsgeschwindigkeiten von Elektrischen Antrieben können nicht erreicht werden.</div><div>&nbsp; \\item ...Schub und damit Schubdichte können aber deutlich höher ausfallen</div><div>&nbsp; \\item In der Regel höhere Leistungsdichten. Auch fehlende Wandlung von Energievorrat ist vorteilhaft.</div><div>&nbsp; \\item Thermische Antriebe ernöglichen unkonventionelle Flugbahnen<br><div>\\end{itemize}[/latex]</div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "oyQY(e50Te",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                }
-            ]
-        },
-        {
-            "__type__": "Deck",
-            "children": [],
             "crowdanki_uuid": "27715177-9c1e-11ea-9991-b4d5bdceb84c",
             "deck_config_uuid": "4a2a200c-9c13-11ea-8419-b4d5bdceb84c",
             "desc": "",
@@ -1465,6 +574,1308 @@
                     ],
                     "flags": 0,
                     "guid": "jV:eQBUz>?",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "4de1faa8-a0f4-11ea-bcc6-b4d5bdceb84f",
+            "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [
+                "latex-01898101d79f908bc51b7b6a6950c6e3bd7ac6fa.png",
+                "latex-0304eb2dc5890b407897a1cdc022ea58387f0acd.png",
+                "latex-053423a694427af3159645497ee5dfcaff8b90ce.png",
+                "latex-08293316965f7a9f88f76d2ef33cfb5f927a3389.png",
+                "latex-09da0774fa79b67a7efd5da61c8bfa65fc4dba3d.png",
+                "latex-09dd0bb6c58fc53c72391ec32b766a1bf1b24a07.png",
+                "latex-0f0665406ce5bf5c46d560d0e94b07f6066c756c.png",
+                "latex-0fbcf2979e04ffacb465f1830b0a8fa941659181.png",
+                "latex-145f9b13427b2d8175953fc07d0bf2a0ae767f4c.png",
+                "latex-1ddcf95865fae8dddbeb9244d07f474a237e2bb9.png",
+                "latex-1ecdc740ab9c49de4397e364186e3bbad7098d06.png",
+                "latex-20aecc3020805767b3de01c887be628e77063310.png",
+                "latex-21a22e47db25d99d010b91b39d063a9f7b05bb37.png",
+                "latex-24728d9bf58b90b5757f9317aed8aff4a0f6d07c.png",
+                "latex-2a56b39f7223c4d83d42b7f2c88eb12ebdb86806.png",
+                "latex-2add0ac069eb3070e9edbc41d30dd04a167f2349.png",
+                "latex-2daf8c75c423a26c8572edc95bcf5a7cf99a7114.png",
+                "latex-34fda516ad5a7501d21a880ced9969fc910a950e.png",
+                "latex-3ad18738077d8c7ea4317a0b558c08f19fe10285.png",
+                "latex-3bb4ec599312ac068acb5ad5c6342e35901d5c46.png",
+                "latex-4ddc707b657d3df2706a758c71a5337c80075e85.png",
+                "latex-51495f1b998d3159d6e35d509b5c070b7ecb76b4.png",
+                "latex-53fecdd353a455008f12693d747ad1e3ca8abb3d.png",
+                "latex-550bca284277eddc636ce708540ac9f61099fdd5.png",
+                "latex-56c96aaf95a2acf0b6d1efa965245f6f2ded77ba.png",
+                "latex-5987b0f62ea19c7073226eedb2c19e12fd168b3b.png",
+                "latex-5fc3b457d72f8a5eb6a6535ed653208fd62af59b.png",
+                "latex-62bf1b99c55d60a8ff5019e6138e8349e3728e62.png",
+                "latex-631d90ceab45eedbac5b2e28e46986e63688a12f.png",
+                "latex-66d062833345c3e93d3fe5dfa6fe36898df31b26.png",
+                "latex-67ab1b37f7fe81ad8abc60c93d407feb184c47f6.png",
+                "latex-6a3ac057692e086592da1ce599822d62adb4d2bd.png",
+                "latex-6df2cc7bf0c7fdb02e2d6e9d875d5e5129c71200.png",
+                "latex-73d484906131641a135e8cb5a9525f916822011d.png",
+                "latex-759149e5abd74a9e98222e68161abd4bea630689.png",
+                "latex-7a3126d91ca9b31d91748859f1852f5c85e5cf6d.png",
+                "latex-7db3f50ab75493bdea2f9f463d6e519efbfc1d16.png",
+                "latex-86e64230a7058f4402185457b73dd8e4138b0741.png",
+                "latex-8c1d85ee23c9aee5d97593e34c7e09511a5aa3ba.png",
+                "latex-8dad1d62305933aa430aeff4be86fbd02580a192.png",
+                "latex-8e08715cb3d90fbfbb5e796c17e69431ec1a226e.png",
+                "latex-8e3afca32845fcc329b44185df94cd4d6f79df7f.png",
+                "latex-91331c33b741c7f5a9f45a76f1cdb06ea4cc5f50.png",
+                "latex-941619c96e11628469eedc6c7a2dffca3f2a603e.png",
+                "latex-9d9962e6f24377c0a82a9944a5bebb2c55e01262.png",
+                "latex-9ffa5ef572cd25028504b792c0a958bdce57f6a9.png",
+                "latex-a12240046c176af696a2452838e99280e9ae4482.png",
+                "latex-a1859c13ddb42100c97833ad588d4e7f5b6d150b.png",
+                "latex-a50e681be599feffa8e9960442143eef32a45ab0.png",
+                "latex-a6e4ca040c6700413e8a3c49cb2130e603323e57.png",
+                "latex-a7ce6bfb259e0b1a027963a9398237eebd360483.png",
+                "latex-aeb5d075d8d86700b232edf0479e03efa7bef9d4.png",
+                "latex-aeb838eb989d2689976448e80013451ba5ef29d6.png",
+                "latex-b49111232c0f5eceb5ffd7f30bbec930f0a62d0f.png",
+                "latex-b5d1e818882e39037dc5d1ca10c9eb680cc2c3ee.png",
+                "latex-b8f35423dfdb725ecd0c00ffe756df170524f183.png",
+                "latex-b90aea3d73656e7bf46ac3cba2da6a03259f5895.png",
+                "latex-bb235e50c7e00fba9be64fa3090b2017bc7d9456.png",
+                "latex-bdbf35d5ddcefd9268adc91ce451ceca3d0e1f8d.png",
+                "latex-c4be557e95d36a207d03e951ccf889ee3de6d4c5.png",
+                "latex-c4e7947d062e28acae378ec42c34dd8a4c64e68c.png",
+                "latex-c541a0bf3565e0f560555609b3bbbd3972538c83.png",
+                "latex-c69b0c61bb6f12a446589562c825d1ff9a6e1b9c.png",
+                "latex-ca2cc1abb0fa054683c808240aca89fb07f1a7de.png",
+                "latex-caf79d65db3303c51b031c2acb836b810dcaabd6.png",
+                "latex-cc56c2b7986dfd761431155934482b99e558d26c.png",
+                "latex-d307e302881bbdd09bda89e95488c776e7a2b4c3.png",
+                "latex-d3865215f0c079a112c8e5bed647ffffa0cd308f.png",
+                "latex-d50e7adbe179f5e8a73bd1f2af71688efe1aeacb.png",
+                "latex-d856a6f925dfe4c0630188f78ea8aea0fad68f75.png",
+                "latex-d89531defdfe92505ea65dd53dd90ec7ab2c3d49.png",
+                "latex-e00447cb650ee6f7b997a1613d60260d0df3528e.png",
+                "latex-e06bca0b567981842e1421800d7e9a83c00c8b73.png",
+                "latex-e105f76a71d938118ae910cce74b71f788913eba.png",
+                "latex-e29f1515d899af71e803358e5007d6f3f70f3129.png",
+                "latex-e42f817bb9a2ff9b1bc0a6ae534578dc388519b5.png",
+                "latex-e46bb48d07e6cfa0b0582182f55141ae0e3abb74.png",
+                "latex-ec55faf7061fbdd186c907fbd134128e98b9537c.png",
+                "latex-eedb8c74ac478be10e9cdcd0d021796d451987df.png",
+                "latex-f0105ea93729e9fb758abf0076954c7357250068.png",
+                "latex-f19a6aa554226f161f027624a083297c36df713f.png",
+                "latex-f4d56390fa4b0a37c178a575e4ca0de29ae0841d.png",
+                "latex-f6427b3038f0466050f279cc9d3adf1790d6ff61.png",
+                "latex-ffdde4e689bcbfea99702e7b0e7b5bbc41e84fbb.png",
+                "paste-239e56a1972a4f4e33242dc6357778290eb2ef6b.jpg",
+                "paste-79e3a86a1c3f753cdcd5b86fda6ed2c8599d175e.jpg",
+                "paste-b479ff9321cafdadde7cb958e0283c0f3fb32f7b.png",
+                "paste-ba7c3152e5d0e9d2f34ce2b8e857b6791dce4b35.jpg",
+                "paste-d26cfe652994e102b1ef08a0974e12516de1fb97.jpg",
+                "paste-d4a19217533e167014940336478834afbc50f88a.png",
+                "paste-f0392adbb43b3ec1c98a418a171e95e8d3b47bdd.jpg"
+            ],
+            "name": "05 Grundlagen Lichtbogentriebwerke",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Welche Arten von Lichtbogentriebwerken existieren und wie ist das Wirkungsprinzip? Nennen Sie jeweils Beispiele für Triebwerke am IRS.[/latex]<br>",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Thermisches Lichtbogentriebwerk.\\\\Nutzt Thermische Expansion des Treibstoffs zur Schubgewinnung.\\\\Bsp. ARTUS/TALOS, MARX, HIPARC (stationär)</div><div>&nbsp; \\item Magnetoplasmadynamisches Triebwerk (MPD).\\\\Nutzt Lorenzkraft eines ionisierten Plasmas zur Schuberzeugung.\\\\Bsp. DT-x, ZT-x (stationär); SIMPLEX, ADD-SIMPLEX (instationär/gepulst)</div><div>\\end{itemize}[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "NP>2tJtRPw",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie wird der Düsenhals eines Arcjets genannt? Warum ist er im Vergleich einer gewählichen Laval-Düse so lang?[/latex]",
+                        "[latex]Restriktor. Um dem Treibstoff Zeit zu geben, die Energie des Arcs aufzunehmen.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "xH<PYe1_<C",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie ist das Beschleunigungsprinzip eines Thermischen Lichtbogentriebwekrs?[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Der Massenstrom wird im Ulterschallbereich durch den elektrischen Widerstand eines Lichtbogens erhitzt</div><div>&nbsp; \\item Überschalldurchgang in der Nähe des engsten Düsenquerschnitts</div><div>&nbsp; \\item Anschließende Beschleunigungn durch Lavaldüse</div><div>\\end{itemize}</div><div>Aufheizung im Überschallbereich würde zu Verlusten führen. Daher ist Anodenansatz direkt hinter engstem Querschnitt platziert.[/latex]</div><div><img src=\"paste-f0392adbb43b3ec1c98a418a171e95e8d3b47bdd.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "crr%A#j6qh",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Warum ist das Erhitzen der Strömung im Überschallbereich (Lavaldüse) schlecht?[/latex]",
+                        "[latex]Durch Erhitzen wird die lokale Schallgeschwindigkeit erhöht. Man geht das Risiko ein, eine Stoßwand zu erzeugen.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "Kb;^HU+7i{",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie ist das Beschleunigungsprinzips eines MPDs?[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Lichtbogen wird genutzt, um Treibstoff zu ionisieren</div><div>&nbsp; \\item Lorenzkraft (durch Magnetfeld) wird genuzt, um Treibstoff zu beschleunigen\\begin{itemize}</div><div>&nbsp; &nbsp; \\item Eigenfeld MPD\\\\Magnetisches Feld des Lichtbogens wird genuzt.</div><div>&nbsp; &nbsp; \\item Fremdfeld MPD\\\\Zusätzlich wird eine Magnetspule um das Triebwerk gelegt um noch höhere Kräfte zu erzeugen.</div><div>&nbsp; \\end{itemize}</div><div>&nbsp; \\item Anodenansatz sollte am Ende der Düse sein, um Überschall durch magnetische Kräfte zu erzeugen</div><div>&nbsp; \\item Thermische Effekte sind Vernachlässigbar</div><div>\\end{itemize}[/latex]</div><div><img src=\"paste-ba7c3152e5d0e9d2f34ce2b8e857b6791dce4b35.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "zHYG~7ZeI_",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Welche Arten der Gasentladung gibt es? Was sind die entsprechenden Charakteristika?[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Dunkelentladung (Dark Discharge)\\begin{itemize}</div><div>&nbsp; &nbsp; \\item Kein sichtbares Licht</div><div>&nbsp; &nbsp; \\item Strom entsteht schon durch einwirkung natürlicher radioaktiver Strahlung<br></div>&nbsp; &nbsp; \\item Oberhalb einer Stromstärken-Schwelle kommt es zu einem Kaskaden-Effekt, da durch freigesetzte Elektronen weitere Atome ionisiert werden<div>&nbsp; \\end{itemize}</div><div>&nbsp; \\item Glimmentladung (Glow Discharge)\\begin{itemize}</div><div>&nbsp; &nbsp; \\item Sichtbares Glimmen<br></div><div>&nbsp; &nbsp; \\item Am Anfang der Phase ein negativer differentieller Widerstand<br></div><div>&nbsp; &nbsp; \\item Kathodenfall-Schicht in der Nähe der Kathode.\\\\Lichttarmer Bereich in dem ein starkes Magnetfeld herrscht. Eintreffende Teilchen schlagen weitere Elektronen heraus, die zur erzeugung weiterer Ionen beitragen.<br></div><div>&nbsp; \\end{itemize}</div><div>&nbsp; \\item Bogenentladung (Arc)\\begin{itemize}</div><div>&nbsp; &nbsp; \\item Sichtbarer Lichtbogen<br></div><div>&nbsp; &nbsp; \\item Strom fließt in dünnen Kanälen (Blitze, wegen Pincheffekt)<br></div><div>&nbsp; &nbsp; \\item Sehr hohe Temperaturen, besonders in Elektrodenbereich. Aus Glühenden Kathoden treten Elektronen aus, die Gesamtzahl der freien Elektronen sehr stark erhöht.<br></div><div>&nbsp; \\end{itemize}</div><div>\\end{itemize}[/latex]</div><div><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "INg&1$ju=c",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Zeichnen Sie qualitiativ eine Strom-Spannungscharakteristik der Gasentladung. Wovon hängt die Ausprägung der Kurve ab?[/latex]<br>",
+                        "<div>\n<div>\n<div><img src=\"paste-b479ff9321cafdadde7cb958e0283c0f3fb32f7b.png\"></div>\n</div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "g,CR9-SUlq",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Warum kann bei der Betrachtung der Arc-Eigenschaften der Durchgang der Glimmentladung vernachlässigt werden?[/latex]<br>",
+                        "[latex]Der Durchgang durch den Bereich der Glimmentladung muss nicht erfolgen. Es kann direkt ein Durchbruch eines Arcs stattfinden. Ein effizientes Triebwerk strebt das an.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "fEuXW@mj!;",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wovon hängt die Durchbruchspannung eines Arcs ab?[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Gasdruck</div><div>&nbsp; \\item Elektrodenabstand</div><div>&nbsp; \\item Elektrodenform (beeinflusst E-Feldverteilung</div><div>&nbsp; \\item Gas- und Kathodentemperatur</div><div>&nbsp; \\item Einstrahlungsbedingungen</div><div>\\end{itemize}[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "JV6+pc-(O`",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist die Paschenkurve?[/latex]",
+                        "[latex]1889 stellte Friedrich Paschen experimentell das Paschen-Gesetz auf, das besagt, dass die Durchschlagsspannung bei gegebenem Gas eine Funktion des Produktes aus dem Abstand der Elektroden (Schlagweite) und des Druckes ist. Die Paschenkurve ist die Visualisierung dieses Paschengesetzes.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "v0.5eufh]s",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Warum ist die Paschenkurve im niedrigen Bereich, so steil? Warum steigt sie später wieder an?[/latex]",
+                        "[latex]Steil am Anfang:\\begin{itemize}<div>&nbsp; \\item Bei konstantem Druck:\\\\Je geringer der Abstand, desto kürzer die Strecke, die Elektronen Beschleunigt werden, bis sie auf der anderen Elektrode auftreffen. Ist die kinetische Energie zu gering, so werden keine Gasteilchen Ionisiert.</div><div>&nbsp; \\item Bei konstantem Abstand:\\\\Je geringer der Druck, desto weniger Teilchen zum Ionisieren stehen zur Verfügung.</div><div>\\end{itemize}</div><div>Später steigt die benötigte Spannung wieder an, da der Widerstand des Gases überwunden werden muss. Also mehr Atome oder mehr Distanz (was irgendwie auch mehr Atome sind).[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "Pc>kU!_mc5",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was sind typische Spannungsbereiche für einen Lichtbogen bei einem bar Druck und einem Millimeter Abstand (Typisch für Lichtbogentriebwerke)?[/latex]<br>",
+                        "[latex]Um die $4400\\,$V.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "FY${rl[_de",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie ist der Aufbau eines Lichtbogens (inklusive Erzeugung)? Was sind die Eigenschaften der Einzelteile und wo werden die Ladungsträger erzeugt?[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Kathode\\\\Geladene Elektrode</div><div>&nbsp; \\item Kathodenfallbereich\\\\Bereich mit starkem Elektrischen Feld. Erzeugt Elektronen durch kinetischen Aufschlag von Ladungsträgern. Zieht Ionen an.</div><div>&nbsp; \\item Plasmasäule\\\\Das Meiste vom sichtbaren Lichtbogen</div><div>&nbsp; \\item Anodenfallbereich\\\\Pendant zum Kathodenfallbereich.</div><div>&nbsp; \\item Anode\\\\Geladene Elektrode</div><div>\\end{itemize}</div><div>In den Fallbereichen herrschen hohe elektrische Feldstärken und es herrscht eine nichtlineare Spannung, da in diesen Bereichen die Ladungsträger zur Aufrechterhaltung des Elektronen-/Ionenstroms erzeugt werden. Die Schicht ist sehr dünn; wenige mittlere freie Weglängen.\\\\Die Plasmasäule ist quasineutral, die elektrische Feldstärke ist nahezu konstant und die Spannung verläuft nahezu linear.[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "ES[rjTY0*z",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie verläuft die Strom-Spannungscharakteristik eines Lichtbogens? In welchen Bereichen auf der Kurve befinden sich die TLTs und die MPDs und warum?[/latex]<br>",
+                        "<img src=\"paste-d26cfe652994e102b1ef08a0974e12516de1fb97.jpg\"><div>[latex]\\begin{itemize}</div><div>&nbsp; \\item Thermische Lichtbogen Triebwerke:\\\\Benötigen kein ionisiertes Gas. Ionisieren von Gas sind Verluste, die man nur schlecht wieder bekommt. Darum eher links, sodass gerade genug Ionen existieren, um den Lichtbogen aufrecht zu erhalten. Mit steigendem Ionisationsgrad erhöht sich die Leitfähigkeit (Strom steigt, Spannung fällt)\\\\(Fallende Charakteristik)</div><div>&nbsp; \\item Magnetoplasmadynamische Triebwerke:\\\\Benötigen ein ionisiertes Gas für Beschleunigung. Daher wird von Anfang an ein nahezu vollständig ionisiertes Gas angestrebt. Durch erhöhung der Stromstärke, werden Stromlinien weiter hinausgetragen.\\\\(Steigende Charakteristik)</div><div>\\end{itemize}[/latex]<br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "S$8D`ZRb*",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie zündet man ein TLT?[/latex]",
+                        "[latex]Es werden einige tausend Volt angelegt (Entladungskammerdruck bei einigen bar). Sobald ein Durchbruch stattfindet, muss die Leistung (damit die Spannung) sehr schnell reguliert werden, da das Triebwerk sonst überhitzt.//Hohe Abhängigkeit des Betriebsverhaltens von der Zündelektronik.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "Lbt%Z.7`xK",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie Zündet ein MPD?[/latex]",
+                        "[latex]Betriebsspannung von einigen hundert Volt werden angelegt (Entladungskammerdruck bei $10^{-3}-100\\,$mbar). Diese reicht um einen Durchschlag zu erzielen.\\\\Keine Einfluss der Zündelektronik auf das Betriebsverhalten.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "p?~v].}B1*",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie hängt die Stromdichte mit der Beweglichkeit und der Leitfähigkeit zusammen?[/latex]<br>",
+                        "[latex]Die Stromdichte $\\vec j$ hängt in erster Linie von der Ladungszahl $z$, der Teilchendichte $n$ und der mittleren Geschwindigkeit dieser Teilchen ab. Die mittlere Geschwindigkeit ist mit der \"Beweglichkeit\" $b$ als Vorfaktor direkt proportional zur elektrischen Feldstärke $\\vec E$.\\\\Unter der Annahme einfach ionisierter Teilchen ($z_k=1$) und eines quasineutralen Gases ($n_i = n_e$) kann mit $en_e(b_i+b_e)=\\sigma$ als Leitfähigkeit der Zusammenhang $\\vec j=\\sigma\\vec E$ hergeleitet werden.\\\\Zudem kann gezeigt werden, dass die Beweglichkeit eine Funktion der Teilchenmasse, der Teilchentemperatur und der mittleren freien Weglänge der Teilchen ist. Vergleicht man nun die Beweglichkeit zwischen Ionen und Elektronen, ist zu erkennen, dass das Verhältnis der Stromanteile umgekehrt proportional zur Wurzel des Massenverhältnisses derer ist. Selbst im Falle von Wasserstoff ist die Elektronenbeweglichkeit und damit der Elektronenstrom um faktor 42 größer, als der Ionenstrom.\\\\Vernachlässigt man schlussfolgernd die Beweglichkeit der Ionen, lässt sich die Stromdichte als Funktion der elektrischen Feldstärke und der Leitfähigkeit bestimmen, die wiederum nur eine Funktion der Elektronendichte und -temperatur ist. $\\vec j = \\vec j(\\vec E,n_e,T_e)=\\sigma(n_e,T_e)\\vec E$\\\\All diese Größen lassen sich in der Brennkammer gut messen.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "h-]>`peJiB",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie wird Energie von der Lichtsäule an den Treibstoff übertragen?[/latex]<br>",
+                        "[latex]Elektronen geben Energie an Schwerteilchen durch Stöße ab und erhizen den Treibstoff so.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "d(Ut]Mom.;",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie hängen die Leistung einer Ohmschen Heizung und die Elektromagnetische Kraft vom Strom ab?[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Ohmsche Heizung ~$j^2/\\sigma$</div><div>&nbsp; \\item Elektromagnetische Kraft ~$j\\times B$</div><div>\\end{itemize}[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "wX_{7YCz9E",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Welche Eigenschaften hat die Plasmasäule?[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Quasineutral</div><div>&nbsp; \\item Über Säule weitgehend konstantes Feld</div><div>&nbsp; \\item Thermisches Ungleichgewicht mit $T_e&gt;T_g$</div><div>\\end{itemize}[/latex]</div><div><img src=\"paste-79e3a86a1c3f753cdcd5b86fda6ed2c8599d175e.jpg\"><br></div><div>[latex]TLTs ab $1\\,$bar (eher im Gleichgewichtsbereich)\\\\MPD eher im mbar Bereich; starke Differenzen[/latex]<br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "pn=M|,(EdJ",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie ist die Anhängigkeit des elektrischen Feldes von der Spannung?[/latex]",
+                        "[latex]$E = U/d$[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "d>OF,nSs;-",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wovon hängt die Kathodenfallspannung ab?[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Druck</div><div>&nbsp; \\item Gasart</div><div>&nbsp; \\item Kathodentemperatur</div><div>&nbsp; \\item Kathodenmaterial</div><div>\\end{itemize}</div><div>[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "xIG*pCQ:`#",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was sind Eigenschaften der Kathodenfallschicht?[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Sehr dünn (wenige freie Weglängen)</div><div>&nbsp; \\item Starker Spannungsanstieg ($&lt;10\\,$V)</div><div>&nbsp; \\item Sehr heiß (Lichtbogen um die $20000\\,$K)</div><div>&nbsp; \\item Spannung schwer bestimmbar (Sonden unmöglich wegen dünn und heiß, höchstens optische Verfahren)</div><div>\\end{itemize}[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "m{E1G8VTN>",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wo und auf welche Arten werden Elektronen zur Aufrechterhaltung eines Lichtbogens bereitgestellt? Welche Effekte sind vernachlässigbar?[/latex]",
+                        "[latex]Im Kathodenbereich.\\\\<div>Mechanismen:\\begin{itemize}<div>&nbsp; \\item Thermische Emission</div><div>&nbsp; \\item Feldemission</div><div>&nbsp; \\item Volumenionisation</div><div>\\end{itemize}</div><div>Vernachlässigbar:\\begin{itemize}</div><div>&nbsp; \\item Chemische Effekte</div><div>&nbsp; \\item Ionenbeschuss</div><div>&nbsp; \\item Angeregte Teilchen</div><div>\\end{itemize}[/latex]</div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "N!d,g0Gp_l",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wofon hängt der Elektronenaustrit aus einer metallischen Oberfläche ab?[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Temperatur ($T$)<br><div>&nbsp; \\item Austrittsarbeit ($\\Phi$) (Korrekturfaktor für Material)</div><div>&nbsp; \\item Emissionskonstante (auch Richardsonkonstante) ($A$) (Materialabhängig)<br><div>\\end{itemize}</div><div>$j=AT^2e^{-\\frac{e\\Phi}{kT}}$[/latex]</div></div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "E!>b4~O+Ho",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Welchen Einfluss hat die Austrittsarbeit der Elektronen auf die Temperatur der Elektrode?[/latex]",
+                        "[latex]Die Elektrode wird um den Betrag der Austrittsarbeit gekühlt.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "e:YKkMbz_(",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie ein positiv und ein negativ Beispiel für ein Kathodenmaterial in einem Lichtbogentriebwerk. Welches Material ist Gegenstand von Forschung (Probleme/Potential)?[/latex]",
+                        "[latex]<div>Ungeeignet: Kupfer. Niedrige Schmelztemperatur, hohe Austrittsarbeit (also viel heizen und viele thermische Verluste).\\\\</div><div><br></div><div>Geeignet: Wolfram mit $2\\,$%Thoriumoxid. Hohe Schmelztemperatur, niedrige Austrittsarbeit.\\\\Thorium ist aber leicht Radioaktiv \\#Arbeitsschutz; daher wird oft Tantal anstelle von Thorium verwendet. Nicht ganz so gut, aber okay.\\\\</div><div><br></div><div>Forschung: Kohlenstoff. Sehr hoher Schmelzpunkt bei mäßiger Ionenaustrittsarbeit.\\\\Problem: Reaktionen mit Treibstoff, Erosion.\\\\Potentioal: Sehr lange Lebensdauer.[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "I~bo&nJitL",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie wirkt sich das Gas auf die thermische Emission der Kathode aus?[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Durch Ionen gebildete Grenschicht wirkt hemmend auf Elektronenemission</div><div>&nbsp; \\item Adsorption von Gasatomen verändert Austrittsarbeit</div><div>&nbsp; \\item Herausschlagen von Elektronen aus Oberfläche durch Ionen</div><div>\\end{itemize}[/latex]<br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "OJ>~X`EiKD",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wodurch wird die thermische Austrittsarbeit bei einem gegebenen Metall beeinflusst?[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Materialfehler</div><div>&nbsp; \\item Beimengungen im Metall (Raffiniert oder Verschmuzt)</div><div>&nbsp; \\item Gasart</div><div>&nbsp; \\item Druck</div><div>\\end{itemize}[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "eg6`h)3%A+",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist Feldemission im Zusammenhang des Kathodenfallbereichs?[/latex]",
+                        "[latex]Feldverstärkte Glühemission ist die Elektrodenemission, die in der Kathodenfallschicht infolge eines hohen Elektrischen Feldes zustande kommt. Hat nur bei sehr hohen Feldern einen nennenswerten einfluss (z.B. Zündung TLT).[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "h!mj%`4#0m",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist Thermische Emission im Zusammenhang des Kathodenfallbereichs?[/latex]",
+                        "[latex]Auch Glühemission.\\\\Thermischer Elektronenaustritt aus einer Metallischen Oberfläche. Beim TLT aus der Kathode.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "utQB|#KMvv",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist Volumenionisation im Zusammenhang des Kathodenfallbereichs?[/latex]",
+                        "[latex]Im Kathodenfallgebiet sammeln sich Ionen. Die Ionisation wird ausgelöst durch\\begin{itemize}<div>&nbsp; \\item Axiale Wärmeleitung aus der Säule</div><div>&nbsp; \\item Ohmsche Heizung in der Schicht</div><div>&nbsp; \\item Restenergie der Ionen, die an Kathode reflektiert werden.</div><div>\\end{itemize}</div><div>Die emittierten Elektronen wandern dann zur Anode, Ionen zur Kathode und erhitzen diese.\\\\</div><div><br></div><div>Nur durch die Energie, die durch den Aufschlag der Ionen an die Kathode gegeben wird, muss die Kathode nicht geheizt werden.</div><div>[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "nT*2^C2+FB",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Welche beiden Kriterien bei der Kathodenauslegung sind wichtig?[/latex]",
+                        "[latex]Erosion der Kathode. (Temperaturabhängig!)\\\\Keine Materialveränderung im Dauerbetrieb.\\\\<div><br></div><div>Gerade beim Starten ist die Kathode noch kalt. Wenn dann die ersten Blitze überschlagen, bilden sich Brennflecken, da Material herausgeschlagen wird.[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "p?X[i9ir6!",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist eine kalte Kathode? Welche Probleme treten auf?[/latex]",
+                        "[latex]Eine Kathode im niedrigen Temperaturbereich. Zu finden ist sie bei gepulsten Lichtbogengeräten und beim Zündvorgang kontinuierlich betriebener Geräte.\\\\Der Übergang zur heißen Kathode findet Sprunghaft mit einem Spannungsrückgang statt.\\\\<div><br></div><div>Durch lokale Temperaturerhöungn entstehen instabile Brennflecken im Zeitbereich von $10^{-9}\\,$s, die von der Spitze nach hinten laufen. Durch die lokalen Belastungen durch hohe Ionenstromdichten und hohe Dampfdrücke entstehen:\\begin{itemize}</div><div>&nbsp; \\item große Erosion&nbsp;</div><div>&nbsp; \\item Schmelzen</div><div>&nbsp; \\item Kraterbildung auf</div><div>\\end{itemize}</div><div>der Kathode.[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "iV`ufJ.CWF",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist eine heiße Kathode? Welche Größe ist für einen stabilen Erhalt wichtig? Worauf muss sonst geachtet werden?[/latex]",
+                        "[latex]Der Betriebsbereich einer Kathode im hohen Temperaturbereich. Gekennzeichnet ist sie durch ein diffuses Ansetzen der Lichtbögen gekennzeichnet ist; so kommt es nicht zu lokalen Brennflecken. Eine heiße Kathode trifft man bei dauerbetriebenen Lichtbogengeräten an\\\\<div><br></div><div>Der Druck ist wichtig; bei zu niedrig gibt es Probleme am Anoden-Lichtbogenansatz, zu hoch greift der Lichtbogen zu lokal an der Kathode an und es kommt wieder zu Brennflecken.\\\\</div><div><br></div><div>Ansonsten darf der Massendurchsatz nicht zu hoch sein, da die Kathode sonst zu sehr gekühlt wird \\#Kalte Kathode. Auch geringe Spuren von Sauerstoff führen zu drastischer Erosion. (Mit Abstand höchste Erosion tritt sonst beim Zünden auf.[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "bG,WJZ1Se1",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist Sekundär Hydrazin?[/latex]",
+                        "[latex]Ein Gasgemisch aus N$_2$ und H$_2$, das aus den Einzelkomponenten von Hydrazin besteht und als Workaround genutzt wird, um an der Uni nicht mit giftigem Hydrazin arbeiten zu müssen.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "bqkM,M[d5}",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist Sublimation? Wo ist die Problemstellung bein Lichtbogentriebwerken?[/latex]",
+                        "[latex]Direkter Übergang vom festen zum gasförmigen Aggregatszustand.\\\\<div>Die Kathode sublimiert bei zu hohen Temperaturen. Zahlenbereich bei gereinigtem Treibstoff $E_r = 1\\,$ng/C.\\\\Lösungsansätze wären ein Erhöhen des Brennkammerdrucks (was aber wieder zu weiteren Problemen führt). Bei MPDs ist das keine Lösung, da vollständige Ionisation erreicht werden soll. Temperatur kann auch nicht verringert werden, da Elektrodenemission weiterhin gewährleistet sein muss.[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "M9x`i*`2^h",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist die Aufgabe der Anode in einem Lichtbogentriebwerk? Wie erfüllt sie diese?[/latex]",
+                        "[latex]Erzeugungn von Ionen zur Aufrechterhaltung der Quasineutralität des Plasmas.\\\\<div>Erreicht das durch:\\begin{itemize}</div><div>&nbsp; \\item Elektronenstoß mit Neutralteilchen (Anstieg der Anodenfallspannung)</div><div>&nbsp; \\item Verdampfung und Ionisation von Anodenmaterial (führt zu schwerer Erosion und ist zu vermeiden; daher diffuser Lichtbogenansatz)</div><div>\\end{itemize}[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "fced(VErO4",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Durch welche Mechanismen wird die Anode aufgeheizt? Welche Auswirkungen hat die Aufheizung der Anode auf das Gesamttriebwerk?[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Ohmsche Heizung in Kathodenfallschicht</div><div>&nbsp; \\item Enthalpie die Elektronen mitbringen (und Austrittsarbeit)</div><div>&nbsp; \\item Wärmeübergang durch Treibstoff oder Lichtbogen<br><div>\\end{itemize}</div><div>Aufheizung ist (nach eingefrorenen Strömungseffekten) die zweitgrößte Quelle für Verluste. Durch regenerative Kühlung kann ein Teil wieder eingefangen werden.\\\\Zudem führt zu großer Erhitzung zu Verkürzung der Lebensdauer.[/latex]</div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "dHzG9UY<dz",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Welche Effekte führen zu Anodenersion?[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Großflächiges Aufschmelzen und Erweiterung des Düsenhalses</div><div>&nbsp; \\item Erstarrtes Auswufmaterial genannter Aufschmelzung</div><div>&nbsp; \\item Lichtbogenansatz beim Übergang in den stationären Betrieb</div><div>\\end{itemize}[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "iW?l],a1:W",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Welche Gleichungen benötigt man unter vereinfachenden Annahmen für die Berechnung der axialen Geschwindigkeitszunahme?[/latex]",
+                        "<div>\n<div>\n<div><img src=\"paste-d4a19217533e167014940336478834afbc50f88a.png\"></div><div>[latex]Unter den Annahmen:[/latex]<br></div><div><img src=\"paste-239e56a1972a4f4e33242dc6357778290eb2ef6b.jpg\"><br></div>\n</div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "A6s%;.)mWv",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Welche Effekte haben Einfluss auf die Treibstoffbeschleunigung? In welche Richtung wirken sie im Unter-/Überschallbereich.[/latex]<br>",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Ohmsche Heizung (Beschleunigend für Unterschall, Bremsend für Überschall)</div><div>&nbsp; \\item Elektromagnetische Kraft (Bremsend für Unterschall, Beschleunigend für Überschall)</div><div>&nbsp; \\item Düsenkontur (jenachdem; siehe Strömungslehre)<br><div>\\end{itemize}[/latex]</div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "L{KM7lNNnb",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "27715170-9c1e-11ea-bfd1-b4d5bdceb84c",
+            "deck_config_uuid": "4a2a200c-9c13-11ea-8419-b4d5bdceb84c",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [
+                "ERA_2019_01_Einfuehrung(Alt).pptx_15.png",
+                "ERA_2019_01_Einfuehrung(Alt).pptx_26.png",
+                "ERA_2019_01_Einfuehrung(Alt).pptx_33.png",
+                "ERA_2019_01_Einfuehrung(Alt).pptx_34.png",
+                "ERA_2019_01_Einfuehrung(Alt).pptx_35.png",
+                "ERA_2019_01_Einfuehrung(Alt).pptx_36.png",
+                "latex-0150399dfc041fc35097324b8c0f45e3a83694e8.png",
+                "latex-02c0040250d98e7dd57f53fd6c9aee1288067b77.png",
+                "latex-03d77a245943f3b4a9d9098c763b933222d8faca.png",
+                "latex-171f0af359863131fd357714070cec30a0356cb5.png",
+                "latex-1822e183e7475bc4e31f5b02ccafe766a59a742c.png",
+                "latex-1bb5a1ed18038488e28bb0c240a1c6d65b82dbd0.png",
+                "latex-20b6688f3c7f36577a466db53819c0b0dc6ac2bc.png",
+                "latex-299e6441ea8fefa5d4f032dbca79fe7a2cb748fd.png",
+                "latex-32efb527df27667e1611fa10079dbbd5bfecdcf7.png",
+                "latex-442e4e35ef9b9638ab79c4372f3ada514aed6589.png",
+                "latex-44f276caddccbace1b706c9d34c6f43af020678b.png",
+                "latex-454a7dd94a3474602048299ba6cd943dc5e0ab33.png",
+                "latex-4a77a0fbe7d24de2fbe19bfacb5ebeccc910fe78.png",
+                "latex-50785cd3679d587ab082a5cb2f7cf1deb9522bb4.png",
+                "latex-5436401deb759946bf1dd41f6556375f66f1e840.png",
+                "latex-570ad911040ec5a01b301ab6530888e2f4614733.png",
+                "latex-58184ae4345cfda6146daf317ef8db9879d70ac3.png",
+                "latex-5864488532b5ef316e6971a37b15a48e5352a8c6.png",
+                "latex-5de15eaed41b0290057a12fa88c74597eaa3f18f.png",
+                "latex-5ead89922ddaedbdf800cf983f46a0542c7063d9.png",
+                "latex-5f6ded70356f2802fc744c5a3ff62d1de9ce4f7a.png",
+                "latex-6100195cb911b9b6493048675b00a811f49ab982.png",
+                "latex-63c38dd259bc337f3e4f01ad93d613925016bba5.png",
+                "latex-678e5ac10a356e89df61107d41e5e97b23c5ebd7.png",
+                "latex-6cf866799eb38843a42101e1503ad3e16d8dc2fb.png",
+                "latex-6fb829735e25d7d2707c6d07354554c92edc83ed.png",
+                "latex-715717efcf1b57664e1dd1143feee36af6a2e014.png",
+                "latex-750e182dba954475ff6d69b37e6e9e693b629e6f.png",
+                "latex-7c3cae1a6a199de41fb3e3016f75b2570d6b5e9d.png",
+                "latex-7d703446ce68cbc3e2bc1b5d0ccdb1fdde15a3d0.png",
+                "latex-8030092ff5694dafe593494a204270ba230185ab.png",
+                "latex-885d4d7581704af20ece563b37dab68671edb3d5.png",
+                "latex-89b74a42e6c40d08fed3e6079b56b1d68b6d1a1b.png",
+                "latex-93bda1c1f4448ee975c6aa1cbc42b43baf3353ca.png",
+                "latex-968df386df10cb70c7c0f66fba6f0a28ebe0d7b1.png",
+                "latex-a506bbf4cba1b39af8819c1f56a981f0c186945e.png",
+                "latex-a57b00d9c5128cfa11f5c77c6bd1504645afa4e9.png",
+                "latex-b0efcca6dadfa62cfbce60060e233ddf574b4635.png",
+                "latex-b5b194d926e4f8e5850f3f2edd563d804057e72c.png",
+                "latex-c7b5d88cff7b6edd1e93fd87323c70409e7c3e3b.png",
+                "latex-cee6ca1a92d71ac78b211ae3f6a25a14fb70704e.png",
+                "latex-d5f8380b57959289ad9c8833e480b6e851b6feb3.png",
+                "latex-d90af384f8412f87314b4bd6faffa5e0c44ccb41.png",
+                "latex-dfe24d949785f9c46fbd8517dc0d110fb4b4099b.png",
+                "latex-e0138df778cc6dac460302e548a3664704906569.png",
+                "latex-e81ed2a9a112277c6a7892c29a57e746efbf9a1d.png",
+                "latex-efa696156026de8488e13bc962e6d8f4b078e1e3.png",
+                "latex-f0283816b2985d56a3b7d24370d6d81d4187ee06.png",
+                "latex-fa794c9ed62d80f9fe6da6fe578ffbefa2b1caa0.png",
+                "paste-08a5d7019cfa60ca8923dfa80c534acb3915f043.jpg"
+            ],
+            "mid": "1590141564578",
+            "name": "01 Einführung",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wonach werden elektrische Raumfahrtantriebe unterteilt? Nennen Sie drei Kathegorien.[/latex]",
+                        "[latex]Nach der Art, wie der Treibstoff beschleunigt wird:<div>\\begin{itemize}<br>\\item Thermoelektrisch<br><div>\\item Elektrostatisch (landläufig: Ionentriebwerke)</div><div>\\item Magneto-Plasma-Dynamisch</div><div>\\item Hybride</div><div>\\end{itemize}</div>[/latex]<br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "N75r#~u.tw",
+                    "note_model_uuid": "ceace2a4-9b4e-11ea-b55e-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen und beschreiben Sie kurz die Funktionsweise dreier Kathegorien von Elektrischen Raumfahrtantrieben.[/latex]",
+                        "[latex]<div>\\begin{itemize}<br><div>\\item Thermodynamisch:\nklassische Rakete; die Gas Beschleunigt und klassisch über Geometrie expandiert\n(über Geometrie der Düse)</div>\n<div>\\item Elektrostatisch:\nbeschleunigt mittels Elektrischer Felder geladene Partikel (vor allem&nbsp; Ionen) auf möglichst hohe\nAustrittsgeschwindigkeiten</div>\n<div>\\item Magneto-Plasmadynamisch:\nähnlich wie Elektostatisch nur mit Magnetfeldern -&gt; Lorenzkräften;\nBeschleunigt geladene Partikel im Antriebsplasma nach außen</div><div>\\end{itemize}<br></div>[/latex]<br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "KD<G4p3z<4",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist unter \"Energiebeschränkung\" im Zusammenhang mit chemischen Raketen zu verstehen? Was folgt daraus?[/latex]",
+                        "[latex]Die maximale für die kinietische Energie des\nSchubstrahls verfügbare Energie ist gedeckelt durch die maximal verfügbare\nReaktionsenthalpie des Treibstoffsystems.<br>Folgen: Vergleichsweise niedrige $c_{e}$ für chemische Raketen.[/latex]<br>"
+                    ],
+                    "flags": 0,
+                    "guid": "dhTUxw(n,b",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wofür steht PPT?[/latex]",
+                        "[latex]Pulsed Plasma Thruster[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "u#W7.mV&i3",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Vergleichen Sie qualitativen elektrische und chemische Antrieben im Bezug auf Nutzlast und Missionsdauer.[/latex]",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item Mit Chemisch kommt man schneller an sein Ziel (Bsp. Mond) wegen des hohen\nSchubes. Aber die Nutzlast wird winzig.<div>\\item Mit elektrischen Antrieben kann man einen riesigen Teil an Treibstoff (und\nTank) sparen und seinen Nutzlastanteil signifikant erhöhen. (Dauert z.B. beim Mond aber halt\nJahre, wenn man Pech hat)</div><div>\\end{itemize}[/latex]<br></div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "nKSE(OSi8Q",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie die Gleichung für Massenspezifische Leistungsdichte, eine Systemcharakteristik des Antriebs. Benennen Sie die Größen und ihre Einheiten.\\\\Was folgt unter der Berücksichtigung der Zielkowsky Gleichung und der qualitativen $c_{e}$ unterschiede für den Schub und den benötigten Treibstoffbedarf bei einem gegebenen $\\Delta v$?[/latex]",
+                        "[$]\\alpha = \\frac{P}{m} = \\frac{\\frac{1}{2}Fc_{e}}{m} = \\frac{1}{2}ac_{e}[/$]<br><div>[latex]<br></div><div>$\\alpha$ in $\\frac{\\text{W}}{\\text{kg}}$\\hfill Massenspezifische Leistungsdichte\\\\</div><div>$P$ in W\\hfill Leistung\\\\</div><div>$m$ in kg\\hfill Masse\\\\</div><div>$a$ in $\\frac{\\text{m}}{\\text{s}^2}$\\hfill Beschleunigung\\\\</div><div>$F$ in N\\hfill Schub\\\\</div><div><br></div><div>Aus definition für $\\alpha$ und Zielkowsky folgt:</div><div>\\begin{itemize}</div><div>\\item chemisch: bei niedrigem $c_{e}$; hoher Schub, hoher Treibstoffbedarf</div><div>\\item elektrisch: bei hohem $c_{e}$; niedriger Schub, niedriger Treibstoffbedarf</div><div>\\end{itemize}</div><div>[/latex]<br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "p,|G_JNL,y",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was bedeutet die Reaktionsenthalpie für das $c_{e}$ der Rakete?[/latex]<br>",
+                        "[latex]Die Reaktionsenthalpie liefert bestenfalls ein Upper-Limit für die Austrittsgeschwindigkeit. In der Realität kommen jedoch noch weitere Verluste zum tragen.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "wCJ)^uoviA",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Welche Aussage liefert die Massenspezifische Leistungsdichte $\\alpha$?[/latex]<br>",
+                        "[latex]Die Massenspezifische Leistungsdichte ist eine Systemcharekteristik und liefert eine Aussage über die Energieversorgungsanlage des Systems. Beinhaltet Aussage über Energieversorgungsanlage des Antriebs.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "g9U,[s&eCW",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie jeweils die Begrenzungsart des Antriebsvermögens von chemischen und elektrischen Antriebssystemen.[/latex]",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item chemisch: Energiebegrenzt durch die maximale Reaktionsenthalpie</div><div>\\item elektrisch: Leistungsbegrenzt durch die Leistung, die z.B. ein photovoltaisches System zur Verfügung stellen kann. (Energie hat es prinzipiell unendlich \\#Sonne)</div><div>\\end{itemize}</div><div>[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "BG,|=rB9e$",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wovon wird die Systemarchitektur eines Raumfahrzeugs dominiert? Was folgt daraus?[/latex]",
+                        "[latex]\\textbf{Von dem Missionsziel!} Wir bauen \"Einwegraumfahrzeuge\" die Sonderanfertigungen für gegebene Missionsziele sind und in der Regel nur dazu in der Lage sind, diese eine Mission durchzuführen. Dies ist eine defizitäre Situation.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "GD4ya+$Jtc",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist der wesentliche Unterschied von elektrischen zu chemischen Antrieben?[/latex]",
+                        "[latex]Treibstoff ist von Energiequelle getrennt. Energie wird dem Treibstoff \"von außen\" zugeführt. Treibstoff kann inert sein. Es existieren aber auch Hybridantriebe (z.B. Elektrische Antriebe mit elementen von thermischen)[/latex]<img src=\"ERA_2019_01_Einfuehrung(Alt).pptx_15.png\">"
+                    ],
+                    "flags": 0,
+                    "guid": "tB.GEQ<ymo",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was bedeutet inert?[/latex]",
+                        "[latex]Chemisch nicht aktiv.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "f*c#|R/|FF",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie Charakteristken elektrischer Raumfahrttriebwerke.[/latex]",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item Aufgrund des Antriebsprinzips kommen mehr Treibstoffe in Frage</div><div>\\item Es können mehr Parameter variiert werden. So ergibt sich eine Envelope in der das Triebwerk betrieben werden kann. (Großer Vorteil)</div><div>\\item Es können sehr hohe $c_{e}$ erzielt werden.</div><div>\\item Schub ist derzeit auf eine Größenordnung um $100\\,$N begrenzt.</div><div>\\item Flächenspezifische Schubdichte ($\\frac{F}{A}$) ist vergleichsweise gering.</div><div>\\item Können erst im Weltraum zum Einsatz kommen (geringes Schubniveau).</div><div>\\end{itemize}</div><div>[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "rp(D(aE[xx",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie klassische Anwendungen für Elektrische Raumfahrtantriebe.[/latex]<br>",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item Wissenschaftliche Missionen\n     mit interplanetaren Flugbahnen (diese Bahnen werden auch hauptsächlich von\n     Wissenschaftlichen Missionen genutzt)</div><div>\\item Sekundäre Aufgaben:\n     Korrekturaufgaben eines sich bereits im Orbit befindlichen Satelliten\n     (z.B. Lage-/Bahnregelung) $\\rightarrow$ Dauer, die ich einen Satelliten\n     korrigieren kann ist bezeichnend für die Lebensdauer des Satelliten $\\rightarrow$ damit verdient man \"echt Geld\".</div><div>\\item Deorbit- Aufgabe $\\rightarrow$ erfüllen des European Code of Conduct mit Hilfe von el. Antrieben einfacher</div><div>\\end{itemize}<br>[/latex]<br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "C}(W7g4f#&",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Welche Elektrischen Raumfahrtantriebe haben die längste Nutzungshistorie?[/latex]<br>",
+                        "[latex]Die PPT (Pulse Plasma Thruster). Die Russen nutzen diese seit vielen Jahrzehnten für Lage- und Bahnregelung.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "IF1XZY,:40",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie zwei sehr bekannte elektrische Triebwerke.[/latex]",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item NERVA\\\\Nuclearthermisches System. Erhöhung von $\\alpha$ durch Nutzung eines Kernreaktors. Hat sehr hohes Schubniveau (kann abheben) bei gleichzeitg hohem $c_{e}$ ($&lt;8$ statt $&lt;5$ der chemischen).</div><div>\\item VASIMR $10\\,$kW\\\\Hybridsystem. Trennt die drei Schritte Plasmaerzeugung, -erhitzung und -beschleunigung in Düse. So ist Variation des Verhältnisses $c_{e}$ zu $F$ möglich. Wurde auf ISS getestet.</div><div>\\end{itemize}</div><div>[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "B}mo:VEQL.",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie eine konventionelle und eine unkonventionelle Transferbahn und jeweils Vor- wie Nachteile.[/latex]",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item Hohmanntransfer\\\\Minimaler $\\Delta v$ Bedarf, lange Missionsdauer&nbsp;</div><div>\\item Hochschubbahn\\\\Hoher $\\Delta v$ Bedarf (Schubumkehr notwendig), sehr kurze Missionsdauer</div><div>\\end{itemize}</div><div>[/latex]</div><div><img src=\"ERA_2019_01_Einfuehrung(Alt).pptx_26.png\"><br></div><div><img src=\"paste-08a5d7019cfa60ca8923dfa80c534acb3915f043.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "Fb8Khd/U&S",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie einige Wissenschaftliche Missionen zur Erprobung oder mit Nutzung Elektrischer Raumfahrtantriebe und zugehörige Antriebsdaten.[/latex]",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item SFU\\\\erstes MPD Triebwerk im All</div><div>\\end{itemize}</div><div>[/latex]</div><div><img src=\"ERA_2019_01_Einfuehrung(Alt).pptx_33.png\"></div><div>[latex]</div><div><div>\\begin{itemize}</div></div><div>\\item ESEX\\\\Erstes Lichtbogentriebwerk im Hochschubbereich. Dieses Triebwerk kann als Primärtriebwerk aufgefasst werden (in Abgrenzung zu Arcjets für Sekundäraufgaben; $26kW$ statt ca. $1kW$).</div><div><div>\\end{itemize}</div><div>[/latex]</div></div><div><img src=\"ERA_2019_01_Einfuehrung(Alt).pptx_34.png\"><br></div><div>[latex]<div>\\begin{itemize}</div><div>\\item Deep Space I</div><div>\\end{itemize}</div><div>[/latex]</div></div><div><img src=\"ERA_2019_01_Einfuehrung(Alt).pptx_35.png\"><br></div><div>[latex]<div>\\begin{itemize}</div><div>\\item ARTEMIS\\\\Mit zwei Radiofrequenz-Ionentriebwerken (RIT). Durch Fehler in Oberstufe war der Orbit zu niedrig. Die RITs wurden zur Anhebung des Orbits genutzt. Riesen Erfolg da Orbittransfer mit elektrischen Raumfahrtantrieben stattgefunden hat.</div><div>\\end{itemize}</div><div>[/latex]</div></div><div><img src=\"ERA_2019_01_Einfuehrung(Alt).pptx_36.png\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "qqwgn;ri3=",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie berechnet man aus den chemischen Eigenschaften eines Treibstoffs sein $c_e$?[/latex]<br>",
+                        "[$]c_e \\approx \\sqrt{\\dfrac{2\\kappa}{\\kappa-1}\\cdot\\dfrac{RT_0}{M_A}}[/$]<div>[latex]</div><div>$M_A$ \\hfill Molare Masse</div><div>[/latex]<br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "o9D|tbkGj^",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie sind die Begriffe Niedrig- und Hochschub einzuordnen?[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Niedrigschub\\\\</div><div>&nbsp; Wenig Schub, primär für Lage- und Bahnregelung, bis hin zu Niedrigschubbahnen (wie Aufspiralen)</div><div>&nbsp; \\item Hochschub\\\\</div><div>&nbsp; Hoher Schub für Raketenstarts und effiziente Orbitmanöver, wie Hohmann-Transfer oder Hochschubbahnen<br><div>\\end{itemize}[/latex]</div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "z;s=c`(Qnn",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie ist der Zusammenhang zwischen Massestrom mit effektiver Austrittsgeschwindigkeit und Schub/Leistung eines Triebwerks?[/latex]",
+                        "[latex]$F=\\dot m c_e$\\\\$P=\\frac{1}{2}\\dot m {c_e}^2$[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "qh}*BqS&Nw",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was sind Charakteristiken Thermischer Antriebe?[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Bevorzugte Treibstoffwahl: Hohe Wärmekapazität (regenerative Kühlung), kleine Molare Masse (hohes $c_e$)</div><div>&nbsp; \\item Mit $T$ steigt $c_e$. Durch Materialien wird $c_e$ begrenzt; Austrittsgeschwindigkeiten von Elektrischen Antrieben können nicht erreicht werden.</div><div>&nbsp; \\item ...Schub und damit Schubdichte können aber deutlich höher ausfallen</div><div>&nbsp; \\item In der Regel höhere Leistungsdichten. Auch fehlende Wandlung von Energievorrat ist vorteilhaft.</div><div>&nbsp; \\item Thermische Antriebe ernöglichen unkonventionelle Flugbahnen<br><div>\\end{itemize}[/latex]</div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "oyQY(e50Te",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "4de1faac-a0f4-11ea-b2f1-b4d5bdceb84f",
+            "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "06 Thermische Lichtbogentriebwerke",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "4de1d3e0-a0f4-11ea-878b-b4d5bdceb84f",
+            "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [
+                "Anmerkung 2020-06-02 115638.png",
+                "ERA_2020_03_GrundlagenThermischerRaketen_14.png",
+                "ERA_2020_03_GrundlagenThermischerRaketen_16.png",
+                "ERA_2020_03_GrundlagenThermischerRaketen_4.png",
+                "ERA_2020_03_GrundlagenThermischerRaketen_8.png",
+                "latex-1c9733ca96acc4765cb7e6b8a130f1ff51180e4b.png",
+                "latex-20e2795333347287443958f44a32525b76356722.png",
+                "latex-22689587e65c2eab7589d888c024653838c757b0.png",
+                "latex-27be786854e6ed7641be2f27f2c7f5ef129b096f.png",
+                "latex-29a8916afb1021b7631acfadf28449cef89d06d4.png",
+                "latex-31630191a7e822164bcdffeb2dbea3854e3d17c6.png",
+                "latex-395b8a392e3888165806e86b1a7088dc4660c63d.png",
+                "latex-3c2861221da512ec99d87097edee01c833de98eb.png",
+                "latex-3c6f7a58ced5f47dfb2e86ea19162b9a127eb548.png",
+                "latex-61d94ec978c2b7e3630a7960f6b1e34be99746f3.png",
+                "latex-6e494286b3eb039fb5da185342d808cc6a2d1f5f.png",
+                "latex-7535c1878cdebc4261022b510d2ba110159d7aa2.png",
+                "latex-79aa90dd3a49dac23a1a9d01f64408cbbf925b80.png",
+                "latex-7aa54f4ec25ca7796ba1181f899673ce79fd7425.png",
+                "latex-7ab4b6e028e00c40ba12fd124c265f88e2e68289.png",
+                "latex-7ba1e4ed8e5fe9b8a6554ad743c87388c207890e.png",
+                "latex-7dadf963608e5da2ac7cd0fb797046bc61a06f6c.png",
+                "latex-7dbe4d7b7f3f10f2a0a23b47482b068949ded687.png",
+                "latex-7ff2a25022d88699713536e15cb4c3f18d0e3f4a.png",
+                "latex-803d0d3e277876a443ab2477a9b2da70536f905f.png",
+                "latex-8d697d85c78a7f762549118b0c785b0f0bab3c23.png",
+                "latex-8f1cf5082b17b6548affdebcf6910b16c588b812.png",
+                "latex-9d5614a01300555a5daf76dad2e7758428f8d5cc.png",
+                "latex-a5ccaaae645ad95a6be8140b4115ec36c0700b71.png",
+                "latex-a776d5299f817c65b835323edc9f04b299e800e2.png",
+                "latex-a79e7325a009ce307ac2fb849fe5e8d60dd29d00.png",
+                "latex-b2db2eb69c49e521c5398306934c3555271d7973.png",
+                "latex-bf6192cb331cc185579a1aee1a745e9f3aaaed4f.png",
+                "latex-bfd5485d336ac11f64acf3e92dacebfee7dae8fb.png",
+                "latex-c0f763fe1a11f2b0656fd7d6474cd94829d19200.png",
+                "latex-c0f830afebef1b51995ab3d7d2945846391afdd3.png",
+                "latex-cbf12cda73f6044871d8ee6e3832c8696257131c.png",
+                "latex-cc356a750f45258458d73ed166e9ad822f89f400.png",
+                "latex-cda4ae85d94b7a2342a57a8ed5d13d4b55bde739.png",
+                "latex-d3b4b38614dfbf664152d64320ac24f4fdb2c619.png",
+                "latex-d401932a74bf8319e7716063a7f27eb1be60c407.png",
+                "latex-d71965406d5be6dae461b229837cd6a2d8f7b90e.png",
+                "latex-d735b9e5919ff919d682a2dfcf2c5a294539a20f.png",
+                "latex-df0ab99340bbf4446cbe7b351b5f04783ddd9900.png",
+                "latex-e1f7af23b57ac9d47b5bb8a081c20e349141e72a.png",
+                "latex-f47957e7872ffb2a50c3977ab8a33865d93e3825.png",
+                "latex-fa625e81f4d4b93ae4795289e39d94eb602a0c7d.png",
+                "latex-fa968bb0a8643f76a5d3c3b1e8be0fc6a16d9b6b.png",
+                "latex-fc0c877076aa5bdd4a887400a47add362327d3c3.png",
+                "latex-fd877e0509efad7746b317cc26bf01815e4f4f61.png",
+                "paste-46daf3b06179102edb753719ac4d59f11bbb57fa.jpg",
+                "paste-a81dc78c1e28fd9bd7f887b0107194cfac28269a.jpg"
+            ],
+            "name": "03 Grundlagen Thermischer Raketen",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Beschreiben Sie das Prinzip thermischer Raketen. Welches Kriterium sollte der Treibstoff qualitativ erfüllen?[/latex]<br>",
+                        "<div><img src=\"ERA_2020_03_GrundlagenThermischerRaketen_4.png\"><br></div>[latex]Treibstoff sollte eine geringe molare Masse haben.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "MAd^Yaq`9f",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie ein Synonym für Photovoltaisch.[/latex]",
+                        "[latex]Solarelektrisch. (Unnötig, aber hey)[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "DcTNqZsS$,",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie drei unkonventionelle und zwei konventionelle thermische Triebwerksarten.[/latex]",
+                        "[latex]<div>Unkonventionell:</div><div>\\begin{itemize}</div><div>\\item Nuklearthermische Rakete (bsp. NERVA, Poodle)</div><div>\\item Solarthermische Rakete (STP)</div><div>\\item Laserthermische-Antriebe, Mikrowellen</div><div>\\end{itemize}</div><div>Konventionell (Mit solar- oder nuklearelektrischer Energiezufuhr):<br>\\begin{itemize}</div><div>\\item Widerstandsbeheitzte Rakete (\"Resistojet\")</div><div>\\item Lichtbogenbeheitzte Rakete (TLT/\"Arcjet\")</div><div>\\end{itemize}</div><div>[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "j_j*)M#f@i",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist im Bezug auf $c_e$ von einem thermischen Triebwerk gefordert? Was begrenzt das $c_e$?[/latex]",
+                        "<div>[latex]</div><div>Wenn man vernachlässigt, dass es für eine gegebene Mission bei einem gegebenen $\\Delta v$ ein optimales $c_e$ gibt, will man von seinem $c_e$ prinzipiell, dass es \\textit{so hoch wie möglich} ist.\\\\</div><div><br></div><div>Die effektive Austrittsgeschwindigkeit wird maßgeblich von der \"Entladungskammer\"-Temperatur $T_0$ bestimmt. Diese Temperatur ist aber begrenzt durch<br>\\begin{itemize}</div><div>\\item den Wärmetauscher (Material/Austausch)</div><div>\\item Brennkammerwände</div><div>\\item Düsenhals</div><div>\\end{itemize}</div><div>Die Materialien sind prinzipiell durch ihre maximal mögliche thermische Belastung begrenzt.</div><div>[/latex]<br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "JGiX[R/v%#",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Welche Größen haben einen signifikanten Einfluss auf die effektive Austrittsgeschwindigkeit eines thermischen Triebwerks? Leiten Sie die entsprechende Gleichung her und schlussfolgern Sie, wie die größen zu wählen sind um eine möglichst hohe effektive Austrittsgeschwindigkeit zu erhalten. Nehmen Sie expansion gegen Vakuum an und gehen sie von einer stark expandierenden Düse aus.[/latex]",
+                        "<div><img src=\"Anmerkung 2020-06-02 115638.png\"><br></div>[latex]Wenn man $p_a$ (Expansion gegen Vakuum) und $p_E$ (Anpassung der Düse ans Vakuum vernachlässigbar) vernachlässigt, ergibt sich folgender rechenweg.[/latex]<div><img src=\"ERA_2020_03_GrundlagenThermischerRaketen_8.png\"><br></div><div>[latex]Aus der letzten Gleichung ergibt sich, dass die \"Entladungskammer\"-Temperatur $T_0$ möglichst groß und die molare Masse des Treibstoffs $M_A$ möglichst klein sein soll, um eine möglichst hohe effektive Austrittsgeschwindigkeit $c_e$ zu erhalten.[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "mpT0~YvPP7",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie ist die Proportionalität von $c_e$ zu den wichtigsten beiden einflussnehmenden Größen? Sagen sie etwas zu $\\overline{\\kappa}_{eff}$ und $\\overline{M}_{eff}$.[/latex]<br>",
+                        "[latex]<div>$c_e \\sim \\sqrt{\\dfrac{T_0}{\\overline{M}_{eff}}}$\\\\</div><div>Abhängig durch Ionisation und Dissoziation können sich die molare Masse $M_A$ und Freiheitsgrade $f$ eines Treibstoffs im Durchlauf von \"Entladungskammer\" zu Düsenende ändern. (Letztere haben einen Einfluss auf $\\kappa$. Man kann den effektiven Mittelwert berechenen zwischen Brennkammer und Endquerschnitt.</div><div>[/latex]</div><div><img src=\"paste-a81dc78c1e28fd9bd7f887b0107194cfac28269a.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "O>Zy?S/ffK",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Welche Begrenzungen von Materialien druch hohe Temperaturen existieren?[/latex]<br>",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item Festigkeit (Schmelzpunkt, plastische Verformung, Warmfestigkeit(!))</div><div>\\item Dampfdruck, Sublimation</div><div>\\item Thermische Verformungen, (Thermische) Spannungen, Thermal-Schock-Toleranz</div><div>\\item Wärmeleitfähigkeit, Emissionsgrad, ...</div><div>\\item Chemische Reaktionen zwischen Treibstoff und Strukturteilen</div><div>\\item Querschnitte für schnelle und langsame Neutronen, Strahlungsschädigung (bei nuklearthermischen Antrieben)</div><div>\\item Elektrische Leitfähigkeit bei hohen Temperaturen</div><div>\\end{itemize}</div><div>[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "KD<v=Z5aX",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist Warmfestigkeit?[/latex]<br>",
+                        "[latex]Die Festigkeit eines Materials bei erhöhten Temperaturen. Wichtig, da in Triebwerken die Temperatur im Allgemeinen sehr hoch ist und das Material so nachgeben kann, obwohl weder der Schmelzpunkt, noch die (bei Raumtemperatur nominelle) maximale Belastung erreicht ist.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "f(aOl`W$4D",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist Thermal-Schock? Nennen Sie ein Material mit schlechter Thermal-Schock-Toleranz.[/latex]",
+                        "[latex]Die Belastung, die durch plötzliche/rapide Änderung der Termperatur entsteht, wie beim Ein- und Ausschalten des Triebwerks.\\\\<div>Beispiel: Aluminium Oxid ($Al_2O_3$); Gute Thermalresistenz und relativ inert. Aber niedrige Thermal-Schock-Resistenz. Kann bei Ein-/Ausschalten des Triebwerks reißen.[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "hB54o7:!dD",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie ein Problem der Auslegung von Triebwerken im Bezug auf Materialien bei hohen Temperaturen.[/latex]",
+                        "[latex]Für Werkstoffe stehen für einige Materialeigenschaften in der Regel keine verlässlichen Daten bei hohen Temperaturen zur Verfügung. (Bsp. Dampfdruck, Sublimation, Wärmeleitfähigkeit, Emissionsgrad, ...)[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "P~foi:z)a^",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was versteht man Werkstofftransition? Nennen Sie ein Beispiel und die Folgen.[/latex]",
+                        "[latex]Eine Werkstofftransition ist eine Veränderung der Struktur eines Werkstoffs. Beispiel Titan. Bei einer Temperatur von etwa 882$\\,$°C geht die Strukur des Materials von hexagonalem $\\alpha$-Titan zu kubisch raumzentriertem $\\beta$-Titan über ($\\beta$-Transus). Dies geht einher mit einer diskreten Änderung einiger Materialeigenschaften wie dem Emissionsgrad)[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "grTT(r{j%M",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie (mit der zugehörigen Schmelztemperatur):<div>\\begin{itemize}</div><div>\\item Eine Superlegierung</div><div>\\item Zwei wichtige Werkstoffe</div><div>\\item Zwei extreme Karbide</div><div>\\item Schmelztemperaturen von Glaskeramik, Wolfram, Graphit</div><div>\\end{itemize}</div><div>Was ist für die Warmfestigkeit im Bezug auf die Schmelztemperatur zu sagen?\\\\Welche besondere Eigenschaft besitzt Graphit hinsichtlich der Schmelztemperatur?</div><div>[/latex]</div>",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item PM1000 (Einsetzbar bis $1573\\,$K)</div><div>\\item Bromnitrit (BN; ca. $3273\\,$K; eingesetzt für Isolierungen), Molybdän (Mo; $2883\\,$K)</div><div>\\item Tantalkarbid (TaC; ca. $4140\\,$K), Hafniumkarbid (HfC; ca. $4160\\,$K)</div><div>\\item Glaskeramik (ca. $1080\\,$K), Wolfram (W; $3653\\,$K), Graphit (C; subl. ca. $3920\\,$K bei $1\\,$bar)</div><div>\\end{itemize}</div><div>Um ausreichend Warmfestigkeit zu gewährleisten sind von den Schmelztemperaturen ein $\\Delta T$ von etwa $300\\,$K abzuziehen.\\\\Graphit schmilzt bei $1\\,$bar nicht, sondern sublimiert direkt.</div><div>[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "i%D[ztI#6}",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie die Temperaturen für vier Thermische Triebwerke.[/latex]<br>",
+                        "<img src=\"ERA_2020_03_GrundlagenThermischerRaketen_14.png\">"
+                    ],
+                    "flags": 0,
+                    "guid": "HNIdqU>{]H",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie allgemeingültige Auswahlkriterien für Treibstoffe.[/latex]",
+                        "<img src=\"ERA_2020_03_GrundlagenThermischerRaketen_16.png\">"
+                    ],
+                    "flags": 0,
+                    "guid": "F+sbBaI7<K",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Sagen Sie qualitativ etwas zur Druckabhängigkeit der effektiven Austrittsgeschwindigkeit.[/latex]",
+                        "<div><img src=\"paste-46daf3b06179102edb753719ac4d59f11bbb57fa.jpg\"><br></div><div>[latex](Diagramm für Wasserstoff)\\\\Mit steigendem Druck, sinkt die theoretisch erreichbare effektive Austrittsgeschwindigkeit. Dies hängt damit zusammen, dass bei niedrigen Drücken die Dissoziation und Ionisation früher eintritt und so die effektive molare Masse sinkt. Und (wie aus vorigen Kapiteln bekannt) mit sinkender effektiver molarer Masse steigt die effektive Austrittsgeschwindigkeit.[/latex]<br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "kW7{i>rQU1",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist der beste Treibstoff für thermische Triebwerke hinsichtlich dre theoretisch maximal erreichbaren effektiven Austrittsgeschwindigkeit?[/latex]",
+                        "[latex]Wasserstoff...[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "Q=l$>Qyedr",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Welche Treibstoffe sind für TLT interessant?[/latex]<br>",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item insbesondere Wasserstoff</div><div>\\item Ammoniak</div><div>\\item Hydrazin</div><div>\\item auch Helium (hohe Schubwirkungsgrade)</div><div>\\end{itemize}<br></div><div>[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "u0b@0d)ybf",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist der Unterschied zwischen Eingefrorenen Reaktionen und dem Eingefrorenem Gaszustand?[/latex]",
+                        "[latex]In beiden Fällen läuft die Expansion schneller ab, als die chemischen Reaktionen. Im Falle des Eingefrorenen Gaszustands ist die Expansion auch schneller als die physikalischen Expansionen (zum Beispiel Anteile wie vibronische Relaxation).[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "C?}$t[O(+&",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was sind $\\varepsilon_R$, $\\varepsilon_D$ und $\\varepsilon_I$ und wie stehen sie im Zusammenhang? [/latex]",
+                        "[latex]\\begin{itemize}<div>\\item $\\varepsilon_R$ Reaktionsenergie</div><div>\\item $\\varepsilon_D$ Dissotiationsenergie<br>\\item $\\varepsilon_I$ Ionisationsenergie<br><div>\\end{itemize}</div><div>Die Dissotiationsenergie und die Ionisationsenergie können Teile der Reaktionsenergie sein.[/latex]</div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "Mpz7mG,Y5z",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Von welcher Voraussetzung wird bei der Betrachtung von Nichtgleichgewichtseffekten in thermischen Wasserstoffraketen ausgegangen? Welche Folgen hat das?[/latex]<br>",
+                        "[latex]Es wird vorausgesetzt, dass es keine angeregten Moleküle gibt, sondern ausschließlich \"normalen\", dissoziierten und ionisierten Wasserstoff. Dies hat zur Folge, dass ein Vier-Komponenten-Gas vorliegt.\\\\<div>Die Gleichungen für die Dissoziation und Ionisation lauten\\\\</div><div>$H_2 + \\varepsilon_D \\longleftrightarrow H + H$\\\\</div><div>$H_2 + \\varepsilon_I \\longleftrightarrow H^+ + e^-$\\\\</div><div>Zudem kann davon ausgegangen werden, dass die Ionisation der Dissoziation nachgeschaltet ist. Davon darf ausgegangen werden, da $\\varepsilon_I$ signifikant höher ist als $\\varepsilon_D$.[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "B{*Ikn9QI:",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie hängen die Ionisations- und Dissoziationstemperaturen qualitativ vom Druck ab?[/latex]<br>",
+                        "[latex]Mit steigendem Druck steigen die benötigten Temperaturen an.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "DO3MvW=x#v",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie Berechnet sich der Energieinhalt eines Gases? Wie verändert sich die Gleichung mit eingefrorenen Freiheitsgraden?[/latex]",
+                        "[latex]<div>$E = \\dfrac{f}{2}\\mathfrak{R}T$\\\\</div><div><br></div><div>Mit eingefrorenen Freiheitsgraden gilt:\\\\</div><div>$f = f_1 + f_2$\\\\</div>$E = \\dfrac{f_1}{2}\\mathfrak{R}T_0 + \\dfrac{f_2}{2}\\mathfrak{R}T$\\\\<div><br><div>$f\\,\\,$ Freiheitsgrade\\\\</div><div>$f_1$ Eingefrohrene Freiheitsgrade\\\\</div><div>$f_2$ Wirkliche Freiheitsgrade\\\\</div><div>[/latex]</div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "c3ZU@dW^Il",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie ist der Thermische Gleichgewichtszustand definiert?[/latex]<br>",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Hin- und Rückreaktionen sind gleichschnell</div><div>&nbsp; \\item aus $T_g$ und $p_g$ lässt sich die Zussammensetzung des Gasgemisches errechnen</div><div>&nbsp; \\item die Gaszusammensetzung hängt auch von der Strömungsgeschwindigkeit ab<br><div>\\end{itemize}[/latex]<br></div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "y7|vE&,&=2",
                     "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
                     "tags": []
                 }
