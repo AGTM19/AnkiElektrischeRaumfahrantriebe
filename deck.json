@@ -614,391 +614,6 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "27715177-9c1e-11ea-9991-b4d5bdceb84c",
-            "deck_config_uuid": "4a2a200c-9c13-11ea-8419-b4d5bdceb84c",
-            "desc": "",
-            "dyn": 0,
-            "extendNew": 10,
-            "extendRev": 50,
-            "media_files": [
-                "latex-20c6ddf500fc2792a5e0e2ceab05604144f8cca1.png",
-                "latex-24a21a35a42b4933facc71f77169bcf3c408641f.png",
-                "latex-30f68b66dd3bcef430faef95bd8e4300e822a940.png",
-                "latex-3a377bfd7d1409b9a9080a5a4d828bbd45c43983.png",
-                "latex-3b97e0872932398be9e8144c98ec1228e70177b0.png",
-                "latex-3f2a1e275477aa23edb6a3a34db538245fa163d2.png",
-                "latex-41c240c135b285659c6ef27fdb61fa5b6506eb86.png",
-                "latex-4997fb3b05037b9dc4354bc39da0cadd3fb0de83.png",
-                "latex-54b86f1e6bae7821c1753f36a5f05611b928e87f.png",
-                "latex-5616ddfb09b8a7f807d9644f96733944698c53eb.png",
-                "latex-5b38702c95d147e7c28c9f5764ce77f9e23d6445.png",
-                "latex-62a06bd428deeef55b22a5ee92239426e0c6c0d9.png",
-                "latex-636a92cfe35382fb5e99c2fc47cda634b52e5f1f.png",
-                "latex-64dfd71155aab2f53436c5cee8704f594fcb2cc6.png",
-                "latex-70c8b497d3c562f8116ccf23c65feaa410b34d29.png",
-                "latex-7360e5b5fab167e8becc35e1665e6c1f65181be9.png",
-                "latex-81ebd012c997d4f94c740b4b143725a9bffff854.png",
-                "latex-84ba48786cda2e5f93b61fc4dc6062428e3bf6ca.png",
-                "latex-84c48725be97c380703c841e16d7fbbf02b923b5.png",
-                "latex-8573c66f1c776cb9326ebf2e20d7949d26e5f2c0.png",
-                "latex-857a45da32f450654c09fce5acad8b2bf450a3e7.png",
-                "latex-8708894a0aa044fc59e89dc86a1d0e0860f8c337.png",
-                "latex-8966137c79883a6f68e707a46fe1cbea1ca12be0.png",
-                "latex-8cc874357e922bbf6c2e1d8cb22e14e851394602.png",
-                "latex-915e5da95037b5ebf93d6577cde6c9797e33def2.png",
-                "latex-93503e92f661ead1f33ba6cbde6b97772fbfe02c.png",
-                "latex-9c25eb12e4127f8a26cab31eaad49da3b5e55b46.png",
-                "latex-a371dd5c2d52988db19a07d1de276c65f56ce40a.png",
-                "latex-a3a55f0adff5e0e71d155542b92070223983d0cc.png",
-                "latex-a4c88898dc2e18485b67d5a04390a283ec259562.png",
-                "latex-acc89cb84e753459284aae1c6d82860aba15da79.png",
-                "latex-b21dcbba183b92669374926e781e40d56203c690.png",
-                "latex-b3cef53de37a18749c366b96bdceeb8c960cad81.png",
-                "latex-bb0deb31adcafbceeb85c35c47febde50d44ea3b.png",
-                "latex-bff90275b70379a3bb1ca8899c9696a5aa8525cd.png",
-                "latex-c4c206279f6d6bf860c37dc507f5be8ed3fe40a0.png",
-                "latex-c5ef7b1a1f5c0aa9bd40ce718287381639861809.png",
-                "latex-c7b4007956f159c20c58f061896ad98417e99910.png",
-                "latex-dbcde4b2dffa3ddeecf0e76292cda64e62e34481.png",
-                "latex-dc731e7f123ca111c5f74320208428a9c45969b4.png",
-                "latex-e30175ee38b2a58c83792e02517a35782cd4369a.png",
-                "latex-e785e322a933dd0bcd27d17d74f168e85ea5ef7a.png",
-                "latex-e7df7d67dc8e53cba8e00b82a5b64dc5e6b866e6.png",
-                "latex-ed1de551fbdfa78fb16a9031f38545b5a67fbda9.png",
-                "latex-f5de9317733787308c3714cc1e4da2bf66a782bc.png",
-                "latex-fe404bd386afa16b4e14cd47d175dfdf48afad7b.png",
-                "latex-ff97eae73d7b31d498969828e2572e8809559c5b.png",
-                "paste-3d25eca572a876f04914e1e2395dfd7a33d0aeee.jpg",
-                "paste-406185472c3e5113f0475955c514c856b90b370a.jpg",
-                "paste-7b40b2cb6e5cef3203e76dc3b8dca6ffa696806a.jpg",
-                "paste-7b8e295e130c4e33180a7acad2e2d40ec2b35cd0.jpg",
-                "paste-7e01c3ad9c5531f0b611347f8c8d16645fa641f6.jpg",
-                "paste-8a7424e75877b96e535738b2688271ce4ee30178.jpg",
-                "paste-92ece1aa5f10219f91713ce054791f1a51483256.jpg",
-                "paste-9555451bafd1f84f2d484ae078c0a4fcce4472c0.jpg",
-                "paste-9cedd6b96e0f03e52362a6c4817c01b3665d6afb.jpg",
-                "paste-9deeec485bb64f74b90105aab01a80ff86e04adc.jpg",
-                "paste-db1b4458cf95890f8bd1f27f55fa1a488b829b16.jpg"
-            ],
-            "name": "02 Analyse von Antrieben",
-            "notes": [
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Sagen Sie etwas zu diesen drei Gleichungen im Zusammenhang Elektrische Antriebe statt Chemische.\\\\<div>$\\Delta v = -c_e \\cdot ln(\\frac{m_b}{m_0})$ $\\,\\,\\, \\alpha = \\frac{1}{2}ac_e$ $\\,\\,\\, \\Delta v = \\int_{T_B}a\\,dt$</div><div>[/latex]<br></div>",
-                        "[latex]Die Massenspezifische Leistungsdichte eines Antriebes im Allgemeinen ist gedeckelt. Dies hat mit Gleichung 2 zur Folge, dass das Produkt aus Schub $a$ und effektiver Austrittsgeschwindigkeit $c_e$ gedeckelt ist.\\\\Chemische Antriebe haben niedriege Austrittsgeschwindigkeiten bei hohem Schub. Bei elektrischen Antrieben ist dies genau umgekehrt.\\\\Die hohe effektive Austrittsgeschwindigkeit elektrischer Antriebe ermöglicht nach der Zilkowskygleichung (Gleichung 1) entweder, bei gleichbleibender Brennstoffmasse, höhere Geschwindigkeitsinkremente oder bei gleichem $\\Delta v$ weniger Treibstoffmasse.\\\\Bei alleiniger Betrachtung der Zilkowskygleichung könnte man aber meinen, dass der beste Antrieb dieser mit der höchsten effektiven Austrittsgeschwindigkeit ist. Doch durch den niedrigen Schub, wie er aus Gleichung 2 foglt, liegt mit der kinematischen Beziehung aus Gleichung 3 auf der Hand, dass für das gewollte $\\Delta v$ aber eine höhere \"Brenndauer\" notwendig ist.[/latex]<br>"
-                    ],
-                    "flags": 0,
-                    "guid": "s,S[t<:GAU",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was ist $\\alpha$?[/latex]<br>",
-                        "[latex]Ein Systemparameter; die Massenspezifische Leistungsdichte.[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "A#T}8@`Yt~",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was ist $\\Delta v$?[/latex]",
-                        "[latex]Ein Missionsspezifischer Parameter; wird Missionsspezifisch errechnet; Antriebsbedarf/Geschwindigkeitsinkrement[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "lY^$fabLh>",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Welche drei Gleichungen kann man als Fundamentalgleichungen bezeichnen, aus denen sich die Leistungsbegrenzung für allgemeine Raketenantriebe ableiten lassen? Welche Aussagen lassen sich bei gegebenem Geschwindigkeitsinkrement aus ihnen gewinnen?[/latex]",
-                        "[latex]<div>\\begin{itemize}</div><div>\\item Zilkowsky-Gleichung\\hfill Brennstoffbedarf $m_p$</div><div>\\item Kinematische Gleichung\\hfill Brennzeitbedarf $T_B$</div><div>\\item Massenspezifische Leistungsdichte \\hfill Trade-Off zwischen $m_p$ und $T_B$</div><div>\\end{itemize}</div><div>[/latex]</div><div><img src=\"paste-9cedd6b96e0f03e52362a6c4817c01b3665d6afb.jpg\"><br></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "K/]FR_.E3n",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Welche Punkte müsste ein optimaler Transport (einer Rakete) erfüllen? (Nach welchen Parametern wird optimiert?)[/latex]",
-                        "[latex]<div>\\begin{itemize}</div><div>\\item Maximale Nutzlastmassen</div><div>\\item Minimale Reisezeiten</div><div>\\item Maximales Antriebsvermögen</div><div>\\end{itemize}</div><div>[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "AK3XN@(a5e",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Nennen Sie die dimensionslose Zilkowskygleichung und benennen Sie die Parameter. Welche Annahmen wurden getroffen?[/latex]",
-                        "[latex]<div>$ \\dfrac{\\Delta v}{c_e} = ln \\left( \\cfrac{1+\\dfrac{{c_e}^2}{{v_c}^2}}{\\mu_{LS} + \\dfrac{{c_e}^2}{{v_c}^2}} \\right) $</div><div>\\\\mit der \\textbf{Charakteristischen Geschwindigkeit}\\\\</div><div>$ {v_c}^2 = 2 \\alpha_W\\eta T_B $\\\\</div><div><br></div><div>Größen:</div><div>\\begin{itemize}</div><div>\\item $\\mu_{LS}$ Nutzlastmassenanteil</div><div>\\item $\\alpha_W$ Massesnpezifische Leistungsdichte</div><div>\\item $\\eta$ Antriebswirkungsgrad</div><div>\\item $T_B$ Brennzeit</div><div>\\end{itemize}</div><div><br></div><div>Annahmen:</div><div>\\begin{itemize}</div><div>\\item Feldfrei: Äußere Kräfte sind vernachlässigbar</div><div>\\item Lange Antriebszeiten und -strecken</div><div>\\end{itemize}</div><div>$\\Rightarrow$ \\textbf{Ballistische Betrachtungen treffen nicht zu.}</div><div>[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "rO68FPvGw%",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Nennen Sie einige wichtige Ergebnisse aus der dimensionslosen Tsiolkovsky Gleichung.[/latex]<br>",
-                        "[latex]<div>\\begin{itemize}</div><div>\\item Für ein $\\mu_{LS} &gt; 5\\%$ muss $c_e$ mindestens drei mal $\\Delta v$ sein.</div><div>\\item Es muss gelten $v_c &gt;&gt;c_e$ sonst wird Nutzlastanteil bei gegebenem $\\Delta v$ schnell knapp</div><div>\\item Bei gegebenem $v_c$ lassen sich $\\Delta v$ und $\\mu_{LS}$ durch geschickte Wahl von $c_e$ optimieren. (Bei $c_e / v_c &lt; 1$; je höher $\\Delta v$ desto weiter links von 1 und desto sensitiver ist $\\mu_{LS}$ auf $c_e$ Änderungen.)</div><div>\\end{itemize}</div><div><br></div><div>[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "vo391]*Qd`",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wofür steht EVA?[/latex]",
-                        "[latex]Energie Versorgungs Anlage[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "cI;=K5ACM%",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Welche größte Vernachlässigung macht die Optimierung unseres Transport mittels der dimensionslosen Tsiolkovsky Gleichung?[/latex]",
-                        "[latex]Dass unser (von den Missionsanalytikern) errechnetes $\\Delta v$ unabhängig von unserem Schubniveau ist.[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "jSmwNVR&]*",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wie ist der Wirkungsgrad im allgemeinen definiert? Wie verhält sich der Gesamtwirkungsgrad eines gestuften Systems im Bezug auf die Wirkungsgrade der einzelnen Stufen?[/latex]",
-                        "[latex]<div>$\\eta = \\dfrac{Gewinn}{Aufwand}=\\dfrac{Aufwand - Verlust}{Aufwand}$\\\\</div><div><br></div><div>$\\eta_g=\\eta_i\\cdot ... \\cdot\\eta_2\\cdot\\eta_1$</div><div>[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "j1qCsI$|_f",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Elektrische Raumfahrtantriebe variieren stark in ihrer Ausführung. Nach welchen Kriterien unterscheiden sie sich?[/latex]",
-                        "[latex]<div>\\begin{itemize}</div><div>\\item Primärenergiewandlung</div><div>\\item Prinzip der Schuberzeugung</div><div>\\item Größe / Skalierung</div><div>\\item Treibstoffwahl</div><div>\\end{itemize}</div><div>[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "rkiI_ZusMC",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wie lauten die generischen drei Stufen eines elektrischen Raumfahrttriebwerks? Wie hängen deren Wirkungsgrade zusammen?[/latex]",
-                        "[latex]<div>\\begin{itemize}</div><div>\\item Energieversorgungsanlage</div><div>\\item Wandler</div><div>\\item eigentliches Triebwerk</div><div>\\end{itemize}</div><div><br></div><div>Gesamtwirkungsgrad: $\\eta_g = \\eta_E\\cdot\\eta_{Wa}\\cdot\\eta_T$\\\\</div><div><br></div><div>$\\eta_T$ eigentlich \"Schubwirkungsgrad\"</div><div>[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "M!b+KL~.Pl",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was ist $\\eta_T$? Wie und mit welche Größen wird es berechnet? Welche Vereinfachung kann getroffen werden?[/latex]<br>",
-                        "[latex]Der Wirkungsgrad des Treibwerks, auch Schubwirkungsgrad. \"Wie effizient wird anliegende Leistung in Schub-/Jetleistung umgewandelt.\"\\\\<div>$\\eta_T = \\dfrac{F^2}{2\\dot{m}P_{ref}+{F_{kalt}}^2}$<br><div>\\begin{itemize}</div><div>\\item elektrisch: $P_{ref} = P_{el}$ \\textbf{Bezugsleistung}</div><div>\\item chemisch $P_{ref} = P_{th}$ \\textbf{Heizleistung}</div><div>\\end{itemize}</div><div>Ist der Kaltgasschub klein, kann ${F_{kalt}}^2$ vernachlässigt werden. Dann gilt:\\\\</div><div>$\\eta_T = \\dfrac{P_j}{P_{ref}}=\\dfrac{\\frac{1}{2}\\dot m{c_e}^2}{P_{ref}}=\\dfrac{F^2}{2\\dot{m}P_{ref}}$\\\\</div><div><br></div><div>Funfact: Für ein DC-Triebwerk ist $P_{ref} = U\\cdot I$.</div><div>[/latex]</div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "Dz@%J[s7hs",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Nennen Sie beispielhaft drei Arten von Verlusten eines Antriebs und einen zugehörigen partiellen Wirkungsgrad. Nennen Sie beispielhaft eine Quelle für die jeweilige Art des Verlustes.[/latex]<br>",
-                        "[latex]<div>\\begin{itemize}</div><div>\\item Thermische Verluste $\\Rightarrow$ Thermischer Wirkungsgrad\\\\Quelle: Thermische Verluste durch Strahlung und Konvektion im Treibwerk an die Strukturen\\\\</div><div>$\\eta_{th} = \\dfrac{P_{el}-\\dot Q_{th}}{P_{el}}$</div><div>\\item Düsenverluste $\\Rightarrow$ Düsenwirkungsgrad\\\\Quelle: Nichtangepasste Düse; Strahldivergenz</div><div>\\item Verluste durch einfrieren der Strömung $\\Rightarrow$ Wirkungsgrad der eingefrorenen Strömung\\\\Quelle: Treibstoffsystem relaxiert nicht rechtzeitig;\\\\Relaxationszeit $&gt;$ Expansionszeit</div><div>\\end{itemize}</div><div>[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "hA8duL5PAB",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was kann man unter \"Verluste durch einfrieren der Strömung\" verstehen?[/latex]",
-                        "[latex]Verluste durch eingefrorene Reaktionen. Durch erforderliche Ionisations und Dissoziationsprozesse wird chemische Energie gebunden. Ist die Verweildauer des Treibstoffs im Beschleunigungsbereich aber kürzer als die Relaxationszeit des Treibstoffes, wird der Treibstoff ausgeworfen, bevor die gespeicherte Energie genutzt werden konnte. Diese Energie ist für den Jet verloren.[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "DNdn4G/=zM",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was versteht man unter einem Kaltgasschub?[/latex]",
-                        "[latex]Der Schub, der vorherrscht, wenn die anliegende Leistung 0 ist.[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "LZ~wd&#E|<",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was ist $\\eta_f$? Wie berechnet es sich? Was geht qualitativ ein, was weniger?[/latex]",
-                        "[latex]Wirkungsgrad der eingefrorenen Strömung.\\\\<div><br></div><div>$\\eta_f = \\dfrac{h_0-h_f}{h_0}$ mit $h_f = \\Delta h_{gg} - \\Delta h_f$\\\\<div><br></div><div>wobei<div>\\begin{itemize}</div><div>\\item $h_0$: Gesamtenthalpie des Treibstoffs in der \"Brennkammer\"</div><div>\\item $h_f$: Enthalpie, die nicht in der Expansion zurückgewonnen werden kann<br><div>\\item $\\Delta h_{gg}$: Enthalpie-Umsatz in der Düse im Gleichgewichtsfall</div><div>\\item $\\Delta h_f$: Enhalpie-Umsatz in der Düse im eingefrorenen Zustand.</div><div>\\end{itemize}</div><div>$\\eta_f$ hängt von Treibstoff (Ionisations-/Dissoziationsenergie), Brennkammertemperatur und -druck (Enthalpien) ab. Hängt weniger von Düsengeometrie ab (vernachlässigbar).</div><div>[/latex]</div></div></div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "M%@cM(9!c6",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Der Wirkungsgrad der eingefrorenen Strömung ($\\eta_f$) ist eine Funktion von $c_e$. Erklären Sie qualitativ den Zusammenhang. Warum steigt er für die meisten Stoffe ab einem bestimmten $c_e$ wieder an?[/latex]",
-                        "[latex]Je höher das $c_e$, desto kürzer die verweildauer in der Düse. Warum es wieder ansteigt... keine Ahnung...[/latex]<div><img src=\"paste-7b40b2cb6e5cef3203e76dc3b8dca6ffa696806a.jpg\"><br></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "ek$(XSfYWv",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was ist der Massenwirkungsgrad? Wo ist er besonders wichtig?[/latex]",
-                        "[latex]$\\eta_M = \\dfrac{I_i}{I_i+I_0}$\\\\<div><br><div>mit</div><div>\\begin{itemize}</div><div>\\item $I_i$: Schuberzeugender Teilchenstrom (Ionisierter)</div><div>\\item $I_0$: Neutraler Teilchenstrom</div><div>\\end{itemize}<br><div>Wird herangezogen zur Charakterisierung der Neutralteilchenverluste von Triebwerken, die vollständige Ionisation anstreben. Denn bei Ionentriebwerken können nur die ionisierten Teilchen zum Schub beitragen.[/latex]</div></div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "eXX<JLz6!+",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was ist die Alf\\'engeschwindigkeit?[/latex]<br>",
-                        "[latex]$v_A$ Die Geschwindigkeit, die ein Teilchen erreichen würde, wenn die gesamten Reaktionsenergien und latenten Wärmen in kinetische Energie umgewandelt würden.\\\\<div><br></div><div>$ \\frac{1}{2} \\bar m_A {v_A}^2=(\\alpha_D E_D + \\alpha_{J,i} \\bar E_{J,i})+(r_D + r_S)\\bar m_A$\\\\</div><div><br></div><div>mit</div><div>\\begin{itemize}</div><div>\\item $E_D$: Dissoziationsenergie</div><div>\\item $\\bar E_{J,i}$: Mittlere Ionisationsenergie der i-ten Stufe</div><div>\\item $r_S, r_D$: Schmelz-, respektive Verdampfungswäreme</div><div>\\item $\\alpha_D, \\alpha_{J,i}$: Dissotiations-, respektive Ionisationsgrad der i-ten Stufe</div><div>\\item $\\bar m_A$: Mittlere Atommasse</div><div>\\end{itemize}</div><div>Abhängigkeit der Alvengeschwindigkeit vom Atomgewicht:</div><div>[/latex]</div><div><img src=\"paste-7e01c3ad9c5531f0b611347f8c8d16645fa641f6.jpg\"><br></div><div><br></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "A4^RjAK.a0",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was ist $kv_A$?[/latex]",
-                        "[latex]Die effektive gerätespezifische Alf\\'engeschwindigkeit. (Und was das?)<div>\\\\</div><div>k berücksichtigt die Ionisationsverluste pro Teilchen \\\\</div><div>$kv_A$ $\\rightarrow$ Ionisationsverluste * maximale Geschwindigkeit mit Reaktionsenergie und latenten Wärmen (Alvengeschwindigkeit)<br></div><div>[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "ju],D$iBO5",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wie ist der Schubwirkungsgrad für Plasmatriebwerke definiert? Welche Annahmen werden getroffen?[/latex]",
-                        "[latex]<div>$\\eta_T=\\dfrac{Schubenergie}{Strahlenthalpie} = \\eta_{T,max}\\dfrac{{c_e}^2}{{c_e}^2+(kv_A)^2}$<div>mit&nbsp;</div><div>\\begin{itemize}</div><div>&nbsp; \\item $\\eta_{T,max}$: Grenzwert für $c_e \\rightarrow \\infty$, beinhaltet thermische und Düsen-Verluste</div><div>&nbsp; \\item $v_A$: Alf\\'engeschwindigkeit</div><div>&nbsp; \\item $k$: Koeffizient zur Berücksichtigung der Ionisationsverluste pro Teilchen</div><div>\\end{itemize}</div><div>Unter den Annahmen, dass\\begin{itemize}</div><div>&nbsp; \\item der Ionisationsgrad nahe 1 ist,</div><div>&nbsp; \\item mit Steigerung der elektrischen Leistung die thermischen Verluste nicht nennenswert steigen,</div><div>&nbsp; \\item in einem weiten Betriebsbereich die Verluste durch Reaktionsenergien im Strahl relativ konstant sind.</div><div>\\end{itemize}</div><div><br></div><div>Anmerkung: Als Plasmatriebwerke gelten im engeren Sinne Eigen-/Fremdfeld_MPD-Antriebe, Hallionenantriebe, thermische Lichtbogentriebwerke und induktive Triebwerke. (alle elektrischen?)</div><div>[/latex]</div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "l522uso;Up",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "\n<div><div>[latex]Sagen Sie etwas zu diesem Diagramm.[/latex]<img src=\"paste-db1b4458cf95890f8bd1f27f55fa1a488b829b16.jpg\"></div>\n</div>",
-                        "<img src=\"paste-9555451bafd1f84f2d484ae078c0a4fcce4472c0.jpg\">"
-                    ],
-                    "flags": 0,
-                    "guid": "j[q1bS5{8n",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Sagen Sie etwas zu diesem Diagramm.[/latex]<div>\n<div>\n<div><img src=\"paste-8a7424e75877b96e535738b2688271ce4ee30178.jpg\"><br></div>\n</div></div>",
-                        "<img src=\"paste-3d25eca572a876f04914e1e2395dfd7a33d0aeee.jpg\"><div>[latex] Optimierung des Geschwindigkeitsinkrements durch: [\\latex]<br><div><img src=\"paste-7b8e295e130c4e33180a7acad2e2d40ec2b35cd0.jpg\"><br></div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "D9MTQ33Q|D",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Sagen Sie etwas zu diesem Diagramm.[/latex]<img src=\"paste-92ece1aa5f10219f91713ce054791f1a51483256.jpg\"><br>",
-                        "<img src=\"paste-9deeec485bb64f74b90105aab01a80ff86e04adc.jpg\"><div>[latex] Optimierung des Nutzlastmassenanteils durch: [\\latex]</div><div><img src=\"paste-406185472c3e5113f0475955c514c856b90b370a.jpg\"><br></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "jV:eQBUz>?",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was besagt die Geschwindigkeit $v_c$?[/latex]",
-                        "[latex]<div>$v_c$ ist die charakteristische Geschwindigkeit.</div><div>\\\\Sie enthält die Güte der Energieversorgung und den Wirkungsgrad des Antriebs<br><div>[/latex]</div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "LeKnuB?t63",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                }
-            ]
-        },
-        {
-            "__type__": "Deck",
-            "children": [],
             "crowdanki_uuid": "4de1d3e0-a0f4-11ea-878b-b4d5bdceb84f",
             "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
             "desc": "",
@@ -1554,6 +1169,404 @@
         {
             "__type__": "Deck",
             "children": [],
+            "crowdanki_uuid": "27715177-9c1e-11ea-9991-b4d5bdceb84c",
+            "deck_config_uuid": "4a2a200c-9c13-11ea-8419-b4d5bdceb84c",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [
+                "latex-20c6ddf500fc2792a5e0e2ceab05604144f8cca1.png",
+                "latex-24a21a35a42b4933facc71f77169bcf3c408641f.png",
+                "latex-30f68b66dd3bcef430faef95bd8e4300e822a940.png",
+                "latex-3337051c53d9b21c4dc02d21c825a5800713da64.png",
+                "latex-3a377bfd7d1409b9a9080a5a4d828bbd45c43983.png",
+                "latex-3b97e0872932398be9e8144c98ec1228e70177b0.png",
+                "latex-3f2a1e275477aa23edb6a3a34db538245fa163d2.png",
+                "latex-41c240c135b285659c6ef27fdb61fa5b6506eb86.png",
+                "latex-4997fb3b05037b9dc4354bc39da0cadd3fb0de83.png",
+                "latex-54b86f1e6bae7821c1753f36a5f05611b928e87f.png",
+                "latex-5616ddfb09b8a7f807d9644f96733944698c53eb.png",
+                "latex-5b38702c95d147e7c28c9f5764ce77f9e23d6445.png",
+                "latex-62a06bd428deeef55b22a5ee92239426e0c6c0d9.png",
+                "latex-636a92cfe35382fb5e99c2fc47cda634b52e5f1f.png",
+                "latex-64dfd71155aab2f53436c5cee8704f594fcb2cc6.png",
+                "latex-70c8b497d3c562f8116ccf23c65feaa410b34d29.png",
+                "latex-7360e5b5fab167e8becc35e1665e6c1f65181be9.png",
+                "latex-81ebd012c997d4f94c740b4b143725a9bffff854.png",
+                "latex-84ba48786cda2e5f93b61fc4dc6062428e3bf6ca.png",
+                "latex-84c48725be97c380703c841e16d7fbbf02b923b5.png",
+                "latex-8573c66f1c776cb9326ebf2e20d7949d26e5f2c0.png",
+                "latex-857a45da32f450654c09fce5acad8b2bf450a3e7.png",
+                "latex-8708894a0aa044fc59e89dc86a1d0e0860f8c337.png",
+                "latex-8966137c79883a6f68e707a46fe1cbea1ca12be0.png",
+                "latex-8cc874357e922bbf6c2e1d8cb22e14e851394602.png",
+                "latex-915e5da95037b5ebf93d6577cde6c9797e33def2.png",
+                "latex-93503e92f661ead1f33ba6cbde6b97772fbfe02c.png",
+                "latex-9c25eb12e4127f8a26cab31eaad49da3b5e55b46.png",
+                "latex-a371dd5c2d52988db19a07d1de276c65f56ce40a.png",
+                "latex-a3a55f0adff5e0e71d155542b92070223983d0cc.png",
+                "latex-a4c88898dc2e18485b67d5a04390a283ec259562.png",
+                "latex-acc89cb84e753459284aae1c6d82860aba15da79.png",
+                "latex-b21dcbba183b92669374926e781e40d56203c690.png",
+                "latex-b3cef53de37a18749c366b96bdceeb8c960cad81.png",
+                "latex-bb0deb31adcafbceeb85c35c47febde50d44ea3b.png",
+                "latex-bff90275b70379a3bb1ca8899c9696a5aa8525cd.png",
+                "latex-c4c206279f6d6bf860c37dc507f5be8ed3fe40a0.png",
+                "latex-c7b4007956f159c20c58f061896ad98417e99910.png",
+                "latex-dbcde4b2dffa3ddeecf0e76292cda64e62e34481.png",
+                "latex-dc731e7f123ca111c5f74320208428a9c45969b4.png",
+                "latex-e30175ee38b2a58c83792e02517a35782cd4369a.png",
+                "latex-e785e322a933dd0bcd27d17d74f168e85ea5ef7a.png",
+                "latex-e7df7d67dc8e53cba8e00b82a5b64dc5e6b866e6.png",
+                "latex-ed1de551fbdfa78fb16a9031f38545b5a67fbda9.png",
+                "latex-f5de9317733787308c3714cc1e4da2bf66a782bc.png",
+                "latex-fe404bd386afa16b4e14cd47d175dfdf48afad7b.png",
+                "latex-ff97eae73d7b31d498969828e2572e8809559c5b.png",
+                "paste-3d25eca572a876f04914e1e2395dfd7a33d0aeee.jpg",
+                "paste-406185472c3e5113f0475955c514c856b90b370a.jpg",
+                "paste-7b40b2cb6e5cef3203e76dc3b8dca6ffa696806a.jpg",
+                "paste-7b8e295e130c4e33180a7acad2e2d40ec2b35cd0.jpg",
+                "paste-7e01c3ad9c5531f0b611347f8c8d16645fa641f6.jpg",
+                "paste-8a7424e75877b96e535738b2688271ce4ee30178.jpg",
+                "paste-92ece1aa5f10219f91713ce054791f1a51483256.jpg",
+                "paste-9555451bafd1f84f2d484ae078c0a4fcce4472c0.jpg",
+                "paste-9cedd6b96e0f03e52362a6c4817c01b3665d6afb.jpg",
+                "paste-9deeec485bb64f74b90105aab01a80ff86e04adc.jpg",
+                "paste-db1b4458cf95890f8bd1f27f55fa1a488b829b16.jpg"
+            ],
+            "name": "02 Analyse von Antrieben",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Sagen Sie etwas zu diesen drei Gleichungen im Zusammenhang Elektrische Antriebe statt Chemische.\\\\<div>$\\Delta v = -c_e \\cdot ln(\\frac{m_b}{m_0})$ $\\,\\,\\, \\alpha = \\frac{1}{2}ac_e$ $\\,\\,\\, \\Delta v = \\int_{T_B}a\\,dt$</div><div>[/latex]<br></div>",
+                        "[latex]Die Massenspezifische Leistungsdichte eines Antriebes im Allgemeinen ist gedeckelt. Dies hat mit Gleichung 2 zur Folge, dass das Produkt aus Schub $a$ und effektiver Austrittsgeschwindigkeit $c_e$ gedeckelt ist.\\\\Chemische Antriebe haben niedriege Austrittsgeschwindigkeiten bei hohem Schub. Bei elektrischen Antrieben ist dies genau umgekehrt.\\\\Die hohe effektive Austrittsgeschwindigkeit elektrischer Antriebe ermöglicht nach der Zilkowskygleichung (Gleichung 1) entweder, bei gleichbleibender Brennstoffmasse, höhere Geschwindigkeitsinkremente oder bei gleichem $\\Delta v$ weniger Treibstoffmasse.\\\\Bei alleiniger Betrachtung der Zilkowskygleichung könnte man aber meinen, dass der beste Antrieb dieser mit der höchsten effektiven Austrittsgeschwindigkeit ist. Doch durch den niedrigen Schub, wie er aus Gleichung 2 foglt, liegt mit der kinematischen Beziehung aus Gleichung 3 auf der Hand, dass für das gewollte $\\Delta v$ aber eine höhere \"Brenndauer\" notwendig ist.[/latex]<br>"
+                    ],
+                    "flags": 0,
+                    "guid": "s,S[t<:GAU",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist $\\alpha$?[/latex]<br>",
+                        "[latex]Ein Systemparameter; die Massenspezifische Leistungsdichte.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "A#T}8@`Yt~",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist $\\Delta v$?[/latex]",
+                        "[latex]Ein Missionsspezifischer Parameter; wird Missionsspezifisch errechnet; Antriebsbedarf/Geschwindigkeitsinkrement[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "lY^$fabLh>",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Welche drei Gleichungen kann man als Fundamentalgleichungen bezeichnen, aus denen sich die Leistungsbegrenzung für allgemeine Raketenantriebe ableiten lassen? Welche Aussagen lassen sich bei gegebenem Geschwindigkeitsinkrement aus ihnen gewinnen?[/latex]",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item Zilkowsky-Gleichung\\hfill Brennstoffbedarf $m_p$</div><div>\\item Kinematische Gleichung\\hfill Brennzeitbedarf $T_B$</div><div>\\item Massenspezifische Leistungsdichte \\hfill Trade-Off zwischen $m_p$ und $T_B$</div><div>\\end{itemize}</div><div>[/latex]</div><div><img src=\"paste-9cedd6b96e0f03e52362a6c4817c01b3665d6afb.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "K/]FR_.E3n",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Welche Punkte müsste ein optimaler Transport (einer Rakete) erfüllen? (Nach welchen Parametern wird optimiert?)[/latex]",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item Maximale Nutzlastmassen</div><div>\\item Minimale Reisezeiten</div><div>\\item Maximales Antriebsvermögen</div><div>\\end{itemize}</div><div>[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "AK3XN@(a5e",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie die dimensionslose Zilkowskygleichung und benennen Sie die Parameter. Welche Annahmen wurden getroffen?[/latex]",
+                        "[latex]<div>$ \\dfrac{\\Delta v}{c_e} = ln \\left( \\cfrac{1+\\dfrac{{c_e}^2}{{v_c}^2}}{\\mu_{LS} + \\dfrac{{c_e}^2}{{v_c}^2}} \\right) $</div><div>\\\\mit der \\textbf{Charakteristischen Geschwindigkeit}\\\\</div><div>$ {v_c}^2 = 2 \\alpha_W\\eta T_B $\\\\</div><div><br></div><div>Größen:</div><div>\\begin{itemize}</div><div>\\item $\\mu_{LS}$ Nutzlastmassenanteil</div><div>\\item $\\alpha_W$ Massesnpezifische Leistungsdichte</div><div>\\item $\\eta$ Antriebswirkungsgrad</div><div>\\item $T_B$ Brennzeit</div><div>\\end{itemize}</div><div><br></div><div>Annahmen:</div><div>\\begin{itemize}</div><div>\\item Feldfrei: Äußere Kräfte sind vernachlässigbar</div><div>\\item Lange Antriebszeiten und -strecken</div><div>\\end{itemize}</div><div>$\\Rightarrow$ \\textbf{Ballistische Betrachtungen treffen nicht zu.}</div><div>[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "rO68FPvGw%",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie einige wichtige Ergebnisse aus der dimensionslosen Tsiolkovsky Gleichung.[/latex]<br>",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item Für ein $\\mu_{LS} &gt; 5\\%$ muss $c_e$ mindestens drei mal $\\Delta v$ sein.</div><div>\\item Es muss gelten $v_c &gt;&gt;c_e$ sonst wird Nutzlastanteil bei gegebenem $\\Delta v$ schnell knapp</div><div>\\item Bei gegebenem $v_c$ lassen sich $\\Delta v$ und $\\mu_{LS}$ durch geschickte Wahl von $c_e$ optimieren. (Bei $c_e / v_c &lt; 1$; je höher $\\Delta v$ desto weiter links von 1 und desto sensitiver ist $\\mu_{LS}$ auf $c_e$ Änderungen.)</div><div>\\end{itemize}</div><div><br></div><div>[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "vo391]*Qd`",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wofür steht EVA?[/latex]",
+                        "[latex]Energie Versorgungs Anlage[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "cI;=K5ACM%",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Welche größte Vernachlässigung macht die Optimierung unseres Transport mittels der dimensionslosen Tsiolkovsky Gleichung?[/latex]",
+                        "[latex]Dass unser (von den Missionsanalytikern) errechnetes $\\Delta v$ unabhängig von unserem Schubniveau ist.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "jSmwNVR&]*",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie ist der Wirkungsgrad im allgemeinen definiert? Wie verhält sich der Gesamtwirkungsgrad eines gestuften Systems im Bezug auf die Wirkungsgrade der einzelnen Stufen?[/latex]",
+                        "[latex]<div>$\\eta = \\dfrac{Gewinn}{Aufwand}=\\dfrac{Aufwand - Verlust}{Aufwand}$\\\\</div><div><br></div><div>$\\eta_g=\\eta_i\\cdot ... \\cdot\\eta_2\\cdot\\eta_1$</div><div>[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "j1qCsI$|_f",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Elektrische Raumfahrtantriebe variieren stark in ihrer Ausführung. Nach welchen Kriterien unterscheiden sie sich?[/latex]",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item Primärenergiewandlung</div><div>\\item Prinzip der Schuberzeugung</div><div>\\item Größe / Skalierung</div><div>\\item Treibstoffwahl</div><div>\\end{itemize}</div><div>[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "rkiI_ZusMC",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie lauten die generischen drei Stufen eines elektrischen Raumfahrttriebwerks? Wie hängen deren Wirkungsgrade zusammen?[/latex]",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item Energieversorgungsanlage</div><div>\\item Wandler</div><div>\\item eigentliches Triebwerk</div><div>\\end{itemize}</div><div><br></div><div>Gesamtwirkungsgrad: $\\eta_g = \\eta_E\\cdot\\eta_{Wa}\\cdot\\eta_T$\\\\</div><div><br></div><div>$\\eta_T$ eigentlich \"Schubwirkungsgrad\"</div><div>[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "M!b+KL~.Pl",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist $\\eta_T$? Wie und mit welche Größen wird es berechnet? Welche Vereinfachung kann getroffen werden?[/latex]<br>",
+                        "[latex]Der Wirkungsgrad des Treibwerks, auch Schubwirkungsgrad. \"Wie effizient wird anliegende Leistung in Schub-/Jetleistung umgewandelt.\"\\\\<div>$\\eta_T = \\dfrac{F^2}{2\\dot{m}P_{ref}+{F_{kalt}}^2}$<br><div>\\begin{itemize}</div><div>\\item elektrisch: $P_{ref} = P_{el}$ \\textbf{Bezugsleistung}</div><div>\\item chemisch $P_{ref} = P_{th}$ \\textbf{Heizleistung}</div><div>\\end{itemize}</div><div>Ist der Kaltgasschub klein, kann ${F_{kalt}}^2$ vernachlässigt werden. Dann gilt:\\\\</div><div>$\\eta_T = \\dfrac{P_j}{P_{ref}}=\\dfrac{\\frac{1}{2}\\dot m{c_e}^2}{P_{ref}}=\\dfrac{F^2}{2\\dot{m}P_{ref}}$\\\\</div><div><br></div><div>Funfact: Für ein DC-Triebwerk ist $P_{ref} = U\\cdot I$.</div><div>[/latex]</div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "Dz@%J[s7hs",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie beispielhaft drei Arten von Verlusten eines Antriebs und einen zugehörigen partiellen Wirkungsgrad. Nennen Sie beispielhaft eine Quelle für die jeweilige Art des Verlustes.[/latex]<br>",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item Thermische Verluste $\\Rightarrow$ Thermischer Wirkungsgrad\\\\Quelle: Thermische Verluste durch Strahlung und Konvektion im Treibwerk an die Strukturen\\\\</div><div>$\\eta_{th} = \\dfrac{P_{el}-\\dot Q_{th}}{P_{el}}$</div><div>\\item Düsenverluste $\\Rightarrow$ Düsenwirkungsgrad\\\\Quelle: Nichtangepasste Düse; Strahldivergenz</div><div>\\item Verluste durch einfrieren der Strömung $\\Rightarrow$ Wirkungsgrad der eingefrorenen Strömung\\\\Quelle: Treibstoffsystem relaxiert nicht rechtzeitig;\\\\Relaxationszeit $&gt;$ Expansionszeit</div><div>\\end{itemize}</div><div>[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "hA8duL5PAB",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was kann man unter \"Verluste durch einfrieren der Strömung\" verstehen?[/latex]",
+                        "[latex]Verluste durch eingefrorene Reaktionen. Durch erforderliche Ionisations und Dissoziationsprozesse wird chemische Energie gebunden. Ist die Verweildauer des Treibstoffs im Beschleunigungsbereich aber kürzer als die Relaxationszeit des Treibstoffes, wird der Treibstoff ausgeworfen, bevor die gespeicherte Energie genutzt werden konnte. Diese Energie ist für den Jet verloren.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "DNdn4G/=zM",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was versteht man unter einem Kaltgasschub?[/latex]",
+                        "[latex]Der Schub, der vorherrscht, wenn die anliegende Leistung 0 ist.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "LZ~wd&#E|<",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist $\\eta_f$? Wie berechnet es sich? Was geht qualitativ ein, was weniger?[/latex]",
+                        "[latex]Wirkungsgrad der eingefrorenen Strömung.\\\\<div><br></div><div>$\\eta_f = \\dfrac{h_0-h_f}{h_0}$ mit $h_f = \\Delta h_{gg} - \\Delta h_f$\\\\<div><br></div><div>wobei<div>\\begin{itemize}</div><div>\\item $h_0$: Gesamtenthalpie des Treibstoffs in der \"Brennkammer\"</div><div>\\item $h_f$: Enthalpie, die nicht in der Expansion zurückgewonnen werden kann<br><div>\\item $\\Delta h_{gg}$: Enthalpie-Umsatz in der Düse im Gleichgewichtsfall</div><div>\\item $\\Delta h_f$: Enhalpie-Umsatz in der Düse im eingefrorenen Zustand.</div><div>\\end{itemize}</div><div>$\\eta_f$ hängt von Treibstoff (Ionisations-/Dissoziationsenergie), Brennkammertemperatur und -druck (Enthalpien) ab. Hängt weniger von Düsengeometrie ab (vernachlässigbar).</div><div>[/latex]</div></div></div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "M%@cM(9!c6",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Der Wirkungsgrad der eingefrorenen Strömung ($\\eta_f$) ist eine Funktion von $c_e$. Erklären Sie qualitativ den Zusammenhang. Warum steigt er für die meisten Stoffe ab einem bestimmten $c_e$ wieder an?[/latex]",
+                        "[latex]Je höher das $c_e$, desto kürzer die verweildauer in der Düse. Warum es wieder ansteigt... keine Ahnung...[/latex]<div><img src=\"paste-7b40b2cb6e5cef3203e76dc3b8dca6ffa696806a.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "ek$(XSfYWv",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist der Massenwirkungsgrad? Wo ist er besonders wichtig?[/latex]",
+                        "[latex]$\\eta_M = \\dfrac{I_i}{I_i+I_0}$\\\\<div><br><div>mit</div><div>\\begin{itemize}</div><div>\\item $I_i$: Schuberzeugender Teilchenstrom (Ionisierter)</div><div>\\item $I_0$: Neutraler Teilchenstrom</div><div>\\end{itemize}<br><div>Wird herangezogen zur Charakterisierung der Neutralteilchenverluste von Triebwerken, die vollständige Ionisation anstreben. Denn bei Ionentriebwerken können nur die ionisierten Teilchen zum Schub beitragen.[/latex]</div></div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "eXX<JLz6!+",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist die Alf\\'engeschwindigkeit?[/latex]<br>",
+                        "[latex]$v_A$ Die Geschwindigkeit, die ein Teilchen erreichen würde, wenn die gesamten Reaktionsenergien und latenten Wärmen in kinetische Energie umgewandelt würden.\\\\<div><br></div><div>$ \\frac{1}{2} \\bar m_A {v_A}^2=(\\alpha_D E_D + \\alpha_{J,i} \\bar E_{J,i})+(r_D + r_S)\\bar m_A$\\\\</div><div><br></div><div>mit</div><div>\\begin{itemize}</div><div>\\item $E_D$: Dissoziationsenergie</div><div>\\item $\\bar E_{J,i}$: Mittlere Ionisationsenergie der i-ten Stufe</div><div>\\item $r_S, r_D$: Schmelz-, respektive Verdampfungswäreme</div><div>\\item $\\alpha_D, \\alpha_{J,i}$: Dissotiations-, respektive Ionisationsgrad der i-ten Stufe</div><div>\\item $\\bar m_A$: Mittlere Atommasse</div><div>\\end{itemize}</div><div>Abhängigkeit der Alvengeschwindigkeit vom Atomgewicht:</div><div>[/latex]</div><div><img src=\"paste-7e01c3ad9c5531f0b611347f8c8d16645fa641f6.jpg\"><br></div><div><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "A4^RjAK.a0",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist $kv_A$?[/latex]",
+                        "[latex]Die effektive gerätespezifische Alf\\'engeschwindigkeit. (Und was das?)<div>\\\\</div><div>k berücksichtigt die Ionisationsverluste pro Teilchen \\\\</div><div>$kv_A$ $\\rightarrow$ Ionisationsverluste * maximale Geschwindigkeit mit Reaktionsenergie und latenten Wärmen (Alvengeschwindigkeit)<br></div><div>[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "ju],D$iBO5",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie ist der Schubwirkungsgrad für Plasmatriebwerke definiert? Welche Annahmen werden getroffen?[/latex]",
+                        "<div>[latex]<br></div><div>$\\eta_T=\\dfrac{Schubenergie}{Strahlenthalpie} = \\eta_{T,max}\\dfrac{{c_e}^2}{{c_e}^2+(kv_A)^2}$<br></div><div><div>mit&nbsp;</div><div>\\begin{itemize}</div><div>&nbsp; \\item $\\eta_{T,max}$: Grenzwert für $c_e \\rightarrow \\infty$, beinhaltet thermische und Düsen-Verluste</div><div>&nbsp; \\item $v_A$: Alf\\'engeschwindigkeit</div><div>&nbsp; \\item $k$: Koeffizient zur Berücksichtigung der Ionisationsverluste pro Teilchen</div><div>\\end{itemize}</div><div>Unter den Annahmen, dass\\begin{itemize}</div><div>&nbsp; \\item der Ionisationsgrad nahe 1 ist,</div><div>&nbsp; \\item mit Steigerung der elektrischen Leistung die thermischen Verluste nicht nennenswert steigen,</div><div>&nbsp; \\item in einem weiten Betriebsbereich die Verluste durch Reaktionsenergien im Strahl relativ konstant sind.</div><div>\\end{itemize}<br></div><div><br></div><div>Anmerkung: Als Plasmatriebwerke gelten im engeren Sinne Eigen-/Fremdfeld/ MPD-Antriebe, Hallionenantriebe, thermische Lichtbogentriebwerke und induktive Triebwerke. (alle elektrischen?)<br></div><div>[/latex]<br></div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "l522uso;Up",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "\n<div><div>[latex]Sagen Sie etwas zu diesem Diagramm.[/latex]<img src=\"paste-db1b4458cf95890f8bd1f27f55fa1a488b829b16.jpg\"></div>\n</div>",
+                        "<img src=\"paste-9555451bafd1f84f2d484ae078c0a4fcce4472c0.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "j[q1bS5{8n",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Sagen Sie etwas zu diesem Diagramm.[/latex]<div>\n<div>\n<div><img src=\"paste-8a7424e75877b96e535738b2688271ce4ee30178.jpg\"><br></div>\n</div></div>",
+                        "<img src=\"paste-3d25eca572a876f04914e1e2395dfd7a33d0aeee.jpg\"><div>[latex] Optimierung des Geschwindigkeitsinkrements durch: [\\latex]<br><div><img src=\"paste-7b8e295e130c4e33180a7acad2e2d40ec2b35cd0.jpg\"><br></div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "D9MTQ33Q|D",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Sagen Sie etwas zu diesem Diagramm.[/latex]<img src=\"paste-92ece1aa5f10219f91713ce054791f1a51483256.jpg\"><br>",
+                        "<img src=\"paste-9deeec485bb64f74b90105aab01a80ff86e04adc.jpg\"><div>[latex] Optimierung des Nutzlastmassenanteils durch: [\\latex]</div><div><img src=\"paste-406185472c3e5113f0475955c514c856b90b370a.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "jV:eQBUz>?",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was besagt die Geschwindigkeit $v_c$?[/latex]",
+                        "[latex]<div>$v_c$ ist die charakteristische Geschwindigkeit.</div><div>\\\\Sie enthält die Güte der Energieversorgung und den Wirkungsgrad des Antriebs<br><div>[/latex]</div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "LeKnuB?t63",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "4de1faac-a0f4-11ea-b2f1-b4d5bdceb84f",
+            "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "06 Thermische Lichtbogentriebwerke",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
             "crowdanki_uuid": "27715170-9c1e-11ea-bfd1-b4d5bdceb84c",
             "deck_config_uuid": "4a2a200c-9c13-11ea-8419-b4d5bdceb84c",
             "desc": "",
@@ -1886,19 +1899,6 @@
                     "tags": []
                 }
             ]
-        },
-        {
-            "__type__": "Deck",
-            "children": [],
-            "crowdanki_uuid": "4de1faac-a0f4-11ea-b2f1-b4d5bdceb84f",
-            "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
-            "desc": "",
-            "dyn": 0,
-            "extendNew": 10,
-            "extendRev": 50,
-            "media_files": [],
-            "name": "06 Thermische Lichtbogentriebwerke",
-            "notes": []
         }
     ],
     "crowdanki_uuid": "ceacbbb3-9b4e-11ea-8a75-b4d5bdceb84c",
