@@ -4,630 +4,6 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "4de1faa8-a0f4-11ea-bcc6-b4d5bdceb84f",
-            "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
-            "desc": "",
-            "dyn": 0,
-            "extendNew": 10,
-            "extendRev": 50,
-            "media_files": [
-                "latex-01898101d79f908bc51b7b6a6950c6e3bd7ac6fa.png",
-                "latex-0304eb2dc5890b407897a1cdc022ea58387f0acd.png",
-                "latex-053423a694427af3159645497ee5dfcaff8b90ce.png",
-                "latex-08293316965f7a9f88f76d2ef33cfb5f927a3389.png",
-                "latex-09da0774fa79b67a7efd5da61c8bfa65fc4dba3d.png",
-                "latex-09dd0bb6c58fc53c72391ec32b766a1bf1b24a07.png",
-                "latex-0f0665406ce5bf5c46d560d0e94b07f6066c756c.png",
-                "latex-0fbcf2979e04ffacb465f1830b0a8fa941659181.png",
-                "latex-145f9b13427b2d8175953fc07d0bf2a0ae767f4c.png",
-                "latex-1ddcf95865fae8dddbeb9244d07f474a237e2bb9.png",
-                "latex-1ecdc740ab9c49de4397e364186e3bbad7098d06.png",
-                "latex-20aecc3020805767b3de01c887be628e77063310.png",
-                "latex-21a22e47db25d99d010b91b39d063a9f7b05bb37.png",
-                "latex-24728d9bf58b90b5757f9317aed8aff4a0f6d07c.png",
-                "latex-2a56b39f7223c4d83d42b7f2c88eb12ebdb86806.png",
-                "latex-2add0ac069eb3070e9edbc41d30dd04a167f2349.png",
-                "latex-2daf8c75c423a26c8572edc95bcf5a7cf99a7114.png",
-                "latex-34fda516ad5a7501d21a880ced9969fc910a950e.png",
-                "latex-3ad18738077d8c7ea4317a0b558c08f19fe10285.png",
-                "latex-3bb4ec599312ac068acb5ad5c6342e35901d5c46.png",
-                "latex-4ddc707b657d3df2706a758c71a5337c80075e85.png",
-                "latex-51495f1b998d3159d6e35d509b5c070b7ecb76b4.png",
-                "latex-53fecdd353a455008f12693d747ad1e3ca8abb3d.png",
-                "latex-550bca284277eddc636ce708540ac9f61099fdd5.png",
-                "latex-56c96aaf95a2acf0b6d1efa965245f6f2ded77ba.png",
-                "latex-5987b0f62ea19c7073226eedb2c19e12fd168b3b.png",
-                "latex-5fc3b457d72f8a5eb6a6535ed653208fd62af59b.png",
-                "latex-62bf1b99c55d60a8ff5019e6138e8349e3728e62.png",
-                "latex-631d90ceab45eedbac5b2e28e46986e63688a12f.png",
-                "latex-66d062833345c3e93d3fe5dfa6fe36898df31b26.png",
-                "latex-67ab1b37f7fe81ad8abc60c93d407feb184c47f6.png",
-                "latex-6a3ac057692e086592da1ce599822d62adb4d2bd.png",
-                "latex-6df2cc7bf0c7fdb02e2d6e9d875d5e5129c71200.png",
-                "latex-6fea5a73ad41458f98d828a2886058f5203d1b4e.png",
-                "latex-73d484906131641a135e8cb5a9525f916822011d.png",
-                "latex-759149e5abd74a9e98222e68161abd4bea630689.png",
-                "latex-7a3126d91ca9b31d91748859f1852f5c85e5cf6d.png",
-                "latex-7db3f50ab75493bdea2f9f463d6e519efbfc1d16.png",
-                "latex-86e64230a7058f4402185457b73dd8e4138b0741.png",
-                "latex-8c1d85ee23c9aee5d97593e34c7e09511a5aa3ba.png",
-                "latex-8dad1d62305933aa430aeff4be86fbd02580a192.png",
-                "latex-8e08715cb3d90fbfbb5e796c17e69431ec1a226e.png",
-                "latex-8e3afca32845fcc329b44185df94cd4d6f79df7f.png",
-                "latex-91331c33b741c7f5a9f45a76f1cdb06ea4cc5f50.png",
-                "latex-941619c96e11628469eedc6c7a2dffca3f2a603e.png",
-                "latex-9d9962e6f24377c0a82a9944a5bebb2c55e01262.png",
-                "latex-9ffa5ef572cd25028504b792c0a958bdce57f6a9.png",
-                "latex-a12240046c176af696a2452838e99280e9ae4482.png",
-                "latex-a1859c13ddb42100c97833ad588d4e7f5b6d150b.png",
-                "latex-a50e681be599feffa8e9960442143eef32a45ab0.png",
-                "latex-a6e4ca040c6700413e8a3c49cb2130e603323e57.png",
-                "latex-a7ce6bfb259e0b1a027963a9398237eebd360483.png",
-                "latex-aeb5d075d8d86700b232edf0479e03efa7bef9d4.png",
-                "latex-aeb838eb989d2689976448e80013451ba5ef29d6.png",
-                "latex-b49111232c0f5eceb5ffd7f30bbec930f0a62d0f.png",
-                "latex-b5d1e818882e39037dc5d1ca10c9eb680cc2c3ee.png",
-                "latex-b8f35423dfdb725ecd0c00ffe756df170524f183.png",
-                "latex-b90aea3d73656e7bf46ac3cba2da6a03259f5895.png",
-                "latex-bb235e50c7e00fba9be64fa3090b2017bc7d9456.png",
-                "latex-bdbf35d5ddcefd9268adc91ce451ceca3d0e1f8d.png",
-                "latex-c4be557e95d36a207d03e951ccf889ee3de6d4c5.png",
-                "latex-c4e7947d062e28acae378ec42c34dd8a4c64e68c.png",
-                "latex-c5002e62ed022a242ab9e465b23d7bea2d8ce2f8.png",
-                "latex-c541a0bf3565e0f560555609b3bbbd3972538c83.png",
-                "latex-c69b0c61bb6f12a446589562c825d1ff9a6e1b9c.png",
-                "latex-ca2cc1abb0fa054683c808240aca89fb07f1a7de.png",
-                "latex-caf79d65db3303c51b031c2acb836b810dcaabd6.png",
-                "latex-cc56c2b7986dfd761431155934482b99e558d26c.png",
-                "latex-d307e302881bbdd09bda89e95488c776e7a2b4c3.png",
-                "latex-d3865215f0c079a112c8e5bed647ffffa0cd308f.png",
-                "latex-d50e7adbe179f5e8a73bd1f2af71688efe1aeacb.png",
-                "latex-d856a6f925dfe4c0630188f78ea8aea0fad68f75.png",
-                "latex-d89531defdfe92505ea65dd53dd90ec7ab2c3d49.png",
-                "latex-e00447cb650ee6f7b997a1613d60260d0df3528e.png",
-                "latex-e06bca0b567981842e1421800d7e9a83c00c8b73.png",
-                "latex-e105f76a71d938118ae910cce74b71f788913eba.png",
-                "latex-e29f1515d899af71e803358e5007d6f3f70f3129.png",
-                "latex-e42f817bb9a2ff9b1bc0a6ae534578dc388519b5.png",
-                "latex-e46bb48d07e6cfa0b0582182f55141ae0e3abb74.png",
-                "latex-ec55faf7061fbdd186c907fbd134128e98b9537c.png",
-                "latex-eedb8c74ac478be10e9cdcd0d021796d451987df.png",
-                "latex-f0105ea93729e9fb758abf0076954c7357250068.png",
-                "latex-f19a6aa554226f161f027624a083297c36df713f.png",
-                "latex-f4d56390fa4b0a37c178a575e4ca0de29ae0841d.png",
-                "latex-f6427b3038f0466050f279cc9d3adf1790d6ff61.png",
-                "latex-ffdde4e689bcbfea99702e7b0e7b5bbc41e84fbb.png",
-                "paste-239e56a1972a4f4e33242dc6357778290eb2ef6b.jpg",
-                "paste-79e3a86a1c3f753cdcd5b86fda6ed2c8599d175e.jpg",
-                "paste-b479ff9321cafdadde7cb958e0283c0f3fb32f7b.png",
-                "paste-ba7c3152e5d0e9d2f34ce2b8e857b6791dce4b35.jpg",
-                "paste-d26cfe652994e102b1ef08a0974e12516de1fb97.jpg",
-                "paste-d4a19217533e167014940336478834afbc50f88a.png",
-                "paste-f0392adbb43b3ec1c98a418a171e95e8d3b47bdd.jpg"
-            ],
-            "name": "05 Grundlagen Lichtbogentriebwerke",
-            "notes": [
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Welche Arten von Lichtbogentriebwerken existieren und wie ist das Wirkungsprinzip? Nennen Sie jeweils Beispiele für Triebwerke am IRS.[/latex]<br>",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Thermisches Lichtbogentriebwerk.\\\\Nutzt Thermische Expansion des Treibstoffs zur Schubgewinnung.\\\\Bsp. ARTUS/TALOS, MARX, HIPARC (stationär)</div><div>&nbsp; \\item Magnetoplasmadynamisches Triebwerk (MPD).\\\\Nutzt Lorenzkraft eines ionisierten Plasmas zur Schuberzeugung.\\\\Bsp. DT-x, ZT-x (stationär); SIMPLEX, ADD-SIMPLEX (instationär/gepulst)</div><div>\\end{itemize}[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "NP>2tJtRPw",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wie wird der Düsenhals eines Arcjets genannt? Warum ist er im Vergleich einer gewählichen Laval-Düse so lang?[/latex]",
-                        "[latex]Restriktor. Um dem Treibstoff Zeit zu geben, die Energie des Arcs aufzunehmen.[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "xH<PYe1_<C",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wie ist das Beschleunigungsprinzip eines Thermischen Lichtbogentriebwekrs?[/latex]",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Der Massenstrom wird im Ulterschallbereich durch den elektrischen Widerstand eines Lichtbogens erhitzt</div><div>&nbsp; \\item Überschalldurchgang in der Nähe des engsten Düsenquerschnitts</div><div>&nbsp; \\item Anschließende Beschleunigungn durch Lavaldüse</div><div>\\end{itemize}</div><div>Aufheizung im Überschallbereich würde zu Verlusten führen. Daher ist Anodenansatz direkt hinter engstem Querschnitt platziert.[/latex]</div><div><img src=\"paste-f0392adbb43b3ec1c98a418a171e95e8d3b47bdd.jpg\"><br></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "crr%A#j6qh",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Warum ist das Erhitzen der Strömung im Überschallbereich (Lavaldüse) schlecht?[/latex]",
-                        "[latex]Durch Erhitzen wird die lokale Schallgeschwindigkeit erhöht. Man geht das Risiko ein, eine Stoßwand zu erzeugen.[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "Kb;^HU+7i{",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wie ist das Beschleunigungsprinzips eines MPDs?[/latex]",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Lichtbogen wird genutzt, um Treibstoff zu ionisieren</div><div>&nbsp; \\item Lorenzkraft (durch Magnetfeld) wird genuzt, um Treibstoff zu beschleunigen\\begin{itemize}</div><div>&nbsp; &nbsp; \\item Eigenfeld MPD\\\\Magnetisches Feld des Lichtbogens wird genuzt.</div><div>&nbsp; &nbsp; \\item Fremdfeld MPD\\\\Zusätzlich wird eine Magnetspule um das Triebwerk gelegt um noch höhere Kräfte zu erzeugen.</div><div>&nbsp; \\end{itemize}</div><div>&nbsp; \\item Anodenansatz sollte am Ende der Düse sein, um Überschall durch magnetische Kräfte zu erzeugen</div><div>&nbsp; \\item Thermische Effekte sind Vernachlässigbar</div><div>\\end{itemize}[/latex]</div><div><img src=\"paste-ba7c3152e5d0e9d2f34ce2b8e857b6791dce4b35.jpg\"><br></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "zHYG~7ZeI_",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Welche Arten der Gasentladung gibt es? Was sind die entsprechenden Charakteristika?[/latex]",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Dunkelentladung (Dark Discharge)\\begin{itemize}</div><div>&nbsp; &nbsp; \\item Kein sichtbares Licht</div><div>&nbsp; &nbsp; \\item Strom entsteht schon durch einwirkung natürlicher radioaktiver Strahlung<br></div>&nbsp; &nbsp; \\item Oberhalb einer Stromstärken-Schwelle kommt es zu einem Kaskaden-Effekt, da durch freigesetzte Elektronen weitere Atome ionisiert werden<div>&nbsp; \\end{itemize}</div><div>&nbsp; \\item Glimmentladung (Glow Discharge)\\begin{itemize}</div><div>&nbsp; &nbsp; \\item Sichtbares Glimmen<br></div><div>&nbsp; &nbsp; \\item Am Anfang der Phase ein negativer differentieller Widerstand<br></div><div>&nbsp; &nbsp; \\item Kathodenfall-Schicht in der Nähe der Kathode.\\\\Lichttarmer Bereich in dem ein starkes Magnetfeld herrscht. Eintreffende Teilchen schlagen weitere Elektronen heraus, die zur erzeugung weiterer Ionen beitragen.<br></div><div>&nbsp; \\end{itemize}</div><div>&nbsp; \\item Bogenentladung (Arc)\\begin{itemize}</div><div>&nbsp; &nbsp; \\item Sichtbarer Lichtbogen<br></div><div>&nbsp; &nbsp; \\item Strom fließt in dünnen Kanälen (Blitze, wegen Pincheffekt)<br></div><div>&nbsp; &nbsp; \\item Sehr hohe Temperaturen, besonders in Elektrodenbereich. Aus Glühenden Kathoden treten Elektronen aus, die Gesamtzahl der freien Elektronen sehr stark erhöht.<br></div><div>&nbsp; \\end{itemize}</div><div>\\end{itemize}[/latex]</div><div><br></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "INg&1$ju=c",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Zeichnen Sie qualitiativ eine Strom-Spannungscharakteristik der Gasentladung. Wovon hängt die Ausprägung der Kurve ab?[/latex]<br>",
-                        "<div>\n<div>\n<div><img src=\"paste-b479ff9321cafdadde7cb958e0283c0f3fb32f7b.png\"></div>\n</div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "g,CR9-SUlq",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Warum kann bei der Betrachtung der Arc-Eigenschaften der Durchgang der Glimmentladung vernachlässigt werden?[/latex]<br>",
-                        "[latex]Der Durchgang durch den Bereich der Glimmentladung muss nicht erfolgen. Es kann direkt ein Durchbruch eines Arcs stattfinden. Ein effizientes Triebwerk strebt das an.[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "fEuXW@mj!;",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wovon hängt die Durchbruchspannung eines Arcs ab?[/latex]",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Gasdruck</div><div>&nbsp; \\item Elektrodenabstand</div><div>&nbsp; \\item Elektrodenform (beeinflusst E-Feldverteilung</div><div>&nbsp; \\item Gas- und Kathodentemperatur</div><div>&nbsp; \\item Einstrahlungsbedingungen</div><div>\\end{itemize}[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "JV6+pc-(O`",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was ist die Paschenkurve?[/latex]",
-                        "[latex]1889 stellte Friedrich Paschen experimentell das Paschen-Gesetz auf, das besagt, dass die Durchschlagsspannung bei gegebenem Gas eine Funktion des Produktes aus dem Abstand der Elektroden (Schlagweite) und des Druckes ist. Die Paschenkurve ist die Visualisierung dieses Paschengesetzes.[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "v0.5eufh]s",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Warum ist die Paschenkurve im niedrigen Bereich, so steil? Warum steigt sie später wieder an?[/latex]",
-                        "[latex]Steil am Anfang:\\begin{itemize}<div>&nbsp; \\item Bei konstantem Druck:\\\\Je geringer der Abstand, desto kürzer die Strecke, die Elektronen Beschleunigt werden, bis sie auf der anderen Elektrode auftreffen. Ist die kinetische Energie zu gering, so werden keine Gasteilchen Ionisiert.</div><div>&nbsp; \\item Bei konstantem Abstand:\\\\Je geringer der Druck, desto weniger Teilchen zum Ionisieren stehen zur Verfügung.</div><div>\\end{itemize}</div><div>Später steigt die benötigte Spannung wieder an, da der Widerstand des Gases überwunden werden muss. Also mehr Atome oder mehr Distanz (was irgendwie auch mehr Atome sind).[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "Pc>kU!_mc5",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was sind typische Spannungsbereiche für einen Lichtbogen bei einem bar Druck und einem Millimeter Abstand (Typisch für Lichtbogentriebwerke)?[/latex]<br>",
-                        "[latex]Um die $4400\\,$V.[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "FY${rl[_de",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wie ist der Aufbau eines Lichtbogens (inklusive Erzeugung)? Was sind die Eigenschaften der Einzelteile und wo werden die Ladungsträger erzeugt?[/latex]",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Kathode\\\\Geladene Elektrode</div><div>&nbsp; \\item Kathodenfallbereich\\\\Bereich mit starkem Elektrischen Feld. Erzeugt Elektronen durch kinetischen Aufschlag von Ladungsträgern. Zieht Ionen an.</div><div>&nbsp; \\item Plasmasäule\\\\Das Meiste vom sichtbaren Lichtbogen</div><div>&nbsp; \\item Anodenfallbereich\\\\Pendant zum Kathodenfallbereich.</div><div>&nbsp; \\item Anode\\\\Geladene Elektrode</div><div>\\end{itemize}</div><div>In den Fallbereichen herrschen hohe elektrische Feldstärken und es herrscht eine nichtlineare Spannung, da in diesen Bereichen die Ladungsträger zur Aufrechterhaltung des Elektronen-/Ionenstroms erzeugt werden. Die Schicht ist sehr dünn; wenige mittlere freie Weglängen.\\\\Die Plasmasäule ist quasineutral, die elektrische Feldstärke ist nahezu konstant und die Spannung verläuft nahezu linear.[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "ES[rjTY0*z",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wie verläuft die Strom-Spannungscharakteristik eines Lichtbogens? In welchen Bereichen auf der Kurve befinden sich die TLTs und die MPDs und warum?[/latex]<br>",
-                        "<img src=\"paste-d26cfe652994e102b1ef08a0974e12516de1fb97.jpg\"><div>[latex]\\begin{itemize}</div><div>&nbsp; \\item Thermische Lichtbogen Triebwerke:\\\\Benötigen kein ionisiertes Gas. Ionisieren von Gas sind Verluste, die man nur schlecht wieder bekommt. Darum eher links, sodass gerade genug Ionen existieren, um den Lichtbogen aufrecht zu erhalten. Mit steigendem Ionisationsgrad erhöht sich die Leitfähigkeit (Strom steigt, Spannung fällt)\\\\(Fallende Charakteristik)</div><div>&nbsp; \\item Magnetoplasmadynamische Triebwerke:\\\\Benötigen ein ionisiertes Gas für Beschleunigung. Daher wird von Anfang an ein nahezu vollständig ionisiertes Gas angestrebt. Durch erhöhung der Stromstärke, werden Stromlinien weiter hinausgetragen.\\\\(Steigende Charakteristik)</div><div>\\end{itemize}[/latex]<br></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "S$8D`ZRb*",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wie zündet man ein TLT?[/latex]",
-                        "[latex]Es werden einige tausend Volt angelegt (Entladungskammerdruck bei einigen bar). Sobald ein Durchbruch stattfindet, muss die Leistung (damit die Spannung) sehr schnell reguliert werden, da das Triebwerk sonst überhitzt.//Hohe Abhängigkeit des Betriebsverhaltens von der Zündelektronik.[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "Lbt%Z.7`xK",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wie Zündet ein MPD?[/latex]",
-                        "[latex]Betriebsspannung von einigen hundert Volt werden angelegt (Entladungskammerdruck bei $10^{-3}-100\\,$mbar). Diese reicht um einen Durchschlag zu erzielen.\\\\Keine Einfluss der Zündelektronik auf das Betriebsverhalten.[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "p?~v].}B1*",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wie hängt die Stromdichte mit der Beweglichkeit und der Leitfähigkeit zusammen?[/latex]<br>",
-                        "[latex]Die Stromdichte $\\vec j$ hängt in erster Linie von der Ladungszahl $z$, der Teilchendichte $n$ und der mittleren Geschwindigkeit dieser Teilchen ab. Die mittlere Geschwindigkeit ist mit der \"Beweglichkeit\" $b$ als Vorfaktor direkt proportional zur elektrischen Feldstärke $\\vec E$.\\\\Unter der Annahme einfach ionisierter Teilchen ($z_k=1$) und eines quasineutralen Gases ($n_i = n_e$) kann mit $en_e(b_i+b_e)=\\sigma$ als Leitfähigkeit der Zusammenhang $\\vec j=\\sigma\\vec E$ hergeleitet werden.\\\\Zudem kann gezeigt werden, dass die Beweglichkeit eine Funktion der Teilchenmasse, der Teilchentemperatur und der mittleren freien Weglänge der Teilchen ist. Vergleicht man nun die Beweglichkeit zwischen Ionen und Elektronen, ist zu erkennen, dass das Verhältnis der Stromanteile umgekehrt proportional zur Wurzel des Massenverhältnisses derer ist. Selbst im Falle von Wasserstoff ist die Elektronenbeweglichkeit und damit der Elektronenstrom um faktor 42 größer, als der Ionenstrom.\\\\Vernachlässigt man schlussfolgernd die Beweglichkeit der Ionen, lässt sich die Stromdichte als Funktion der elektrischen Feldstärke und der Leitfähigkeit bestimmen, die wiederum nur eine Funktion der Elektronendichte und -temperatur ist. $\\vec j = \\vec j(\\vec E,n_e,T_e)=\\sigma(n_e,T_e)\\vec E$\\\\All diese Größen lassen sich in der Brennkammer gut messen.[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "h-]>`peJiB",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wie wird Energie von der Lichtsäule an den Treibstoff übertragen?[/latex]<br>",
-                        "[latex]Elektronen geben Energie an Schwerteilchen durch Stöße ab und erhizen den Treibstoff so.[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "d(Ut]Mom.;",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wie hängen die Leistung einer Ohmschen Heizung und die Elektromagnetische Kraft vom Strom ab?[/latex]",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Ohmsche Heizung ~$j^2/\\sigma$</div><div>&nbsp; \\item Elektromagnetische Kraft ~$j\\times B$</div><div>\\end{itemize}[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "wX_{7YCz9E",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Welche Eigenschaften hat die Plasmasäule?[/latex]",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Quasineutral</div><div>&nbsp; \\item Über Säule weitgehend konstantes Feld</div><div>&nbsp; \\item Thermisches Ungleichgewicht mit $T_e&gt;T_g$</div><div>\\end{itemize}[/latex]</div><div><img src=\"paste-79e3a86a1c3f753cdcd5b86fda6ed2c8599d175e.jpg\"><br></div><div>[latex]TLTs ab $1\\,$bar (eher im Gleichgewichtsbereich)\\\\MPD eher im mbar Bereich; starke Differenzen[/latex]<br></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "pn=M|,(EdJ",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wie ist die Anhängigkeit des elektrischen Feldes von der Spannung?[/latex]",
-                        "[latex]$E = U/d$[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "d>OF,nSs;-",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wovon hängt die Kathodenfallspannung ab?[/latex]",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Druck</div><div>&nbsp; \\item Gasart</div><div>&nbsp; \\item Kathodentemperatur</div><div>&nbsp; \\item Kathodenmaterial</div><div>\\end{itemize}</div><div>[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "xIG*pCQ:`#",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was sind Eigenschaften der Kathodenfallschicht?[/latex]",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Sehr dünn (wenige freie Weglängen)</div><div>&nbsp; \\item Starker Spannungsanstieg ($&lt;10\\,$V)</div><div>&nbsp; \\item Sehr heiß (Lichtbogen um die $20000\\,$K)</div><div>&nbsp; \\item Spannung schwer bestimmbar (Sonden unmöglich wegen dünn und heiß, höchstens optische Verfahren)</div><div>\\end{itemize}[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "m{E1G8VTN>",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wo und auf welche Arten werden Elektronen zur Aufrechterhaltung eines Lichtbogens bereitgestellt? Welche Effekte sind vernachlässigbar?[/latex]",
-                        "[latex]Im Kathodenbereich.\\\\<div>Mechanismen:\\begin{itemize}<div>&nbsp; \\item Thermische Emission</div><div>&nbsp; \\item Feldemission</div><div>&nbsp; \\item Volumenionisation</div><div>\\end{itemize}</div><div>Vernachlässigbar:\\begin{itemize}</div><div>&nbsp; \\item Chemische Effekte</div><div>&nbsp; \\item Ionenbeschuss</div><div>&nbsp; \\item Angeregte Teilchen</div><div>\\end{itemize}[/latex]</div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "N!d,g0Gp_l",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wofon hängt der Elektronenaustrit aus einer metallischen Oberfläche ab?[/latex]",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Temperatur ($T$)<br><div>&nbsp; \\item Austrittsarbeit ($\\Phi$) (Korrekturfaktor für Material)</div><div>&nbsp; \\item Emissionskonstante (auch Richardsonkonstante) ($A$) (Materialabhängig)<br><div>\\end{itemize}</div><div>$j=AT^2e^{-\\frac{e\\Phi}{kT}}$[/latex]</div></div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "E!>b4~O+Ho",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Welchen Einfluss hat die Austrittsarbeit der Elektronen auf die Temperatur der Elektrode?[/latex]",
-                        "[latex]Die Elektrode wird um den Betrag der Austrittsarbeit gekühlt.[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "e:YKkMbz_(",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Nennen Sie ein positiv und ein negativ Beispiel für ein Kathodenmaterial in einem Lichtbogentriebwerk. Welches Material ist Gegenstand von Forschung (Probleme/Potential)?[/latex]",
-                        "[latex]<div>Ungeeignet: Kupfer. Niedrige Schmelztemperatur, hohe Austrittsarbeit (also viel heizen und viele thermische Verluste).\\\\</div><div><br></div><div>Geeignet: Wolfram mit $2\\,$%Thoriumoxid. Hohe Schmelztemperatur, niedrige Austrittsarbeit.\\\\Thorium ist aber leicht Radioaktiv \\#Arbeitsschutz; daher wird oft Tantal anstelle von Thorium verwendet. Nicht ganz so gut, aber okay.\\\\</div><div><br></div><div>Forschung: Kohlenstoff. Sehr hoher Schmelzpunkt bei mäßiger Ionenaustrittsarbeit.\\\\Problem: Reaktionen mit Treibstoff, Erosion.\\\\Potentioal: Sehr lange Lebensdauer.[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "I~bo&nJitL",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wie wirkt sich das Gas auf die thermische Emission der Kathode aus?[/latex]",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Durch Ionen gebildete Grenschicht wirkt hemmend auf Elektronenemission</div><div>&nbsp; \\item Adsorption von Gasatomen verändert Austrittsarbeit</div><div>&nbsp; \\item Herausschlagen von Elektronen aus Oberfläche durch Ionen</div><div>\\end{itemize}[/latex]<br></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "OJ>~X`EiKD",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wodurch wird die thermische Austrittsarbeit bei einem gegebenen Metall beeinflusst?[/latex]",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Materialfehler</div><div>&nbsp; \\item Beimengungen im Metall (Raffiniert oder Verschmuzt)</div><div>&nbsp; \\item Gasart</div><div>&nbsp; \\item Druck</div><div>\\end{itemize}[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "eg6`h)3%A+",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was ist Feldemission im Zusammenhang des Kathodenfallbereichs?[/latex]",
-                        "[latex]Feldverstärkte Glühemission ist die Elektrodenemission, die in der Kathodenfallschicht infolge eines hohen Elektrischen Feldes zustande kommt. Hat nur bei sehr hohen Feldern einen nennenswerten einfluss (z.B. Zündung TLT).[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "h!mj%`4#0m",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was ist Thermische Emission im Zusammenhang des Kathodenfallbereichs?[/latex]",
-                        "[latex]Auch Glühemission.\\\\Thermischer Elektronenaustritt aus einer Metallischen Oberfläche. Beim TLT aus der Kathode.[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "utQB|#KMvv",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was ist Volumenionisation im Zusammenhang des Kathodenfallbereichs?[/latex]",
-                        "[latex]Im Kathodenfallgebiet sammeln sich Ionen. Die Ionisation wird ausgelöst durch\\begin{itemize}<div>&nbsp; \\item Axiale Wärmeleitung aus der Säule</div><div>&nbsp; \\item Ohmsche Heizung in der Schicht</div><div>&nbsp; \\item Restenergie der Ionen, die an Kathode reflektiert werden.</div><div>\\end{itemize}</div><div>Die emittierten Elektronen wandern dann zur Anode, Ionen zur Kathode und erhitzen diese.\\\\</div><div><br></div><div>Nur durch die Energie, die durch den Aufschlag der Ionen an die Kathode gegeben wird, muss die Kathode nicht geheizt werden.</div><div>[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "nT*2^C2+FB",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Welche beiden Kriterien bei der Kathodenauslegung sind wichtig?[/latex]",
-                        "[latex]Erosion der Kathode. (Temperaturabhängig!)\\\\Keine Materialveränderung im Dauerbetrieb.\\\\<div><br></div><div>Gerade beim Starten ist die Kathode noch kalt. Wenn dann die ersten Blitze überschlagen, bilden sich Brennflecken, da Material herausgeschlagen wird.[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "p?X[i9ir6!",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was ist eine kalte Kathode? Welche Probleme treten auf?[/latex]",
-                        "[latex]Eine Kathode im niedrigen Temperaturbereich. Zu finden ist sie bei gepulsten Lichtbogengeräten und beim Zündvorgang kontinuierlich betriebener Geräte.\\\\Der Übergang zur heißen Kathode findet Sprunghaft mit einem Spannungsrückgang statt.\\\\<div><br></div><div>Durch lokale Temperaturerhöungn entstehen instabile Brennflecken im Zeitbereich von $10^{-9}\\,$s, die von der Spitze nach hinten laufen. Durch die lokalen Belastungen durch hohe Ionenstromdichten und hohe Dampfdrücke entstehen:\\begin{itemize}</div><div>&nbsp; \\item große Erosion&nbsp;</div><div>&nbsp; \\item Schmelzen</div><div>&nbsp; \\item Kraterbildung auf</div><div>\\end{itemize}</div><div>der Kathode.[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "iV`ufJ.CWF",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was ist eine heiße Kathode? Welche Größe ist für einen stabilen Erhalt wichtig? Worauf muss sonst geachtet werden?[/latex]",
-                        "[latex]Der Betriebsbereich einer Kathode im hohen Temperaturbereich. Gekennzeichnet ist sie durch ein diffuses Ansetzen der Lichtbögen gekennzeichnet ist; so kommt es nicht zu lokalen Brennflecken. Eine heiße Kathode trifft man bei dauerbetriebenen Lichtbogengeräten an\\\\<div><br></div><div>Der Druck ist wichtig; bei zu niedrig gibt es Probleme am Anoden-Lichtbogenansatz, zu hoch greift der Lichtbogen zu lokal an der Kathode an und es kommt wieder zu Brennflecken.\\\\</div><div><br></div><div>Ansonsten darf der Massendurchsatz nicht zu hoch sein, da die Kathode sonst zu sehr gekühlt wird \\#Kalte Kathode. Auch geringe Spuren von Sauerstoff führen zu drastischer Erosion. (Mit Abstand höchste Erosion tritt sonst beim Zünden auf.[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "bG,WJZ1Se1",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was ist Sekundär Hydrazin?[/latex]",
-                        "[latex]Ein Gasgemisch aus N$_2$ und H$_2$, das aus den Einzelkomponenten von Hydrazin besteht und als Workaround genutzt wird, um an der Uni nicht mit giftigem Hydrazin arbeiten zu müssen.[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "bqkM,M[d5}",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was ist Sublimation? Wo ist die Problemstellung bein Lichtbogentriebwerken?[/latex]",
-                        "[latex]Direkter Übergang vom festen zum gasförmigen Aggregatszustand.\\\\<div>Die Kathode sublimiert bei zu hohen Temperaturen. Zahlenbereich bei gereinigtem Treibstoff $E_r = 1\\,$ng/C.\\\\Lösungsansätze wären ein Erhöhen des Brennkammerdrucks (was aber wieder zu weiteren Problemen führt). Bei MPDs ist das keine Lösung, da vollständige Ionisation erreicht werden soll. Temperatur kann auch nicht verringert werden, da Elektrodenemission weiterhin gewährleistet sein muss.[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "M9x`i*`2^h",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was ist die Aufgabe der Anode in einem Lichtbogentriebwerk? Wie erfüllt sie diese?[/latex]",
-                        "[latex]Erzeugungn von Ionen zur Aufrechterhaltung der Quasineutralität des Plasmas.\\\\<div>Erreicht das durch:\\begin{itemize}</div><div>&nbsp; \\item Elektronenstoß mit Neutralteilchen (Anstieg der Anodenfallspannung)</div><div>&nbsp; \\item Verdampfung und Ionisation von Anodenmaterial (führt zu schwerer Erosion und ist zu vermeiden; daher diffuser Lichtbogenansatz)</div><div>\\end{itemize}[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "fced(VErO4",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Durch welche Mechanismen wird die Anode aufgeheizt? Welche Auswirkungen hat die Aufheizung der Anode auf das Gesamttriebwerk?[/latex]",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Ohmsche Heizung in Kathodenfallschicht</div><div>&nbsp; \\item Enthalpie die Elektronen mitbringen (und Austrittsarbeit)</div><div>&nbsp; \\item Wärmeübergang durch Treibstoff oder Lichtbogen<br><div>\\end{itemize}</div><div>Aufheizung ist (nach eingefrorenen Strömungseffekten) die zweitgrößte Quelle für Verluste. Durch regenerative Kühlung kann ein Teil wieder eingefangen werden.\\\\Zudem führt zu großer Erhitzung zu Verkürzung der Lebensdauer.[/latex]</div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "dHzG9UY<dz",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Welche Effekte führen zu Anodenersion?[/latex]",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Großflächiges Aufschmelzen und Erweiterung des Düsenhalses</div><div>&nbsp; \\item Erstarrtes Auswufmaterial genannter Aufschmelzung</div><div>&nbsp; \\item Lichtbogenansatz beim Übergang in den stationären Betrieb</div><div>\\end{itemize}[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "iW?l],a1:W",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Welche Gleichungen benötigt man unter vereinfachenden Annahmen für die Berechnung der axialen Geschwindigkeitszunahme?[/latex]",
-                        "<div>\n<div>\n<div><img src=\"paste-d4a19217533e167014940336478834afbc50f88a.png\"></div><div>[latex]Unter den Annahmen:[/latex]<br></div><div><img src=\"paste-239e56a1972a4f4e33242dc6357778290eb2ef6b.jpg\"><br></div>\n</div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "A6s%;.)mWv",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Welche Effekte haben Einfluss auf die Treibstoffbeschleunigung? In welche Richtung wirken sie im Unter-/Überschallbereich.[/latex]<br>",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Ohmsche Heizung (Beschleunigend für Unterschall, Bremsend für Überschall)</div><div>&nbsp; \\item Elektromagnetische Kraft (Bremsend für Unterschall, Beschleunigend für Überschall)</div><div>&nbsp; \\item Düsenkontur (jenachdem; siehe Strömungslehre)<br><div>\\end{itemize}[/latex]</div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "L{KM7lNNnb",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was sind die Eigenschaften der Elektrodenfallgebiete?[/latex]",
-                        "<div>[latex] \\begin{itemize}</div>\\item Erzeugung der Ladungsträger zur Aufrechterhaltung\ndes Elektronen- und Ionenstromes&nbsp;<div>\\item Raumladungen können sich aufbauen&nbsp;</div><div>\\item Spannung verläuft nichtlinear&nbsp;</div><div>\\item hohe elektrische Feldstärken&nbsp;</div><div>\\item Ausdehnung von wenigen mittleren freien Weglängen<div>\\end{itemize}</div><div>[/latex]<br></div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "P!3!OVMt}6",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                }
-            ]
-        },
-        {
-            "__type__": "Deck",
-            "children": [],
             "crowdanki_uuid": "4de1d3e4-a0f4-11ea-bb85-b4d5bdceb84f",
             "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
             "desc": "",
@@ -1647,11 +1023,11 @@
             "extendNew": 10,
             "extendRev": 50,
             "media_files": [
+                "latex-18ae368c597ed68f89e26f7e9a831f26cb217ea3.png",
                 "latex-20c6ddf500fc2792a5e0e2ceab05604144f8cca1.png",
                 "latex-24a21a35a42b4933facc71f77169bcf3c408641f.png",
                 "latex-30f68b66dd3bcef430faef95bd8e4300e822a940.png",
                 "latex-3337051c53d9b21c4dc02d21c825a5800713da64.png",
-                "latex-3a377bfd7d1409b9a9080a5a4d828bbd45c43983.png",
                 "latex-3b97e0872932398be9e8144c98ec1228e70177b0.png",
                 "latex-3f2a1e275477aa23edb6a3a34db538245fa163d2.png",
                 "latex-41c240c135b285659c6ef27fdb61fa5b6506eb86.png",
@@ -1917,7 +1293,7 @@
                     "data": "",
                     "fields": [
                         "[latex]Der Wirkungsgrad der eingefrorenen Strömung ($\\eta_f$) ist eine Funktion von $c_e$. Erklären Sie qualitativ den Zusammenhang. Warum steigt er für die meisten Stoffe ab einem bestimmten $c_e$ wieder an?[/latex]",
-                        "[latex]Je höher das $c_e$, desto kürzer die verweildauer in der Düse. Warum es wieder ansteigt... keine Ahnung...[/latex]<div><img src=\"paste-7b40b2cb6e5cef3203e76dc3b8dca6ffa696806a.jpg\"><br></div>"
+                        "[latex]Je höher das $c_e$, desto kürzer die verweildauer in der Düse.<div>\\\\</div><div>Sobald die vollsändige Dissoziation und Ionisation erreicht ist steigt der Wirkungsgrad wieder, weil eine weitere Aufheizung eine direkte BEschleunigung bewirkt.<div>[/latex]<div><img src=\"paste-7b40b2cb6e5cef3203e76dc3b8dca6ffa696806a.jpg\"><br></div></div></div>"
                     ],
                     "flags": 0,
                     "guid": "ek$(XSfYWv",
@@ -2017,403 +1393,6 @@
                     ],
                     "flags": 0,
                     "guid": "LeKnuB?t63",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                }
-            ]
-        },
-        {
-            "__type__": "Deck",
-            "children": [],
-            "crowdanki_uuid": "4de1faac-a0f4-11ea-b2f1-b4d5bdceb84f",
-            "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
-            "desc": "",
-            "dyn": 0,
-            "extendNew": 10,
-            "extendRev": 50,
-            "media_files": [
-                "latex-04a4b57b186ccc7b09d1546e05c649e947272a99.png",
-                "latex-09e4b1ea4ca68c023216b7d7816f22058bcd8879.png",
-                "latex-0d7c9b0483b8011e9fec6ea0029f167eecdc549d.png",
-                "latex-0eb92e40dbfa3b7b59c296a35a3c0c18d469e52c.png",
-                "latex-134786f1c6d38bbe9f4635aa922b63c652c4575d.png",
-                "latex-2466955a4d0e67695afb5b6537290b944b4024a7.png",
-                "latex-2f3f1115662f7e81beb8db29658393bbf717a40e.png",
-                "latex-3353c226a4a5842470d484680f265f9562649854.png",
-                "latex-3604c7d01c81693033960fc622841d4b1928019b.png",
-                "latex-3c45c2595d0eaac76ec51d2717f3ff03cba7ef9a.png",
-                "latex-43130685a8f38279c7a418e1810225303c48de24.png",
-                "latex-45bfa6a7468800cb4f17a2aaaee73742032af42a.png",
-                "latex-45e4a13b160eab380b9736c32c22a533b703a59c.png",
-                "latex-4797355b2db7038c640fe165aaeafda0781c4de6.png",
-                "latex-4ccf00cda9c5663def059372f3b913c9ba73cb47.png",
-                "latex-54bc1e1e184356510abcf928c2eb3c0b0926ef86.png",
-                "latex-5b890057ce988e37636d23cace0e69c9e2fd53df.png",
-                "latex-64d64000bd617fb195ef4e52bdf61483af9e70b8.png",
-                "latex-6555dc4a5c16eabf75d6c8b89a3f4da7466c12f4.png",
-                "latex-6a2476e17caf4ab02015104987c55bda95792b45.png",
-                "latex-71bcf2f5500955ee3e9254f7cf19f43eda0c3d29.png",
-                "latex-72a2c4177ba461fd7a5cd9ccc97a7436ebd1c40c.png",
-                "latex-73af7e77b5676e07c763d9b602db89b9c00bec8c.png",
-                "latex-7464fdfbdbdbf8f6eecd04ee02fc624c05369bb8.png",
-                "latex-7566529aea5cc9cdf38e3bf50ab293ef1b15db02.png",
-                "latex-76d9ca1be2e11c54b95ef2aedf2ca6c5c8034b7b.png",
-                "latex-795f085ca7b298f321cd2396c61575c51088b56d.png",
-                "latex-7b7459cafbe2d22beb150353d657a9ea333b136e.png",
-                "latex-7ba8bd0691d5310c226facf56e16354cb1a0420b.png",
-                "latex-7e1440ba7d042ec72f93ec7dd661ac0e0e7245fc.png",
-                "latex-818ad2044d72055b9d81ff8969f02892d0bb7641.png",
-                "latex-87be8d4669f6a5c05a6ced5726db4866312d0463.png",
-                "latex-8a9f8485f110c4552fa1b28e99ff6f533c5b9186.png",
-                "latex-970e763d3d83b24cc4b2cb6cad5471936575b092.png",
-                "latex-9c7f4f2dac15402fe487c6692020f8ed1a8d8f59.png",
-                "latex-9e24a0af694a405f8f3179f05a5693be4cb71512.png",
-                "latex-9e7cf63cf5954846e3a48c5c65eabca13a93a7cb.png",
-                "latex-a1a9a6e3289994bdf179a14b9ed513d22ea02938.png",
-                "latex-a247ade735aa73b7f23a8263a0c9640c8d231f8d.png",
-                "latex-ae3c86dc2b8c66710b190d93f196a0d4fb178b3b.png",
-                "latex-b76ba35b406748bd618c2bdbfa6e15b41d21a74a.png",
-                "latex-bdacaf13e0e56a0400a7955e3dc571d9d2c61e09.png",
-                "latex-cee8945892285843b4faa751fd1046008afbc553.png",
-                "latex-d1aa909181660afbe93bbb5e9556c2d4e7f6a142.png",
-                "latex-da4cbf561a77390b883ba52a6eda43148ff426bc.png",
-                "latex-ebb31ab471c9dfe103ba4c84a8d10ae3ec50a599.png",
-                "latex-ed1bb7ab8b1d8d110e71628f4d72f2e902e418d2.png",
-                "latex-f6d486fc9ebf0d907691052641e89a5cb255532f.png",
-                "latex-f8f12b94e0c287c1c301202fc2afe79f611c9c86.png",
-                "paste-03ced58e2a812cffb2106efd022ddd548d162394.jpg",
-                "paste-0ccfc3a7ad1efd0c78826505bdf8ef52b5b66945.png",
-                "paste-11acee917e965928dd63411b2bbb3d30210ab170.jpg",
-                "paste-26411d72c11886b178d9ce8e6d59a2a228db52d3.png",
-                "paste-2c2cf3965e5746e69d2bc62b093feaadcf5659ee.png",
-                "paste-4238701845c744f31f50549fc002885fcfe8185c.png",
-                "paste-4cff7c5778234d5aef4b06215f81e9288fea5937.jpg",
-                "paste-578ebb9edabd8149f421449d7b56c4859e244616.jpg",
-                "paste-58ad91bcdaabd3766b84f1ebf4b96d4bfef93a7f.png",
-                "paste-7988ee0fede6875a57f63e782e424eda37c31e89.jpg",
-                "paste-84c20583795ea473ca7609d503982e8ea7ef23ca.png",
-                "paste-933933efb6f9d3ba6f3b27403eea342322585939.jpg",
-                "paste-962301d47e6f197abc60ac3a3f8f129f5ada59f0.png",
-                "paste-a291498aec05a8a47b65f4bfb913a6dd94f38c33.png",
-                "paste-b29bb62ad3f7df8ef2a4fc32775e4f5b08f50ada.png",
-                "paste-b8671965c97be3855d06fc34fd0f5dafedbae4d8.png",
-                "paste-ba48f29adfd141172e79314d84497c5b036d2820.png",
-                "paste-cbbe00cd2332f5d12334e80a6c84b6aaff4895ba.jpg",
-                "paste-d4df930c6557c617934f396904853b8541725f46.png",
-                "paste-de4ed3793a754fad8f2deb548311f04e159e54bc.jpg",
-                "paste-e8c89b38b661b02e97c6ea1e7c91a766a333e39f.jpg"
-            ],
-            "name": "06 Thermische Lichtbogentriebwerke",
-            "notes": [
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was sind typische Kenngrößen für die Auslegung elektrischer Triebwerke?[/latex]<br>",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Gewichtsspezifischer Impuls (s)\\\\</div><div>$I_{SP}=\\dfrac{c_e}{g_0}\\propto\\sqrt{\\dfrac{T_0}{M}}$; Hängt hauptsächlich von Brennkammertemperatur und Molarer Masse ab</div><div>&nbsp; \\item Schubwirkungsgrad (\\%)\\\\</div><div>$\\eta_S =\\dfrac{P_{kin}}{P_{el}}$; Verhältnis zwischen investierter elektrischer Leistung und gewonnener kinetischer Schubleistung</div><div>&nbsp; \\item Spezifische Energie (J/kg)\\\\</div><div>$e=\\dfrac{P_{el}}{\\dot m}$; Investierte elektrische Leistung pro Massenstrom</div><div>&nbsp; \\item Weitere:\\begin{itemize}</div><div>&nbsp; &nbsp; \\item Leistungsspezifischer Schub</div><div>&nbsp; &nbsp; \\item Schubdichte (Schub pro Fläche)</div><div>&nbsp; \\end{itemize}</div><div>\\end{itemize}[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "w=@_}lTjr8",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wie kann in einem Thermischen Lichtbogentriebwerk der Spezifische Impuls hoch gehalten werden?[/latex]",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Entladungskammertemperatur hoch</div><div>&nbsp; \\item Molekulargewicht des Treibstoffs klein</div><div>&nbsp; \\item Lichtbogenansatz am Ende des Düsenhalses (Keine Heizung im Überschall zur Verhinderung von Verdichtungsstößen)<br><div>\\end{itemize}[/latex]</div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "ng>_EWpskV",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Diskutieren Sie den Satz \\textit{Verluste der eingefrorenen Strömung sind Verluste durch Ionisation und Dissoziation}. [/latex]",
-                        "[latex]Die Verluste kommen nicht ausschließlich durch Ionisation und Dissoziation zustande. Es ist energieaufwändig, die Moleküle des Treibstoffs zu dissoziieren und zu ionisieren, würde der Treibstoff aber lange genug in der Düse verweilen, würde die investierte Energie durch Rekombination und Assoziation wierder frei werden und sie wäre nutzbar. Da die Geschwindigkeit des Treibstoffs aber zu hoch ist, ist seine Verweildauer in der Düse viel zu kurz. Der Gaszustand bleibt über die Düse konstant und wir verlieren die vorher in&nbsp; Dissoziation und Ionisation investierte Energie.[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "tHGSd#YQ!n",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Zu welchen Verlusten führt das Dissoziieren und Ionisieren in Thermischen Lichtbogentriebwerken? Warum unterlässt man das nicht?[/latex]",
-                        "[latex]Zu verlusten der eingefrorenen Strömung (etwa $40-60\\,$\\%).\\\\Eine Ionisation im Bereich von $5\\,$\\% ist notwendig, um Ladungsträger für den Erhalt des Lichtbogens bereitzustellen. Da die Ionisation der Dissoziation energetisch nachgeschaltet ist, findet zwangsläufig eine vollständige Dissoziation statt.[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "MGEvYcNM5^",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Welche Arten von Verlusten in einem TLT wirken dem Erreichen eines optimalen spezifischen Impulses entgegen und in welcher Größenordnung liegen sie?[/latex]",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Verluste der eingefrorenen Strömung (Anregungsverluste) ($40-60\\,$\\%)</div><div>&nbsp; \\item Anoden und Kathodenverluste (thermische Verluste) \\\\Abgestrahlte und geleitete Wärme($10-20\\,$\\%)</div><div>&nbsp; \\item Düsenverluste ($5\\,$\\%)\\\\Reibung und Strahldivergenz<br><div>\\end{itemize}[/latex]</div></div><div><div>\n<div>\n<div><img src=\"paste-4238701845c744f31f50549fc002885fcfe8185c.png\"></div>\n</div></div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "HXa!GJMVFY",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Welche Möglichkeiten zur verminderung der verluste der eingefrorenen Strömung gibt es?[/latex]<br>",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Reduktion der Ionisation.\\\\Halten auf dem absoluten Minimum, das benötigt wird, um den Lichtbogen aufrecht zu erhalten</div><div>&nbsp; \\item Recovery Chamber / Dual Cone.\\\\Erhöht Rekombination</div><div>&nbsp; \\item Leicht Ionisierbare Treibstoffe.\\\\Entweder durch Zusatz von Alkalimetallen, Gemische mit z.B. zusätzlichem Argon/Xenon; und den erhalt des Lichtbogens diesen Zusätzen überlassen. Schwieriger Betrieb, teilweise flackern des Bogens.</div><div>\\end{itemize}[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "C_E*9YpzfF",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Welche Arten von Recovery Chambern / Dual-Cone Düsen gibt es? Wie ist das Funktionsprinzip? Wo liegen die Probleme?[/latex]",
-                        "<img src=\"paste-03ced58e2a812cffb2106efd022ddd548d162394.jpg\"><div>[latex]\\begin{itemize}</div><div>&nbsp; \\item \\textbf{Unterschalllichtbogenansatz}: Bogen ist ausschließlich im Unterschallbereich, nicht mehr im Konstriktor/Düsenhals. Das erhöht den Druck und verringert Ionisationsrate.\\\\Problem: Führt zu punktuellem Lichtbogenansatz; Brennflecken; befeuert Erosion. Man könnte durch z.B. Einspritzung oder Magnetfeld eine ständige Verwirbelung des Treibstoffs erreichen, um dem entgegenzuwirken. Das führt aber wieder zu Wärmeaustausch und höheren thermischen Verlusten...</div><div>&nbsp; \\item \\textbf{Rekombinationskammer}: Nach erster Expansion gibt es einen Bereich konstanten Querschnitts (und konstanten Drucks) in dem Zeit für Rekombination gegeben wird. Kammer weit genug hinten, um Überschlag des Lichtbogens zu vermeiden.\\\\Problem: Verluste der Düse durch Reibung in längere Düse und Ausbildung einer größeren Grenzschicht.</div><div>&nbsp; \\item \\textbf{Doppelkonusdüse}: Versuch der Verringerung der Verluste der Rekombinationskammer durch Erhalt der kontinuierlichen Expansion. Erst ein Bereich der langamen Expansion um mehr Zeit für Rekombination zu lassen, dann endgültige Beschleunigungn in einem Bereich der schnellen Expansion. Niedrigere Rekombination als Rekombinationskammer, dafür weniger Düsenverluste (Versuch des Findens eines Optimums).\\\\Kammer wieder bis weit genug nach hinten um Überschlag des Lichtbogens zu vermeiden.</div><div>\\end{itemize}[/latex]<br></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "Fr=Z}6jFrA",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wird ein TLT System über den Strom oder die Spannung geregelt? Wovon hängt die andere Größe ab, wenn die geregelte Größe konstant ist?[/latex]<br>",
-                        "[latex]TLT Systeme sind normalerweise Stromgeregelt.\\\\Die Spannung hängt ab von\\begim{itemize}<div>&nbsp; \\item Massenstrom\\\\Steigt mit Massenstrom</div><div>&nbsp; \\item Lichtbogenlänge\\\\Entspricht grob der Düsenhalslänge/Elektrodenabstand. Spannung sinkt mit steigender Länge (Paschen)</div><div>&nbsp; \\item Düsenhalsdurchmasser/Brennkammerdruck\\\\Großer Düsenhalsdurchmesser führt zu niedrigem Entladungskammerdruck. Niedrigerer Druck sorgt für niedrigere Spannung (Paschen)</div><div>&nbsp; \\item Doppelkonusdüse/Rekombinationskammer\\\\Durch verlängerten Lichtbogen erhöht sich Druck und damit Spannung (Paschen); Lichtbogen muss aber nicht unbedingt verlängert sein.</div><div>&nbsp; \\item Treibstoff\\\\Einatomige Gase mit geringer Ionisationsenergie (Ar, He) zeigen niedrigste Spannung, H$_2$ die höchste.</div><div>\\end{itemize}[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "p2z8lYL#a&",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Welche Anforderungen bestehen an den Treibstoff für ein TLT?[/latex]<br>",
-                        "<div>\n<div>\n<div><img src=\"paste-a291498aec05a8a47b65f4bfb913a6dd94f38c33.png\"></div>\n</div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "PZfu/A^88|",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Vergleichen Sie drei gängige Treibstoffe für TLTs.[/latex]<br>",
-                        "<div>\n<div>\n<div><img src=\"paste-ba48f29adfd141172e79314d84497c5b036d2820.png\"></div>\n<div><img src=\"paste-58ad91bcdaabd3766b84f1ebf4b96d4bfef93a7f.png\"></div>\n<div><img src=\"paste-b29bb62ad3f7df8ef2a4fc32775e4f5b08f50ada.png\"></div>\n<div><img src=\"paste-0ccfc3a7ad1efd0c78826505bdf8ef52b5b66945.png\"></div><div>[latex]It's a praaaaank![/latex]<br></div>\n<div><img src=\"paste-b8671965c97be3855d06fc34fd0f5dafedbae4d8.png\"></div>\n</div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "B:x1u8>p~|",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Worauf hat die Treibstoffeinblasung einfluss?[/latex]<br>",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Lebensdauer des Arcjets verlängern</div><div>&nbsp; \\item Stabilen Bertrieb herstellen</div><div>\\end{itemize}</div><div>Tangentiale und axiale Komponenten schieben Lichtbogen durch den Konstriktor; so bleibt Lichtbogen nicht an einer Stelle und frisst Material.\\\\Außerdem wird ein Kaltgasmantel zum Schutz der Anode gebildet. (\"Kalt\" im Sinne von ein paar $100\\,$K im Vergleich zu der Lichtbogentemperatur von bis zu $20000\\,$K)[/latex]<br></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "JqodsL@R1y",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was sind gängige Anforderungen an die Lebensdauer eines thermischen Lichtbogentriebwerks? Was sind die drei hauptsächlichen begrenzenden Faktoren?[/latex]",
-                        "[latex]Typische Anforderungen sind Lebensdauern im Bereich $1000-2000\\,$h Betrieb.\\\\Begrenzende Faktoren\\begin{itemize}<div>&nbsp; \\item Erosion und Sublimation der Kathodenspitze</div><div>&nbsp; \\item Erosion der Anode.</div><div>&nbsp; \\item Kontraktion des Düsenhalses</div><div>&nbsp; \\item Zusätzlich möglich sind ein Verstopfen des Injektors durch Druckverlust in der Zufuhr</div><div>\\end{itemize}[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "g@+vHWc>gM",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Welche beiden Defekte treten bei Kathodenerosion eines TLTs auf? Was sind deren Folgen?[/latex]",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Veränderung des Elektrodenabstandes.\\\\Erhöhte Zünd- und Betriebsspannung. Letztere kann zu Instabilitäten führen.</div><div>&nbsp; \\item Veränderung der Kathodengeometrie.\\\\Abrundung der Spitze reduziert (gewünschte) Feldspitze; Zündspannung erhöht sich.<br><div>\\end{itemize}[/latex]</div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "os8$b4LY?,",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Beschreiben Sie das Constrictor Closure Phenomena. Welche Gegenmaßnahmen sind denkbar?[/latex]",
-                        "[latex]Aufweiten der Düse. Abtragen des Düsenhalses und ablagern von erkalteten Materialperlen in der Düse.\\\\Als Gegenmaßnahmen kommen\\begin{itemize}<div>&nbsp; \\item Spannungsabbau in Anode;\\\\durch äußere/innere Einschnitte oder dünnwändige Strukturen.\\\\Einschnitte erschweren regenerative Kühlung, dünne Strukturen vermindern Kühlmöglichkeit durch Strahlung</div><div>&nbsp; \\item Hochtemperaturfeste Materialien;\\\\Aktuell gibt es nur eins und das lässt Amerika nicht liefern.</div><div>&nbsp; \\item Passive Kühlung durch erhöhte Abstrahlfläche via Emission;\\\\Mehr Gewicht, niedrigere Effizient.<br><div>\\end{itemize}</div><div>denkbar.[/latex]</div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "DCO(teULld",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was ist die Aufgabe der PPU im Hinblick auf ein TLT??[/latex]",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Bereitstellung von Hochspannungsimpuls(en) für Zündung ($1-4\\,$kV)\\\\Nach Durchbruch muss innerhalb von Mikrosekunden die Betriebsspannung eingeregelt werden</div><div>&nbsp; \\item Spannung im Stationären Betrieb möglichst konstant halten\\begin{itemize}</div><div>&nbsp; &nbsp; \\item Hochfrequente Spannungsnachführung zur Stromregelung\\\\Verursacht durch z.B. Schwankungen in Massenstrom oder Entladungskammerdruck</div><div>&nbsp; &nbsp; \\item Stabilität trotz Triebwerksflackern\\\\Verursacht durch z.B. Ablösen eines kleinen Kathodenpartikels und einschlagen in der Anode</div><div>&nbsp; &nbsp; \\item Berücksichtigung der negativen Spannungscharakteristik<br><div>\\end{itemize}[/latex]</div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "D{p<dl#YGf",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]In welche Leistungsklassen werden Arcjets eingeteilt? Was sind die jeweiligen Spezifikationen?[/latex]<br>",
-                        "<img src=\"paste-933933efb6f9d3ba6f3b27403eea342322585939.jpg\">"
-                    ],
-                    "flags": 0,
-                    "guid": "Cd9Yi!8~[E",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Nennen Sie Beispiele für Very Low Power Arcjets.[/latex]",
-                        "<div>\n<div>\n<div><img src=\"paste-26411d72c11886b178d9ce8e6d59a2a228db52d3.png\"></div><div><div>\n<div>\n<div><img src=\"paste-2c2cf3965e5746e69d2bc62b093feaadcf5659ee.png\"></div>\n</div></div></div>\n</div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "B{ey;KY@z",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Nennen Sie Beispiele für Low Power Arcjets.[/latex]",
-                        "<div>\n<div>\n<div><img src=\"paste-84c20583795ea473ca7609d503982e8ea7ef23ca.png\"></div><div>[latex]Atos:[/latex]<br></div><div><img src=\"paste-11acee917e965928dd63411b2bbb3d30210ab170.jpg\"><br></div>\n</div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "G8*&[E*07{",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Nennen Sie Beispiele für Medium Power Arcjets.[/latex]",
-                        "<div>\n<div>\n<div><img src=\"paste-d4df930c6557c617934f396904853b8541725f46.png\"></div>\n</div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "QEc1Fn;r3>",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Nennen Sie Beispiele für High Power Arcjets.[/latex]<br>",
-                        "<div>\n<div>\n<div><img src=\"paste-962301d47e6f197abc60ac3a3f8f129f5ada59f0.png\"></div><div>[latex]HIPARC:[/latex]<br></div><div><img src=\"paste-e8c89b38b661b02e97c6ea1e7c91a766a333e39f.jpg\"><br></div>\n</div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "veRr-0Pj&}",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex] Wie genau läuft der Zündungsvorgang beim thermischen Lichtbogentriebwerk ab?<div>[/latex]</div>",
-                        "[latex]&nbsp;<div>Zunächst sind Anode undKathode kalt. Sobald man den Strom anschält, erfolgt die Zündung und es kommt zum Paschendurchbruch (gelb, kürzeste Linie Anode-Kathode). Es kommt zu Brennflecken da Kathode und Anode kalt sind (hohe Erosion).&nbsp;<br><div>[/latex]</div></div><div><img src=\"paste-4cff7c5778234d5aef4b06215f81e9288fea5937.jpg\"><br></div><div>[latex]&nbsp;<div>Lichtbogen wird von punktförmig zu diffus und die Kathode und Anode werden warm. Die Erosion wird deutlich reduziert<br><div>[/latex]</div></div></div><div><img src=\"paste-7988ee0fede6875a57f63e782e424eda37c31e89.jpg\"><br></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "DMuEN]n`<F",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]<div>Welche beiden Entwicklungswellen gab es zu TLTs?<br><div>[/latex]</div></div>",
-                        "[latex]<div>Erst Entwicklung in den 1950ern-1960ern. Gescheitert, da el. Leistungen noch nicht zur Verfügung standen. \\\\</div><div>Zweite Welle 1985-2001: Entwicklung nicht wie erhofft und Markt für sekundäre Aufgaben bereits bedient von Lockheed Martin<br><div>[/latex]</div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "yh&`DqtSlb",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex] Wie ist die Schubdichte/Strahlfläche bei Arcjets?<div>[/latex]</div>",
-                        "[latex] Schubdichte/Strahlfläche bei Arcjets ist sehr gut $\\rightarrow$ nicht nur der Isp ist wichtig<div>[/latex]</div><div><img src=\"paste-578ebb9edabd8149f421449d7b56c4859e244616.jpg\"><br></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "L_}6PZc7(B",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex] Welche Lösungsansätze kann man für die Düsenverluste angehen?<div>[/latex]</div>",
-                        "[latex]<div>\\begin{itemize}</div><div>\\item Glockendüse $\\rightarrow$ geringe Wirkung bei erhöhtem Fertigungsaufwand</div><div>\\item Dual Cone Düse $\\rightarrow$ Verkürzung der Düse</div><div>\\end{itemize}<br><div>[/latex]</div></div><div><img src=\"paste-de4ed3793a754fad8f2deb548311f04e159e54bc.jpg\"><br></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "mYE-C~EDZ(",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex] Welche Lösungsansätze kann man für die Thermischen Verluste angehen?<div>[/latex]</div>",
-                        "[latex]&nbsp;<div>\\begin{itemize}</div><div>\\item Materialien geringer Wärmeleitung und geringer Emissionsgrad. Anode auf hoher Temperatur halten</div><div>\\item Regenerative Kühlung: Rückgewinnung durch regenerative Heizung des Treibstoffs</div><div>\\item Reduktion der Stromstärke: Anodenverluste geringer durch niedrigere Hitze</div><div>\\end{itemize}<br><div>[/latex]</div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "I%`&2;70ef",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex] Welche Arten der Kühlung gibt es und welches ist die beste Art für Arcjets?<div>[/latex]</div>",
-                        "[latex]&nbsp;<div>\\begin{itemize}</div><div>\\item Regenerativ gekühlt $\\rightarrow$ hoher Isp bei hoher szep. Energie</div><div>\\item Strahlungsgekühlt</div><div>\\item Wassergekühlt</div><div>\\end{itemize}<br><div>[/latex]</div></div><div><img src=\"paste-cbbe00cd2332f5d12334e80a6c84b6aaff4895ba.jpg\"><br></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "gm}g)NwfkT",
                     "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
                     "tags": []
                 }
@@ -2764,6 +1743,1049 @@
                     ],
                     "flags": 0,
                     "guid": "y7|vE&,&=2",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "e570ada9-f69e-11ea-99fb-fc4596679de3",
+            "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [
+                "latex-0046514d0f06208ab78c1796111fd5c4a3d00155.png",
+                "latex-0bf7fdff3c3bd5d5f07aea1d2b255bbe040f76ca.png",
+                "latex-0d7c9b0483b8011e9fec6ea0029f167eecdc549d.png",
+                "latex-0eb92e40dbfa3b7b59c296a35a3c0c18d469e52c.png",
+                "latex-134786f1c6d38bbe9f4635aa922b63c652c4575d.png",
+                "latex-208551631f847ed4b433027ffbc5378ef2bd17d1.png",
+                "latex-2f3f1115662f7e81beb8db29658393bbf717a40e.png",
+                "latex-3353c226a4a5842470d484680f265f9562649854.png",
+                "latex-3604c7d01c81693033960fc622841d4b1928019b.png",
+                "latex-3c45c2595d0eaac76ec51d2717f3ff03cba7ef9a.png",
+                "latex-3caf3564973fbc59e06f8b25fad6eb1bbcad34df.png",
+                "latex-43130685a8f38279c7a418e1810225303c48de24.png",
+                "latex-45bfa6a7468800cb4f17a2aaaee73742032af42a.png",
+                "latex-45e4a13b160eab380b9736c32c22a533b703a59c.png",
+                "latex-52da632c62ee6754236953022da8060f4e4f3395.png",
+                "latex-54bc1e1e184356510abcf928c2eb3c0b0926ef86.png",
+                "latex-5a252e95a2c7239a4e8e26ea732a1d916e33c70c.png",
+                "latex-5b890057ce988e37636d23cace0e69c9e2fd53df.png",
+                "latex-64d64000bd617fb195ef4e52bdf61483af9e70b8.png",
+                "latex-6555dc4a5c16eabf75d6c8b89a3f4da7466c12f4.png",
+                "latex-6ab79a331b7b72c8c2edd92ee5ff0778dfe7834e.png",
+                "latex-71bcf2f5500955ee3e9254f7cf19f43eda0c3d29.png",
+                "latex-72a2c4177ba461fd7a5cd9ccc97a7436ebd1c40c.png",
+                "latex-73af7e77b5676e07c763d9b602db89b9c00bec8c.png",
+                "latex-7464fdfbdbdbf8f6eecd04ee02fc624c05369bb8.png",
+                "latex-7566529aea5cc9cdf38e3bf50ab293ef1b15db02.png",
+                "latex-795f085ca7b298f321cd2396c61575c51088b56d.png",
+                "latex-7ab15305305687d882adb92cf601e6ca990f2abd.png",
+                "latex-7b7459cafbe2d22beb150353d657a9ea333b136e.png",
+                "latex-7e1440ba7d042ec72f93ec7dd661ac0e0e7245fc.png",
+                "latex-832333fa8d0d666188084d635bf7c8f8e987e8d2.png",
+                "latex-87be8d4669f6a5c05a6ced5726db4866312d0463.png",
+                "latex-8a9f8485f110c4552fa1b28e99ff6f533c5b9186.png",
+                "latex-970e763d3d83b24cc4b2cb6cad5471936575b092.png",
+                "latex-9c7f4f2dac15402fe487c6692020f8ed1a8d8f59.png",
+                "latex-9e24a0af694a405f8f3179f05a5693be4cb71512.png",
+                "latex-9e7cf63cf5954846e3a48c5c65eabca13a93a7cb.png",
+                "latex-a247ade735aa73b7f23a8263a0c9640c8d231f8d.png",
+                "latex-a2704a897c39cb15d142c4f021aa12025ecf6912.png",
+                "latex-a46f96739bc3354e7a7570f14bb148627bb75220.png",
+                "latex-ae3c86dc2b8c66710b190d93f196a0d4fb178b3b.png",
+                "latex-b76ba35b406748bd618c2bdbfa6e15b41d21a74a.png",
+                "latex-bdacaf13e0e56a0400a7955e3dc571d9d2c61e09.png",
+                "latex-cc43779b2884a0dee9aa5b94fe0da55aa91b192c.png",
+                "latex-cee8945892285843b4faa751fd1046008afbc553.png",
+                "latex-d1aa909181660afbe93bbb5e9556c2d4e7f6a142.png",
+                "latex-da4cbf561a77390b883ba52a6eda43148ff426bc.png",
+                "latex-ebb31ab471c9dfe103ba4c84a8d10ae3ec50a599.png",
+                "latex-ef213e3592b64cd53fd0f1be7aa43786d5774e8a.png",
+                "latex-f09e27dba144a2f7443630368086803d557abf1f.png",
+                "latex-f6d486fc9ebf0d907691052641e89a5cb255532f.png",
+                "latex-f8f12b94e0c287c1c301202fc2afe79f611c9c86.png",
+                "paste-03ced58e2a812cffb2106efd022ddd548d162394.jpg",
+                "paste-0ccfc3a7ad1efd0c78826505bdf8ef52b5b66945.png",
+                "paste-11acee917e965928dd63411b2bbb3d30210ab170.jpg",
+                "paste-1355d4baf055150116d0c59ca5e1ce4c5236ef48.jpg",
+                "paste-15136740fb00cce839e9ecbb14acda54b2221ac8.jpg",
+                "paste-26411d72c11886b178d9ce8e6d59a2a228db52d3.png",
+                "paste-2c2cf3965e5746e69d2bc62b093feaadcf5659ee.png",
+                "paste-4238701845c744f31f50549fc002885fcfe8185c.png",
+                "paste-4cff7c5778234d5aef4b06215f81e9288fea5937.jpg",
+                "paste-578ebb9edabd8149f421449d7b56c4859e244616.jpg",
+                "paste-58ad91bcdaabd3766b84f1ebf4b96d4bfef93a7f.png",
+                "paste-6088e0452ed8bc96b239b1b051e890269e6a2f8c.jpg",
+                "paste-7988ee0fede6875a57f63e782e424eda37c31e89.jpg",
+                "paste-84c20583795ea473ca7609d503982e8ea7ef23ca.png",
+                "paste-933933efb6f9d3ba6f3b27403eea342322585939.jpg",
+                "paste-962301d47e6f197abc60ac3a3f8f129f5ada59f0.png",
+                "paste-a291498aec05a8a47b65f4bfb913a6dd94f38c33.png",
+                "paste-b29bb62ad3f7df8ef2a4fc32775e4f5b08f50ada.png",
+                "paste-b8671965c97be3855d06fc34fd0f5dafedbae4d8.png",
+                "paste-ba48f29adfd141172e79314d84497c5b036d2820.png",
+                "paste-bb7f125940c47e2e74281a47b58a958b1e0a1e7c.jpg",
+                "paste-bcafc99d485a54e4e6206baa31d9989aaa1964de.jpg",
+                "paste-cbbe00cd2332f5d12334e80a6c84b6aaff4895ba.jpg",
+                "paste-d4df930c6557c617934f396904853b8541725f46.png",
+                "paste-de4ed3793a754fad8f2deb548311f04e159e54bc.jpg",
+                "paste-e8c89b38b661b02e97c6ea1e7c91a766a333e39f.jpg",
+                "paste-f64e08aee80d954a6ca78dd29ea0e148c05d2aff.jpg"
+            ],
+            "name": "06 Thermische Lichtbogentriebwerke",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was sind typische Kenngrößen für die Auslegung elektrischer Triebwerke?[/latex]<br>",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Gewichtsspezifischer Impuls (s)\\\\</div><div>$I_{SP}=\\dfrac{c_e}{g_0}\\propto\\sqrt{\\dfrac{T_0}{M}}$; Hängt hauptsächlich von Brennkammertemperatur und Molarer Masse ab</div><div>&nbsp; \\item Schubwirkungsgrad (\\%)\\\\</div><div>$\\eta_S =\\dfrac{P_{kin}}{P_{el}} = \\dfrac{0.5 m' c_e^2}{P_{el}} = \\dfrac{F^2}{2 m' P_{el}}$; Verhältnis zwischen investierter elektrischer Leistung und gewonnener kinetischer Schubleistung</div><div>&nbsp; \\item Spezifische Energie (J/kg)\\\\</div><div>$e=\\dfrac{P_{el}}{\\dot m}$; Investierte elektrische Leistung pro Massenstrom (wie effizient koppeln wir Energie in Treibstoff ein?)</div><div>&nbsp; \\item Weitere:\\begin{itemize}</div><div>&nbsp; &nbsp; \\item Leistungsspezifischer Schub</div><div>&nbsp; &nbsp; \\item Schubdichte (Schub pro Fläche)</div><div>&nbsp; \\end{itemize}</div><div>\\end{itemize}[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "w=@_}lTjr8",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie kann in einem Thermischen Lichtbogentriebwerk der Spezifische Impuls hoch gehalten werden?[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Entladungskammertemperatur hoch (hohe spez. Energie e)</div><div>&nbsp; \\item Molekulargewicht des Treibstoffs klein (leichte Treibstoffe)</div><div>&nbsp; \\item Lichtbogenansatz am Ende des Düsenhalses (Keine Heizung im Überschall zur Verhinderung von Verdichtungsstößen)<br><div>\\end{itemize}[/latex]</div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "ng>_EWpskV",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Diskutieren Sie den Satz \\textit{Verluste der eingefrorenen Strömung sind Verluste durch Ionisation und Dissoziation}. [/latex]",
+                        "[latex]Die Verluste kommen nicht ausschließlich durch Ionisation und Dissoziation zustande. Es ist energieaufwändig, die Moleküle des Treibstoffs zu dissoziieren und zu ionisieren, würde der Treibstoff aber lange genug in der Düse verweilen, würde die investierte Energie durch Rekombination und Assoziation wierder frei werden und sie wäre nutzbar. Da die Geschwindigkeit des Treibstoffs aber zu hoch ist, ist seine Verweildauer in der Düse viel zu kurz. Der Gaszustand bleibt über die Düse konstant und wir verlieren die vorher in&nbsp; Dissoziation und Ionisation investierte Energie.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "tHGSd#YQ!n",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Zu welchen Verlusten führt das Dissoziieren und Ionisieren in Thermischen Lichtbogentriebwerken? Warum unterlässt man das nicht?[/latex]",
+                        "[latex]Zu verlusten der eingefrorenen Strömung (etwa $40-60\\,$\\%).\\\\Eine Ionisation im Bereich von $5\\,$\\% ist notwendig, um Ladungsträger für den Erhalt des Lichtbogens bereitzustellen. Da die Ionisation der Dissoziation energetisch nachgeschaltet ist, findet zwangsläufig eine vollständige Dissoziation statt.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "MGEvYcNM5^",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Welche Arten von Verlusten in einem TLT wirken dem Erreichen eines optimalen spezifischen Impulses entgegen und in welcher Größenordnung liegen sie?[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Verluste der eingefrorenen Strömung (Anregungsverluste) ($40-60\\,$\\%)</div><div>&nbsp; \\item Anoden und Kathodenverluste (thermische Verluste) \\\\Abgestrahlte und geleitete Wärme($10-20\\,$\\%)</div><div>&nbsp; \\item Düsenverluste ($5\\,$\\%)\\\\Reibung und Strahldivergenz<br><div>\\end{itemize}[/latex]</div></div><div><div>\n<div>\n<div><img src=\"paste-4238701845c744f31f50549fc002885fcfe8185c.png\"></div>\n</div></div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "HXa!GJMVFY",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Welche Möglichkeiten zur Verminderung der Verluste der eingefrorenen Strömung gibt es?[/latex]<br>",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Reduktion der Ionisation.\\\\Halten auf dem absoluten Minimum, das benötigt wird, um den Lichtbogen aufrecht zu erhalten \\\\ Erreichen durch höheren Brennkammerdurck durch kleinen Düsenhals oder höheren Massenstrom</div><div>&nbsp; \\item Recovery Chamber / Dual Cone.\\\\Erhöht Rekombination</div><div>&nbsp; \\item Leicht Ionisierbare Treibstoffe.\\\\Entweder durch Zusatz von Alkalimetallen, Gemische mit z.B. zusätzlichem Argon/Xenon; und den erhalt des Lichtbogens diesen Zusätzen überlassen. Schwieriger Betrieb, teilweise flackern des Bogens.</div><div>\\end{itemize}[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "C_E*9YpzfF",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Welche Arten von Recovery Chambern / Dual-Cone Düsen gibt es? Wie ist das Funktionsprinzip? Wo liegen die Probleme?[/latex]",
+                        "<img src=\"paste-03ced58e2a812cffb2106efd022ddd548d162394.jpg\"><div>[latex]\\begin{itemize}</div><div>&nbsp; \\item \\textbf{Unterschalllichtbogenansatz}: Bogen ist ausschließlich im Unterschallbereich, nicht mehr im Konstriktor/Düsenhals. Das erhöht den Druck und verringert Ionisationsrate.\\\\Problem: Führt zu punktuellem Lichtbogenansatz; Brennflecken; befeuert Erosion. Man könnte durch z.B. Einspritzung oder Magnetfeld eine ständige Verwirbelung des Treibstoffs erreichen, um dem entgegenzuwirken. Das führt aber wieder zu Wärmeaustausch und höheren thermischen Verlusten...</div><div>&nbsp; \\item \\textbf{Rekombinationskammer}: Nach erster Expansion gibt es einen Bereich konstanten Querschnitts (und konstanten Drucks) in dem Zeit für Rekombination gegeben wird. Kammer weit genug hinten, um Überschlag des Lichtbogens zu vermeiden.\\\\Problem: Verluste der Düse durch Reibung in längere Düse und Ausbildung einer größeren Grenzschicht.</div><div>&nbsp; \\item \\textbf{Doppelkonusdüse}: Versuch der Verringerung der Verluste der Rekombinationskammer durch Erhalt der kontinuierlichen Expansion. Erst ein Bereich der langamen Expansion um mehr Zeit für Rekombination zu lassen, dann endgültige Beschleunigungn in einem Bereich der schnellen Expansion. Niedrigere Rekombination als Rekombinationskammer, dafür weniger Düsenverluste (Versuch des Findens eines Optimums).\\\\Kammer wieder bis weit genug nach hinten um Überschlag des Lichtbogens zu vermeiden.</div><div>\\end{itemize}[/latex]<br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "Fr=Z}6jFrA",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wird ein TLT System über den Strom oder die Spannung geregelt? Wovon hängt die andere Größe ab, wenn die geregelte Größe konstant ist?[/latex]<br>",
+                        "[latex]TLT Systeme sind normalerweise Stromgeregelt.<div>\\\\Die Spannung hängt ab von&nbsp;</div><div>\\begin{itemize}<div>&nbsp; \\item Massenstrom\\\\Steigt mit Massenstrom</div><div>&nbsp; \\item Lichtbogenlänge</div><div>\\\\Entspricht grob der Düsenhalslänge/Elektrodenabstand. Spannung sinkt mit steigender Länge (Paschen)</div><div>&nbsp; \\item Düsenhalsdurchmasser/Brennkammerdruck</div><div>\\\\Großer Düsenhalsdurchmesser führt zu niedrigem Entladungskammerdruck. Niedrigerer Druck sorgt für niedrigere Spannung (Paschen)</div><div>&nbsp; \\item Doppelkonusdüse/Rekombinationskammer</div><div>\\\\Durch verlängerten Lichtbogen erhöht sich Druck und damit Spannung (Paschen); Lichtbogen muss aber nicht unbedingt verlängert sein.</div><div>&nbsp; \\item Treibstoff</div><div>\\\\Einatomige Gase mit geringer Ionisationsenergie (Ar, He) zeigen niedrigste Spannung, $H_2$ die höchste.</div><div>\\end{itemize}&nbsp;</div><div>[/latex]</div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "p2z8lYL#a&",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Welche Anforderungen bestehen an den Treibstoff für ein TLT und welche Treibstoffe werden favorisiert?[/latex]<br>",
+                        "<div>\n<div>\n<div><img src=\"paste-a291498aec05a8a47b65f4bfb913a6dd94f38c33.png\"></div>\n</div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "PZfu/A^88|",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Vergleichen Sie drei gängige Treibstoffe für TLTs.[/latex]<br>",
+                        "\n<div>\n<div><img src=\"paste-ba48f29adfd141172e79314d84497c5b036d2820.png\"></div>\n<div><img src=\"paste-58ad91bcdaabd3766b84f1ebf4b96d4bfef93a7f.png\"></div>\n<div><img src=\"paste-b29bb62ad3f7df8ef2a4fc32775e4f5b08f50ada.png\"></div><div>[latex] Sehr giftig meint hir sehr krebserregend also sehr teuer im Handling auf der Erde wegen Sicherheit. (Bei Ammoniak nur \"normal giftig\" [/latex]</div>\n<div><img src=\"paste-0ccfc3a7ad1efd0c78826505bdf8ef52b5b66945.png\"></div><div>[latex]It's a praaaaank![/latex]<br></div>\n<div><img src=\"paste-b8671965c97be3855d06fc34fd0f5dafedbae4d8.png\"></div><div>[latex]Lagerprobleme schlimmer als bei $H_2$, aber weniger Verluste durch eingefrorene Strömung</div><div>\\\\Potenzial: He mit $H_2$[/latex]<br></div>\n</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "B:x1u8>p~|",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Worauf hat die Treibstoffeinblasung einfluss?[/latex]<br>",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Lebensdauer des Arcjets verlängern</div><div>&nbsp; \\item Stabilen Bertrieb herstellen</div><div>\\end{itemize}</div><div><br></div><div>Tangentiale und axiale Komponenten schieben Lichtbogen durch den Konstriktor; so bleibt Lichtbogen nicht an einer Stelle und frisst Material.\\\\Außerdem wird ein Kaltgasmantel zum Schutz der Anode gebildet. (\"Kalt\" im Sinne von ein paar $100\\,$K im Vergleich zu der Lichtbogentemperatur von bis zu $20000\\,$K)[/latex]<br></div><div><img src=\"paste-15136740fb00cce839e9ecbb14acda54b2221ac8.jpg\"><br></div><div><img src=\"paste-6088e0452ed8bc96b239b1b051e890269e6a2f8c.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "JqodsL@R1y",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was sind gängige Anforderungen an die Lebensdauer eines thermischen Lichtbogentriebwerks? Was sind die drei hauptsächlichen begrenzenden Faktoren?[/latex]",
+                        "[latex]Typische Anforderungen sind Lebensdauern im Bereich $1000-2000\\,$h Betrieb.\\\\Begrenzende Faktoren\\begin{itemize}<div>&nbsp; \\item Erosion und Sublimation der Kathodenspitze</div><div>&nbsp; \\item Erosion der Anode.</div><div>&nbsp; \\item Kontraktion des Düsenhalses \"Constrictor Closure Phenomena\"</div><div>&nbsp; \\item Zusätzlich möglich sind ein Verstopfen des Injektors durch Druckverlust in der Zufuhr</div><div>\\end{itemize}[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "g@+vHWc>gM",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Welche beiden Defekte treten bei Kathodenerosion eines TLTs auf? Was sind deren Folgen?[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item \\textbf{Veränderung des Elektrodenabstandes}.\\\\Erhöhte Zünd- und Betriebsspannung. Letztere kann zu Instabilitäten führen.</div><div>&nbsp; \\item \\textbf{Veränderung der Kathodengeometrie}.\\\\Abrundung der Spitze reduziert (gewünschte) Feldspitze; Zündspannung erhöht sich.<br><div>\\end{itemize}[/latex]</div></div><div><img src=\"paste-f64e08aee80d954a6ca78dd29ea0e148c05d2aff.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "os8$b4LY?,",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Beschreiben Sie das Constrictor Closure Phenomena. Welche Gegenmaßnahmen sind denkbar?[/latex]",
+                        "[latex]Aufweiten der Düse. Abtragen des Düsenhalses und ablagern von erkalteten Materialperlen in der Düse. [/latex]<div><img src=\"paste-bb7f125940c47e2e74281a47b58a958b1e0a1e7c.jpg\"><br></div><div>[latex] Als Gegenmaßnahmen kommen\\begin{itemize}<div>&nbsp; \\item Spannungsabbau in Anode;\\\\durch äußere/innere Einschnitte oder dünnwändige Strukturen.\\\\Einschnitte erschweren regenerative Kühlung, dünne Strukturen vermindern Kühlmöglichkeit durch Strahlung</div><div>\\\\ Äußere Einschnitte: Keine reg. Kühlung mehr möglich</div><div>\\\\ Innere Einschnitte: werden vom Lichtbigen wegerodiert</div><div>\\\\ Dünnwandige Strukturen: Kann bei Strahlungskühlung schnell zur Überhitzung kommen</div><div><br></div><div>&nbsp; \\item Hochtemperaturfeste Materialien;\\\\Aktuell gibt es nur eins und das lässt Amerika nicht liefern. (Beste Option)</div><div>&nbsp; \\item Passive Kühlung durch erhöhte Abstrahlfläche via Emission;\\\\Mehr Gewicht, niedrigere Effizient.<br><div>\\end{itemize}</div><div>denkbar.[/latex]</div></div><div><img src=\"paste-1355d4baf055150116d0c59ca5e1ce4c5236ef48.jpg\"><br></div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "DCO(teULld",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist die Aufgabe der PPU im Hinblick auf ein TLT??[/latex]",
+                        "[latex] PPU regelt Energieversorgung (Wirkungsgrade $&gt;90\\%$)<div>\\begin{itemize}<div>&nbsp; \\item Bereitstellung von Hochspannungsimpuls(en) für Zündung ($1-4\\,$kV)\\\\Nach Durchbruch muss innerhalb von Mikrosekunden die Betriebsspannung eingeregelt werden</div><div>&nbsp; \\item Spannung im Stationären Betrieb möglichst konstant halten\\begin{itemize}</div><div>&nbsp; &nbsp; \\item Hochfrequente Spannungsnachführung zur Stromregelung\\\\Verursacht durch z.B. Schwankungen in Massenstrom oder Entladungskammerdruck</div><div>&nbsp; &nbsp; \\item Stabilität trotz Triebwerksflackern\\\\Verursacht durch z.B. Ablösen eines kleinen Kathodenpartikels und einschlagen in der Anode</div><div>&nbsp; &nbsp; \\item Berücksichtigung der negativen Spannungscharakteristik<br><div>\\end{itemize}[/latex]</div></div></div><div><img src=\"paste-bcafc99d485a54e4e6206baa31d9989aaa1964de.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "D{p<dl#YGf",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]In welche Leistungsklassen werden Arcjets eingeteilt? Was sind die jeweiligen Spezifikationen?[/latex]<br>",
+                        "<img src=\"paste-933933efb6f9d3ba6f3b27403eea342322585939.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "Cd9Yi!8~[E",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie Beispiele für Very Low Power Arcjets.[/latex]",
+                        "<div>\n<div>\n<div><img src=\"paste-26411d72c11886b178d9ce8e6d59a2a228db52d3.png\"></div><div><div>\n<div>\n<div><img src=\"paste-2c2cf3965e5746e69d2bc62b093feaadcf5659ee.png\"></div>\n</div></div></div>\n</div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "B{ey;KY@z",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie Beispiele für Low Power Arcjets.[/latex]",
+                        "<div>\n<div>\n<div><img src=\"paste-84c20583795ea473ca7609d503982e8ea7ef23ca.png\"></div><div>[latex]Atos:[/latex]<br></div><div><img src=\"paste-11acee917e965928dd63411b2bbb3d30210ab170.jpg\"><br></div>\n</div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "G8*&[E*07{",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie Beispiele für Medium Power Arcjets.[/latex]",
+                        "<div>\n<div>\n<div><img src=\"paste-d4df930c6557c617934f396904853b8541725f46.png\"></div>\n</div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "QEc1Fn;r3>",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie Beispiele für High Power Arcjets.[/latex]<br>",
+                        "<div>\n<div>\n<div><img src=\"paste-962301d47e6f197abc60ac3a3f8f129f5ada59f0.png\"></div><div>[latex]HIPARC:[/latex]<br></div><div><img src=\"paste-e8c89b38b661b02e97c6ea1e7c91a766a333e39f.jpg\"><br></div>\n</div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "veRr-0Pj&}",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex] Wie genau läuft der Zündungsvorgang beim thermischen Lichtbogentriebwerk ab?<div>[/latex]</div>",
+                        "[latex]&nbsp;<div>Zunächst sind Anode undKathode kalt. Sobald man den Strom anschält, erfolgt die Zündung und es kommt zum Paschendurchbruch (gelb, kürzeste Linie Anode-Kathode). Es kommt zu Brennflecken da Kathode und Anode kalt sind (hohe Erosion).&nbsp;<br><div>[/latex]</div></div><div><img src=\"paste-4cff7c5778234d5aef4b06215f81e9288fea5937.jpg\"><br></div><div>[latex]&nbsp;<div>Lichtbogen wird von punktförmig zu diffus und die Kathode und Anode werden warm. Die Erosion wird deutlich reduziert<br><div>[/latex]</div></div></div><div><img src=\"paste-7988ee0fede6875a57f63e782e424eda37c31e89.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "DMuEN]n`<F",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]<div>Welche beiden Entwicklungswellen gab es zu TLTs?<br><div>[/latex]</div></div>",
+                        "[latex]<div>Erst Entwicklung in den 1950ern-1960ern. Gescheitert, da el. Leistungen noch nicht zur Verfügung standen. \\\\</div><div>Zweite Welle 1985-2001: Entwicklung nicht wie erhofft und Markt für sekundäre Aufgaben bereits bedient von Lockheed Martin<br><div>[/latex]</div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "yh&`DqtSlb",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex] Wie ist die Schubdichte/Strahlfläche bei Arcjets?<div>[/latex]</div>",
+                        "[latex] Schubdichte/Strahlfläche bei Arcjets ist sehr gut $\\rightarrow$ nicht nur der Isp ist wichtig<div>[/latex]</div><div><img src=\"paste-578ebb9edabd8149f421449d7b56c4859e244616.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "L_}6PZc7(B",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex] Welche Lösungsansätze kann man für die Düsenverluste angehen?<div>[/latex]</div>",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item Glockendüse $\\rightarrow$ geringe Wirkung bei erhöhtem Fertigungsaufwand</div><div>\\item Dual Cone Düse $\\rightarrow$ Verkürzung der Düse</div><div>\\end{itemize}<br><div>[/latex]</div></div><div><img src=\"paste-de4ed3793a754fad8f2deb548311f04e159e54bc.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "mYE-C~EDZ(",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex] Welche Lösungsansätze kann man für die Thermischen Verluste angehen?<div>[/latex]</div>",
+                        "[latex]&nbsp;<div>\\begin{itemize}</div><div>\\item Materialien geringer Wärmeleitung und geringer Emissionsgrad. Anode auf hoher Temperatur halten</div><div>\\item Regenerative Kühlung: Rückgewinnung durch regenerative Heizung des Treibstoffs</div><div>\\item Reduktion der Stromstärke: Anodenverluste geringer durch niedrigere Hitze</div><div>\\end{itemize}<br><div>[/latex]</div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "I%`&2;70ef",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex] Welche Arten der Kühlung gibt es und welches ist die beste Art für Arcjets?<div>[/latex]</div>",
+                        "[latex]&nbsp;<div>\\begin{itemize}</div><div>\\item Regenerativ gekühlt $\\rightarrow$ hoher Isp bei hoher szep. Energie</div><div>\\item Strahlungsgekühlt</div><div>\\item Wassergekühlt</div><div>\\end{itemize}<br><div>[/latex]</div></div><div><img src=\"paste-cbbe00cd2332f5d12334e80a6c84b6aaff4895ba.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "gm}g)NwfkT",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "e57281b8-f69e-11ea-9a11-fc4596679de3",
+            "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [
+                "latex-0304eb2dc5890b407897a1cdc022ea58387f0acd.png",
+                "latex-053423a694427af3159645497ee5dfcaff8b90ce.png",
+                "latex-06eec6b23b56b187437ea8372fb79415facfd0af.png",
+                "latex-09da0774fa79b67a7efd5da61c8bfa65fc4dba3d.png",
+                "latex-09dd0bb6c58fc53c72391ec32b766a1bf1b24a07.png",
+                "latex-0f0665406ce5bf5c46d560d0e94b07f6066c756c.png",
+                "latex-0fbcf2979e04ffacb465f1830b0a8fa941659181.png",
+                "latex-12515a152b06b3cc99ae24a52260499b0f5448e6.png",
+                "latex-15aadcacd8821add9b41ea36f8c114fe84e22bb0.png",
+                "latex-16a9575a1ab01a7cb472ee569bdb6fc861d3d69a.png",
+                "latex-17e2bfe761e2a34ca6a40deffe2539034d61a660.png",
+                "latex-1ddcf95865fae8dddbeb9244d07f474a237e2bb9.png",
+                "latex-1ecdc740ab9c49de4397e364186e3bbad7098d06.png",
+                "latex-20aecc3020805767b3de01c887be628e77063310.png",
+                "latex-21a22e47db25d99d010b91b39d063a9f7b05bb37.png",
+                "latex-2ac23e1374e154b6f8250033594403ad052fca54.png",
+                "latex-2add0ac069eb3070e9edbc41d30dd04a167f2349.png",
+                "latex-2cac08ca96ee4594bd3b4f0a2601fa928445bf59.png",
+                "latex-2daf8c75c423a26c8572edc95bcf5a7cf99a7114.png",
+                "latex-34fda516ad5a7501d21a880ced9969fc910a950e.png",
+                "latex-3ad18738077d8c7ea4317a0b558c08f19fe10285.png",
+                "latex-402b7b67c39792455f4ca798bb98f91b5c14d1cf.png",
+                "latex-46e8f4c8e0c3a383dc2a57def41025bc434448f2.png",
+                "latex-485a7cbe2e06d77164d5eb7a34436693a75643a0.png",
+                "latex-4ddc707b657d3df2706a758c71a5337c80075e85.png",
+                "latex-51495f1b998d3159d6e35d509b5c070b7ecb76b4.png",
+                "latex-53fecdd353a455008f12693d747ad1e3ca8abb3d.png",
+                "latex-56c96aaf95a2acf0b6d1efa965245f6f2ded77ba.png",
+                "latex-5987b0f62ea19c7073226eedb2c19e12fd168b3b.png",
+                "latex-5da9263711891414ff5d2e77a3fdf4b3d1d385c1.png",
+                "latex-62bf1b99c55d60a8ff5019e6138e8349e3728e62.png",
+                "latex-631d90ceab45eedbac5b2e28e46986e63688a12f.png",
+                "latex-66d062833345c3e93d3fe5dfa6fe36898df31b26.png",
+                "latex-67ab1b37f7fe81ad8abc60c93d407feb184c47f6.png",
+                "latex-6a3ac057692e086592da1ce599822d62adb4d2bd.png",
+                "latex-6df2cc7bf0c7fdb02e2d6e9d875d5e5129c71200.png",
+                "latex-6fea5a73ad41458f98d828a2886058f5203d1b4e.png",
+                "latex-759149e5abd74a9e98222e68161abd4bea630689.png",
+                "latex-7a3126d91ca9b31d91748859f1852f5c85e5cf6d.png",
+                "latex-7db3f50ab75493bdea2f9f463d6e519efbfc1d16.png",
+                "latex-8c1d85ee23c9aee5d97593e34c7e09511a5aa3ba.png",
+                "latex-8dad1d62305933aa430aeff4be86fbd02580a192.png",
+                "latex-8e08715cb3d90fbfbb5e796c17e69431ec1a226e.png",
+                "latex-8e3afca32845fcc329b44185df94cd4d6f79df7f.png",
+                "latex-91331c33b741c7f5a9f45a76f1cdb06ea4cc5f50.png",
+                "latex-9ffa5ef572cd25028504b792c0a958bdce57f6a9.png",
+                "latex-a12240046c176af696a2452838e99280e9ae4482.png",
+                "latex-a1859c13ddb42100c97833ad588d4e7f5b6d150b.png",
+                "latex-a50e681be599feffa8e9960442143eef32a45ab0.png",
+                "latex-a6e4ca040c6700413e8a3c49cb2130e603323e57.png",
+                "latex-a7ce6bfb259e0b1a027963a9398237eebd360483.png",
+                "latex-a907ba1198ba4531d42ba1326670f1f29435ed20.png",
+                "latex-aeb5d075d8d86700b232edf0479e03efa7bef9d4.png",
+                "latex-aeb838eb989d2689976448e80013451ba5ef29d6.png",
+                "latex-aef4feea197723816714840a94690452268cb2c0.png",
+                "latex-b49111232c0f5eceb5ffd7f30bbec930f0a62d0f.png",
+                "latex-b5d1e818882e39037dc5d1ca10c9eb680cc2c3ee.png",
+                "latex-b90aea3d73656e7bf46ac3cba2da6a03259f5895.png",
+                "latex-bb235e50c7e00fba9be64fa3090b2017bc7d9456.png",
+                "latex-bdbf35d5ddcefd9268adc91ce451ceca3d0e1f8d.png",
+                "latex-c4be557e95d36a207d03e951ccf889ee3de6d4c5.png",
+                "latex-c4e7947d062e28acae378ec42c34dd8a4c64e68c.png",
+                "latex-c5002e62ed022a242ab9e465b23d7bea2d8ce2f8.png",
+                "latex-c541a0bf3565e0f560555609b3bbbd3972538c83.png",
+                "latex-c69b0c61bb6f12a446589562c825d1ff9a6e1b9c.png",
+                "latex-caf79d65db3303c51b031c2acb836b810dcaabd6.png",
+                "latex-cc56c2b7986dfd761431155934482b99e558d26c.png",
+                "latex-d307e302881bbdd09bda89e95488c776e7a2b4c3.png",
+                "latex-d3865215f0c079a112c8e5bed647ffffa0cd308f.png",
+                "latex-d56079769261ecca5419faf91a9da2cf57ab43de.png",
+                "latex-d856a6f925dfe4c0630188f78ea8aea0fad68f75.png",
+                "latex-d89531defdfe92505ea65dd53dd90ec7ab2c3d49.png",
+                "latex-e00447cb650ee6f7b997a1613d60260d0df3528e.png",
+                "latex-e06bca0b567981842e1421800d7e9a83c00c8b73.png",
+                "latex-e105f76a71d938118ae910cce74b71f788913eba.png",
+                "latex-e29f1515d899af71e803358e5007d6f3f70f3129.png",
+                "latex-e42f817bb9a2ff9b1bc0a6ae534578dc388519b5.png",
+                "latex-e46bb48d07e6cfa0b0582182f55141ae0e3abb74.png",
+                "latex-e6f1cc2bf347d5940a9fa92f0be7fb0931e46e63.png",
+                "latex-ec55faf7061fbdd186c907fbd134128e98b9537c.png",
+                "latex-eedb8c74ac478be10e9cdcd0d021796d451987df.png",
+                "latex-f0105ea93729e9fb758abf0076954c7357250068.png",
+                "latex-f19a6aa554226f161f027624a083297c36df713f.png",
+                "latex-f351d359293acef3aa16dc92efa52e3087c7ed11.png",
+                "latex-f4d56390fa4b0a37c178a575e4ca0de29ae0841d.png",
+                "latex-f6427b3038f0466050f279cc9d3adf1790d6ff61.png",
+                "latex-ffdde4e689bcbfea99702e7b0e7b5bbc41e84fbb.png",
+                "paste-1f4b4f081e143216406e136c42c771b60599b847.jpg",
+                "paste-239e56a1972a4f4e33242dc6357778290eb2ef6b.jpg",
+                "paste-251147edfe7eaa841fb1a040f6c50aff6399cbf0.jpg",
+                "paste-3b1c55a4f4966b88c86eea0ea2182198adfa0f58.jpg",
+                "paste-4069de1954c4caeb93668c318527f6a60e4b19a5.jpg",
+                "paste-5e68d62d7421e69b24f16cb68269279e10b275ff.jpg",
+                "paste-66ba33fc31e13bc13df43c5f6b49332f0a175883.jpg",
+                "paste-6bdc401c5e07de383e3938dc5a159e1303826c37.jpg",
+                "paste-72fe45aa45f8bd6bea260aa560b52a3ca317ce74.jpg",
+                "paste-79e3a86a1c3f753cdcd5b86fda6ed2c8599d175e.jpg",
+                "paste-7bc99381a5b4d530893c4a1fd77490d6dcded804.jpg",
+                "paste-82a5c8c4be3ea21e7091971b94caf1dc708ed736.jpg",
+                "paste-883af56a9f52adbfe7ba416694ce7da0edbfa862.jpg",
+                "paste-b479ff9321cafdadde7cb958e0283c0f3fb32f7b.png",
+                "paste-ba7c3152e5d0e9d2f34ce2b8e857b6791dce4b35.jpg",
+                "paste-d26cfe652994e102b1ef08a0974e12516de1fb97.jpg",
+                "paste-d4a19217533e167014940336478834afbc50f88a.png",
+                "paste-d96f37468cc8f8fd4a286b543dcc70e7081d6a27.jpg",
+                "paste-f0392adbb43b3ec1c98a418a171e95e8d3b47bdd.jpg"
+            ],
+            "name": "05 Grundlagen Lichtbogentriebwerke",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Welche Arten von Lichtbogentriebwerken existieren und wie ist das Wirkungsprinzip? Nennen Sie jeweils Beispiele für Triebwerke am IRS.[/latex]<br>",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Thermisches Lichtbogentriebwerk.\\\\Nutzt Thermische Expansion des Treibstoffs zur Schubgewinnung.\\\\Bsp. ARTUS/TALOS, MARX, HIPARC (stationär)</div><div>&nbsp; \\item Magnetoplasmadynamisches Triebwerk (MPD).\\\\Nutzt Lorenzkraft eines ionisierten Plasmas zur Schuberzeugung.\\\\Bsp. DT-x, ZT-x (stationär); SIMPLEX, ADD-SIMPLEX (instationär/gepulst)</div><div>\\end{itemize}[/latex]</div><div><img src=\"paste-6bdc401c5e07de383e3938dc5a159e1303826c37.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "NP>2tJtRPw",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie wird der Düsenhals eines Arcjets genannt? Warum ist er im Vergleich einer gewählichen Laval-Düse so lang?[/latex]",
+                        "[latex]Restriktor. Um dem Treibstoff Zeit zu geben, die Energie des Arcs aufzunehmen.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "xH<PYe1_<C",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie ist das Beschleunigungsprinzip eines Thermischen Lichtbogentriebwekrs?[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Der Massenstrom wird im Ulterschallbereich durch den elektrischen Widerstand eines Lichtbogens erhitzt</div><div>&nbsp; \\item Überschalldurchgang in der Nähe des engsten Düsenquerschnitts</div><div>&nbsp; \\item Anschließende Beschleunigungn durch Lavaldüse</div><div>\\end{itemize}</div><div>Aufheizung im Überschallbereich würde zu Verlusten führen. Daher ist Anodenansatz direkt hinter engstem Querschnitt platziert.[/latex]</div><div><img src=\"paste-f0392adbb43b3ec1c98a418a171e95e8d3b47bdd.jpg\"><br></div><div><img src=\"paste-1f4b4f081e143216406e136c42c771b60599b847.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "crr%A#j6qh",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Warum ist das Erhitzen der Strömung im Überschallbereich (Lavaldüse) schlecht?[/latex]",
+                        "[latex]Durch Erhitzen wird die lokale Schallgeschwindigkeit erhöht. Man geht das Risiko ein, eine Stoßwand zu erzeugen.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "Kb;^HU+7i{",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie ist das Beschleunigungsprinzips eines MPDs?[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Lichtbogen wird genutzt, um Treibstoff zu ionisieren</div><div>&nbsp; \\item Lorenzkraft (durch Magnetfeld) wird genuzt, um Treibstoff zu beschleunigen\\begin{itemize}</div><div>&nbsp; &nbsp; \\item Eigenfeld MPD\\\\Magnetisches Feld des Lichtbogens wird genuzt.</div><div>&nbsp; &nbsp; \\item Fremdfeld MPD\\\\Zusätzlich wird eine Magnetspule um das Triebwerk gelegt um noch höhere Kräfte zu erzeugen.</div><div>&nbsp; \\end{itemize}</div><div>&nbsp; \\item Anodenansatz sollte am Ende der Düse sein, um Überschall durch magnetische Kräfte zu erzeugen</div><div>&nbsp; \\item Thermische Effekte sind Vernachlässigbar</div><div>\\end{itemize}[/latex]</div><div><img src=\"paste-ba7c3152e5d0e9d2f34ce2b8e857b6791dce4b35.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "zHYG~7ZeI_",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Welche Arten der Gasentladung gibt es? Was sind die entsprechenden Charakteristika?[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Dunkelentladung (Dark Discharge)\\begin{itemize}</div><div>&nbsp; &nbsp; \\item Kein sichtbares Licht</div><div>&nbsp; &nbsp; \\item Strom entsteht schon durch einwirkung natürlicher radioaktiver Strahlung<br></div>&nbsp; &nbsp; \\item Oberhalb einer Stromstärken-Schwelle kommt es zu einem Kaskaden-Effekt, da durch freigesetzte Elektronen weitere Atome ionisiert werden<div>&nbsp; &nbsp;\\item nur einzelne Gasatome werden ionisiert (z.B. durch radioaktive Strahlung)<br><div>&nbsp; \\end{itemize}</div><div>&nbsp; \\item Glimmentladung (Glow Discharge)\\begin{itemize}</div><div>&nbsp; &nbsp; \\item Sichtbares Glimmen<br></div><div>&nbsp; &nbsp; \\item Am Anfang der Phase ein negativer differentieller Widerstand<br></div><div>&nbsp; &nbsp; \\item Kathodenfall-Schicht in der Nähe der Kathode.\\\\Lichttarmer Bereich in dem ein starkes Magnetfeld herrscht. Eintreffende Teilchen schlagen weitere Elektronen heraus, die zur erzeugung weiterer Ionen beitragen.<br></div><div>&nbsp; &nbsp; \\item Temperatur noch gering -&gt; Ionen aus Anode treffen auf Kathode und schlage Elektronen raus -&gt; kaskadeneffekt</div><div>&nbsp; \\end{itemize}</div><div>&nbsp; \\item Bogenentladung (Arc)\\begin{itemize}</div><div>&nbsp; &nbsp; \\item Sichtbarer Lichtbogen<br></div><div>&nbsp; &nbsp; \\item Strom fließt in dünnen Kanälen (Blitze, wegen Pincheffekt)<br></div><div>&nbsp; &nbsp; \\item Sehr hohe Temperaturen, besonders in Elektrodenbereich. Aus Glühenden Kathoden treten Elektronen aus, die Gesamtzahl der freien Elektronen sehr stark erhöht.<br></div><div>\\item thermische Emmission von Elektronen, mehr Elektronen, Durchbruch: durch Pinch-Effekt wird Plasma eingeschnürt $\\rightarrow$ Lichtbogen</div><div>&nbsp; \\end{itemize}</div><div>\\end{itemize}[/latex]</div><div><img src=\"paste-3b1c55a4f4966b88c86eea0ea2182198adfa0f58.jpg\"><br></div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "INg&1$ju=c",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Zeichnen Sie qualitiativ eine Strom-Spannungscharakteristik der Gasentladung. Wovon hängt die Ausprägung der Kurve ab?[/latex]<br>",
+                        "<div>\n<div>\n<div><img src=\"paste-b479ff9321cafdadde7cb958e0283c0f3fb32f7b.png\"></div><div><img src=\"paste-4069de1954c4caeb93668c318527f6a60e4b19a5.jpg\"><br></div>\n</div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "g,CR9-SUlq",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Warum kann bei der Betrachtung der Arc-Eigenschaften der Durchgang der Glimmentladung vernachlässigt werden?[/latex]<br>",
+                        "[latex]Der Durchgang durch den Bereich der Glimmentladung muss nicht erfolgen. Es kann direkt ein Durchbruch eines Arcs stattfinden. Ein effizientes Triebwerk strebt das an.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "fEuXW@mj!;",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wovon hängt die Durchbruchspannung eines Arcs ab?[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Gasdruck</div><div>&nbsp; \\item Elektrodenabstand</div><div>&nbsp; \\item Elektrodenform (beeinflusst E-Feldverteilung</div><div>&nbsp; \\item Gas- und Kathodentemperatur</div><div>&nbsp; \\item Einstrahlungsbedingungen</div><div>\\end{itemize}[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "JV6+pc-(O`",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist die Paschenkurve?[/latex]",
+                        "[latex]1889 stellte Friedrich Paschen experimentell das Paschen-Gesetz auf, das besagt, dass die Durchschlagsspannung bei gegebenem Gas eine Funktion des Produktes aus dem Abstand der Elektroden (Schlagweite) und des Druckes ist. Die Paschenkurve ist die Visualisierung dieses Paschengesetzes.[/latex]<div><img src=\"paste-251147edfe7eaa841fb1a040f6c50aff6399cbf0.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "v0.5eufh]s",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Warum ist die Paschenkurve im niedrigen Bereich, so steil? Warum steigt sie später wieder an?[/latex]",
+                        "[latex]Steil am Anfang:\\begin{itemize}<div>&nbsp; \\item Bei konstantem Druck:\\\\Je geringer der Abstand, desto kürzer die Strecke, die Elektronen Beschleunigt werden, bis sie auf der anderen Elektrode auftreffen. Ist die kinetische Energie zu gering, so werden keine Gasteilchen Ionisiert.</div><div>&nbsp; \\item Bei konstantem Abstand:\\\\Je geringer der Druck, desto weniger Teilchen zum Ionisieren stehen zur Verfügung.</div><div>\\end{itemize}</div><div>Später steigt die benötigte Spannung wieder an, da der Widerstand des Gases überwunden werden muss. Also mehr Atome oder mehr Distanz (was irgendwie auch mehr Atome sind).[/latex]</div><div><img src=\"paste-883af56a9f52adbfe7ba416694ce7da0edbfa862.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "Pc>kU!_mc5",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was sind typische Spannungsbereiche für einen Lichtbogen bei einem bar Druck und einem Millimeter Abstand (Typisch für Lichtbogentriebwerke)?[/latex]<br>",
+                        "[latex]Um die $4400\\,$V.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "FY${rl[_de",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie ist der Aufbau eines Lichtbogens (inklusive Erzeugung)? Was sind die Eigenschaften der Einzelteile und wo werden die Ladungsträger erzeugt?[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Kathode\\\\Geladene Elektrode</div><div>&nbsp; \\item Kathodenfallbereich\\\\Bereich mit starkem Elektrischen Feld. Erzeugt Elektronen durch kinetischen Aufschlag von Ladungsträgern. Zieht Ionen an.</div><div>&nbsp; \\item Plasmasäule\\\\Das Meiste vom sichtbaren Lichtbogen</div><div>&nbsp; \\item Anodenfallbereich\\\\Pendant zum Kathodenfallbereich.</div><div>&nbsp; \\item Anode\\\\Geladene Elektrode</div><div>\\end{itemize}</div><div>In den Fallbereichen herrschen hohe elektrische Feldstärken und es herrscht eine nichtlineare Spannung, da in diesen Bereichen die Ladungsträger zur Aufrechterhaltung des Elektronen-/Ionenstroms erzeugt werden. Die Schicht ist sehr dünn; wenige mittlere freie Weglängen.\\\\Die Plasmasäule ist quasineutral, die elektrische Feldstärke ist nahezu konstant und die Spannung verläuft nahezu linear.[/latex]</div><div><img src=\"paste-82a5c8c4be3ea21e7091971b94caf1dc708ed736.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "ES[rjTY0*z",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie verläuft die Strom-Spannungscharakteristik eines Lichtbogens? In welchen Bereichen auf der Kurve befinden sich die TLTs und die MPDs und warum?[/latex]<br>",
+                        "<img src=\"paste-d26cfe652994e102b1ef08a0974e12516de1fb97.jpg\"><div>[latex]\\begin{itemize}</div><div>&nbsp; \\item Thermische Lichtbogen Triebwerke:\\\\Benötigen kein ionisiertes Gas. Ionisieren von Gas sind Verluste, die man nur schlecht wieder bekommt. Darum eher links, sodass gerade genug Ionen existieren, um den Lichtbogen aufrecht zu erhalten. Mit steigendem Ionisationsgrad erhöht sich die Leitfähigkeit (Strom steigt, Spannung fällt)\\\\(Fallende Charakteristik) \\end{itemize} [/latex]</div><div><img src=\"paste-7bc99381a5b4d530893c4a1fd77490d6dcded804.jpg\"><br></div><div>[latex]&nbsp;&nbsp;</div><div><br></div><div>\\begin{itemize}\\item Magnetoplasmadynamische Triebwerke:\\\\Benötigen ein ionisiertes Gas für Beschleunigung. Daher wird von Anfang an ein nahezu vollständig ionisiertes Gas angestrebt. Durch erhöhung der Stromstärke, werden Stromlinien weiter hinausgetragen.\\\\(Steigende Charakteristik)</div><div>\\end{itemize}[/latex]<br></div><div><img src=\"paste-d96f37468cc8f8fd4a286b543dcc70e7081d6a27.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "S$8D`ZRb*",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie zündet man ein TLT?[/latex]",
+                        "[latex]Es werden einige tausend Volt (2000-4000V) angelegt (Entladungskammerdruck bei einigen bar (2-5 bar)). Sobald ein Durchbruch stattfindet, muss die Leistung (damit die Spannung) sehr schnell reguliert werden, da das Triebwerk sonst überhitzt.//Hohe Abhängigkeit des Betriebsverhaltens von der Zündelektronik.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "Lbt%Z.7`xK",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie Zündet ein MPD?[/latex]",
+                        "[latex]Betriebsspannung von einigen hundert Volt werden angelegt (Entladungskammerdruck bei $10^{-3}-100\\,$mbar). Diese reicht um einen Durchschlag zu erzielen.\\\\Keine Einfluss der Zündelektronik auf das Betriebsverhalten.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "p?~v].}B1*",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie hängt die Stromdichte mit der Beweglichkeit und der Leitfähigkeit zusammen?[/latex]<br>",
+                        "[latex]Die Stromdichte $\\vec j$ hängt in erster Linie von der Ladungszahl $z$, der Teilchendichte $n$ und der mittleren Geschwindigkeit dieser Teilchen ab. Die mittlere Geschwindigkeit ist mit der \"Beweglichkeit\" $b$ als Vorfaktor direkt proportional zur elektrischen Feldstärke $\\vec E$.\\\\Unter der Annahme einfach ionisierter Teilchen ($z_k=1$) und eines quasineutralen Gases ($n_i = n_e$) kann mit $en_e(b_i+b_e)=\\sigma$ als Leitfähigkeit der Zusammenhang $\\vec j=\\sigma\\vec E$ hergeleitet werden.\\\\Zudem kann gezeigt werden, dass die Beweglichkeit eine Funktion der Teilchenmasse, der Teilchentemperatur und der mittleren freien Weglänge der Teilchen ist. Vergleicht man nun die Beweglichkeit zwischen Ionen und Elektronen, ist zu erkennen, dass das Verhältnis der Stromanteile umgekehrt proportional zur Wurzel des Massenverhältnisses derer ist. Selbst im Falle von Wasserstoff ist die Elektronenbeweglichkeit und damit der Elektronenstrom um faktor 42 größer, als der Ionenstrom.\\\\Vernachlässigt man schlussfolgernd die Beweglichkeit der Ionen, lässt sich die Stromdichte als Funktion der elektrischen Feldstärke und der Leitfähigkeit bestimmen, die wiederum nur eine Funktion der Elektronendichte und -temperatur ist. $\\vec j = \\vec j(\\vec E,n_e,T_e)=\\sigma(n_e,T_e)\\vec E$\\\\All diese Größen lassen sich in der Brennkammer gut messen.<div>\\\\ $\\rightarrow$ Elektronenbeweglichkeit ist deutlich größer als die der Ionen, Elektronen tragen den Strom und kombinieren öfter mit Schwerteilchen (geben ihre Energie durch Stöße ab)</div><div>[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "h-]>`peJiB",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie wird Energie von der Lichtsäule an den Treibstoff übertragen?[/latex]<br>",
+                        "[latex]Elektronen geben Energie an Schwerteilchen durch Stöße ab und erhizen den Treibstoff so.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "d(Ut]Mom.;",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie hängen die Leistung einer Ohmschen Heizung und die Elektromagnetische Kraft vom Strom ab?[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Ohmsche Heizung ~$j^2/\\sigma$ Anmk: höhere Leitfähigkeit sorgt für niedrigeren el Widerstand (ungewollt). Leitfähigkeit darf nicht zu hoch sein</div><div>&nbsp; \\item Elektromagnetische Kraft ~$j\\times B$</div><div>\\end{itemize}[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "wX_{7YCz9E",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Welche Eigenschaften hat die Plasmasäule?[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Quasineutral</div><div>&nbsp; \\item Über Säule weitgehend konstantes el. Feld</div><div>&nbsp; \\item Spannung nahezu linear</div><div>&nbsp; \\item Thermisches Ungleichgewicht mit $T_e&gt;T_g$ ($T_e$ ist Elektronentemperatur und $T_g$ die Schwerteilchentemperatur)</div><div>\\end{itemize}[/latex]</div><div><img src=\"paste-79e3a86a1c3f753cdcd5b86fda6ed2c8599d175e.jpg\"><br></div><div>[latex]TLTs ab $1\\,$bar (eher im Gleichgewichtsbereich)\\\\MPD eher im mbar Bereich; starke Differenzen[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "pn=M|,(EdJ",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie ist die Anhängigkeit des elektrischen Feldes von der Spannung?[/latex]",
+                        "[latex]$E = U/d$[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "d>OF,nSs;-",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wovon hängt die Kathodenfallspannung ab und welchen Wertebereich hat sie?[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Druck</div><div>&nbsp; \\item Gasart</div><div>&nbsp; \\item Kathodentemperatur</div><div>&nbsp; \\item Kathodenmaterial</div><div>\\end{itemize}</div><div>Werte Kathodenspannung &lt;10V</div><div>[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "xIG*pCQ:`#",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was sind Eigenschaften der Kathodenfallschicht?[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Sehr dünn (wenige freie Weglängen)</div><div>&nbsp; \\item Starker Spannungsanstieg ($&lt;10\\,$V)</div><div>&nbsp; \\item Sehr heiß (Lichtbogen um die $20000\\,$K)</div><div>&nbsp; \\item Spannung schwer bestimmbar (Sonden unmöglich wegen dünn und heiß, höchstens optische Verfahren)</div><div>\\end{itemize}[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "m{E1G8VTN>",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wo und auf welche Arten werden Elektronen zur Aufrechterhaltung eines Lichtbogens bereitgestellt? Welche Effekte sind vernachlässigbar?[/latex]",
+                        "[latex]Im Kathodenbereich.\\\\<div>Mechanismen:\\begin{itemize}<div>&nbsp; \\item Thermische Emission</div><div>&nbsp; \\item Feldemission</div><div>&nbsp; \\item Volumenionisation</div><div>\\end{itemize}</div><div>Vernachlässigbar:\\begin{itemize}</div><div>&nbsp; \\item Chemische Effekte</div><div>&nbsp; \\item Ionenbeschuss</div><div>&nbsp; \\item Angeregte Teilchen</div><div>\\end{itemize}[/latex]</div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "N!d,g0Gp_l",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wovon hängt der Elektronenaustritt aus einer metallischen Oberfläche ab? (Thermische Emission)[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Temperatur ($T$)<br><div>&nbsp; \\item Austrittsarbeit ($\\Phi$) (Korrekturfaktor für Material)</div><div>&nbsp; \\item Emissionskonstante (auch Richardsonkonstante) ($A$) (Materialabhängig)<br><div>\\end{itemize}</div><div>$j=AT^2e^{-\\frac{e\\Phi}{kT}}$[/latex]</div></div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "E!>b4~O+Ho",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Welchen Einfluss hat die Austrittsarbeit der Elektronen auf die Temperatur der Elektrode?[/latex]",
+                        "[latex]Die Elektrode wird um den Betrag der Austrittsarbeit gekühlt.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "e:YKkMbz_(",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie ein positiv und ein negativ Beispiel für ein Kathodenmaterial in einem Lichtbogentriebwerk. Welches Material ist Gegenstand von Forschung (Probleme/Potential)?[/latex]",
+                        "[latex]<div>Ungeeignet: Kupfer. Niedrige Schmelztemperatur, hohe Austrittsarbeit (also viel heizen und viele thermische Verluste). \\\\Problem: Reaktion mit Restsauerstoff\\\\</div><div><br></div><div>Geeignet: Wolfram mit $2\\,\\%$Thoriumoxid. Hohe Schmelztemperatur, niedrige Austrittsarbeit.\\\\Thorium ist aber leicht Radioaktiv \\#Arbeitsschutz; daher wird oft Tantal anstelle von Thorium verwendet. Nicht ganz so gut, aber okay.\\\\</div><div><br></div><div>Forschung: Kohlenstoff. Sehr hoher Schmelzpunkt bei mäßiger Ionenaustrittsarbeit.\\\\Problem: Reaktionen mit Treibstoff, Erosion.\\\\Potentioal: Sehr lange Lebensdauer.[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "I~bo&nJitL",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie wirkt sich das Gas auf die thermische Emission der Kathode aus?[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Durch Ionen gebildete Grenschicht wirkt hemmend auf Elektronenemission</div><div>&nbsp; \\item Adsorption von Gasatomen (Legierung mit Gasatomen) verändert Austrittsarbeit</div><div>&nbsp; \\item Herausschlagen von Elektronen aus Oberfläche durch Ionen</div><div>\\end{itemize}[/latex]<br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "OJ>~X`EiKD",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wodurch wird die thermische Austrittsarbeit bei einem gegebenen Metall beeinflusst?[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Materialfehler</div><div>&nbsp; \\item Beimengungen im Metall (Raffiniert oder Verschmuzt)</div><div>&nbsp; \\item Gasart</div><div>&nbsp; \\item Druck</div><div>\\end{itemize}[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "eg6`h)3%A+",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist Feldemission im Zusammenhang des Kathodenfallbereichs?[/latex]",
+                        "[latex]Feldverstärkte Glühemission ist die Elektrodenemission, die in der Kathodenfallschicht infolge eines hohen Elektrischen Feldes zustande kommt. Hat nur bei sehr hohen Feldern einen nennenswerten einfluss (z.B. Zündung TLT).[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "h!mj%`4#0m",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist Thermische Emission im Zusammenhang des Kathodenfallbereichs?[/latex]",
+                        "[latex]Auch Glühemission.\\\\Thermischer Elektronenaustritt aus einer Metallischen Oberfläche. Beim TLT aus der Kathode.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "utQB|#KMvv",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist Volumenionisation im Zusammenhang des Kathodenfallbereichs?[/latex]",
+                        "[latex]Im Kathodenfallgebiet sammeln sich Ionen. Die Ionisation wird ausgelöst durch\\begin{itemize}<div>&nbsp; \\item Axiale Wärmeleitung aus der Säule (20.000 K)</div><div>&nbsp; \\item Ohmsche Heizung in der Kathodenfall-Schicht</div><div>&nbsp; \\item Restenergie der Ionen, die an Kathode reflektiert werden.</div><div>\\end{itemize}</div><div>Die emittierten Elektronen wandern dann zur Anode, Ionen zur Kathode und erhitzen diese.\\\\</div><div><br></div><div>Nur durch die Energie, die durch den Aufschlag der Ionen an die Kathode gegeben wird, muss die Kathode nicht geheizt werden.</div><div>[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "nT*2^C2+FB",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Welche beiden Kriterien bei der Kathodenauslegung sind wichtig?[/latex]",
+                        "[latex]<div>\\begin{enumerate}<div>\\item Erosion der Kathode. (Temperaturabhängig!)</div><div>\\item Keine Materialveränderung im Dauerbetrieb.</div><div>\\end{enumerate}<div><br></div><div>Gerade beim Starten ist die Kathode noch kalt. Wenn dann die ersten Blitze überschlagen, bilden sich Brennflecken, da Material herausgeschlagen wird. (Starken Einfluss auf Erosion)</div><div><br></div><div>[/latex]</div></div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "p?X[i9ir6!",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist eine kalte Kathode? Welche Probleme treten auf?[/latex]",
+                        "[latex]Eine Kathode im niedrigen Temperaturbereich. Zu finden ist sie bei gepulsten Lichtbogengeräten und beim Zündvorgang kontinuierlich betriebener Geräte.\\\\Der Übergang zur heißen Kathode findet Sprunghaft mit einem Spannungsrückgang statt.\\\\<div><br></div><div>Durch lokale Temperaturerhöungn entstehen instabile Brennflecken im Zeitbereich von $10^{-9}\\,$s, die von der Spitze nach hinten laufen. Durch die lokalen Belastungen durch hohe Ionenstromdichten und hohe Dampfdrücke entstehen:\\begin{itemize}</div><div>&nbsp; \\item große Erosion&nbsp;</div><div>&nbsp; \\item Schmelzen</div><div>&nbsp; \\item Kraterbildung auf</div><div>\\end{itemize}</div><div>der Kathode.[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "iV`ufJ.CWF",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist eine heiße Kathode? Welche Größe ist für einen stabilen Erhalt wichtig? Worauf muss sonst geachtet werden?[/latex]",
+                        "[latex]Der Betriebsbereich einer Kathode im hohen Temperaturbereich. Gekennzeichnet ist sie durch ein diffuses Ansetzen der Lichtbögen gekennzeichnet ist; so kommt es nicht zu lokalen Brennflecken. Eine heiße Kathode trifft man bei dauerbetriebenen Lichtbogengeräten an\\\\<div><br></div><div>Der Druck ist wichtig; bei zu niedrig gibt es Probleme am Anoden-Lichtbogenansatz, zu hoch greift der Lichtbogen zu lokal an der Kathode an und es kommt wieder zu Brennflecken.\\\\</div><div><br></div><div>Ansonsten darf der Massendurchsatz nicht zu hoch sein, da die Kathode sonst zu sehr gekühlt wird \\#Kalte Kathode. Auch geringe Spuren von Sauerstoff führen zu drastischer Erosion. (Mit Abstand höchste Erosion tritt sonst beim Zünden auf.[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "bG,WJZ1Se1",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist Sekundär Hydrazin?[/latex]",
+                        "[latex]Ein Gasgemisch aus N$_2$ und H$_2$, das aus den Einzelkomponenten von Hydrazin besteht und als Workaround genutzt wird, um an der Uni nicht mit giftigem Hydrazin arbeiten zu müssen.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "bqkM,M[d5}",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist Sublimation? Wo ist die Problemstellung bein Lichtbogentriebwerken?[/latex]",
+                        "[latex]Direkter Übergang vom festen zum gasförmigen Aggregatszustand.\\\\<div>Die Kathode sublimiert bei zu hohen Temperaturen. Zahlenbereich bei gereinigtem Treibstoff $E_r = 1\\,$ng/C.\\\\Lösungsansätze wären ein Erhöhen des Brennkammerdrucks (was aber wieder zu weiteren Problemen führt). Bei MPDs ist das keine Lösung, da vollständige Ionisation erreicht werden soll. Temperatur kann auch nicht verringert werden, da Elektrodenemission weiterhin gewährleistet sein muss.[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "M9x`i*`2^h",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist die Aufgabe der Anode in einem Lichtbogentriebwerk? Wie erfüllt sie diese?[/latex]",
+                        "[latex]Erzeugungn von Ionen zur Aufrechterhaltung der Quasineutralität des Plasmas.\\\\<div>Erreicht das durch:\\begin{itemize}</div><div>&nbsp; \\item Elektronenstoß mit Neutralteilchen (Anstieg der Anodenfallspannung)</div><div>&nbsp; \\item Verdampfung und Ionisation von Anodenmaterial (führt zu schwerer Erosion und ist zu vermeiden; daher diffuser Lichtbogenansatz)</div><div>\\end{itemize}[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "fced(VErO4",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Durch welche Mechanismen wird die Anode aufgeheizt? Welche Auswirkungen hat die Aufheizung der Anode auf das Gesamttriebwerk?[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Ohmsche Heizung in Kathodenfallschicht</div><div>&nbsp; \\item Enthalpie die Elektronen mitbringen (und Austrittsarbeit)</div><div>&nbsp; \\item Wärmeübergang durch Treibstoff oder Lichtbogen<br><div>\\end{itemize}</div><div>Aufheizung ist (nach eingefrorenen Strömungseffekten) die zweitgrößte Quelle für Verluste. Durch regenerative Kühlung kann ein Teil wieder eingefangen werden.\\\\Zudem führt zu großer Erhitzung zu Verkürzung der Lebensdauer.[/latex]</div></div><div><img src=\"paste-5e68d62d7421e69b24f16cb68269279e10b275ff.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "dHzG9UY<dz",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Welche Effekte führen zu Anodenersion?[/latex]",
+                        "[latex]\\begin{enumerate}<div>&nbsp; \\item Großflächiges Aufschmelzen und Erweiterung des Düsenhalses</div><div>&nbsp; \\item Erstarrtes Auswufmaterial genannter Aufschmelzung</div><div>&nbsp; \\item Lichtbogenansatz beim Übergang in den stationären Betrieb</div><div>\\end{enumerate}[/latex]</div><div><img src=\"paste-72fe45aa45f8bd6bea260aa560b52a3ca317ce74.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "iW?l],a1:W",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Welche Gleichungen benötigt man unter vereinfachenden Annahmen für die Berechnung der axialen Geschwindigkeitszunahme?[/latex]",
+                        "<div>\n<div>\n<div><img src=\"paste-d4a19217533e167014940336478834afbc50f88a.png\"></div><div>[latex]Unter den Annahmen:[/latex]<br></div><div><img src=\"paste-239e56a1972a4f4e33242dc6357778290eb2ef6b.jpg\"><br></div>\n</div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "A6s%;.)mWv",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Welche Effekte haben Einfluss auf die Treibstoffbeschleunigung (Zunahme der Axialen Geschwindigkeit)? In welche Richtung wirken sie im Unter-/Überschallbereich.[/latex]<br>",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Ohmsche Heizung (Beschleunigend für Unterschall, Bremsend für Überschall)</div><div>&nbsp; \\item Elektromagnetische Kraft (Bremsend für Unterschall, Beschleunigend für Überschall)</div><div>&nbsp; \\item Düsenkontur (jenachdem; siehe Strömungslehre)<br><div>\\end{itemize}[/latex]</div></div><div><img src=\"paste-66ba33fc31e13bc13df43c5f6b49332f0a175883.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "L{KM7lNNnb",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was sind die Eigenschaften der Elektrodenfallgebiete?[/latex]",
+                        "<div>[latex] \\begin{itemize}</div>\\item Erzeugung der Ladungsträger zur Aufrechterhaltung\ndes Elektronen- und Ionenstromes&nbsp;<div>\\item Raumladungen können sich aufbauen&nbsp;</div><div>\\item Spannung verläuft nichtlinear&nbsp;</div><div>\\item hohe elektrische Feldstärken&nbsp;</div><div>\\item Ausdehnung von wenigen mittleren freien Weglängen<div>\\end{itemize}</div><div>[/latex]<br></div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "P!3!OVMt}6",
                     "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
                     "tags": []
                 }
