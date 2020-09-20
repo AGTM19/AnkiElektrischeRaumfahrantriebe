@@ -2589,7 +2589,6 @@
                 "latex-16a9575a1ab01a7cb472ee569bdb6fc861d3d69a.png",
                 "latex-17e2bfe761e2a34ca6a40deffe2539034d61a660.png",
                 "latex-19d3808a4d36609b63dd758b340a516c0717e3a6.png",
-                "latex-1ddcf95865fae8dddbeb9244d07f474a237e2bb9.png",
                 "latex-1ecdc740ab9c49de4397e364186e3bbad7098d06.png",
                 "latex-20aecc3020805767b3de01c887be628e77063310.png",
                 "latex-21a22e47db25d99d010b91b39d063a9f7b05bb37.png",
@@ -2599,6 +2598,7 @@
                 "latex-2daf8c75c423a26c8572edc95bcf5a7cf99a7114.png",
                 "latex-34fda516ad5a7501d21a880ced9969fc910a950e.png",
                 "latex-3ad18738077d8c7ea4317a0b558c08f19fe10285.png",
+                "latex-3da756d920193eaed81764880fbe8acf19dd5fcf.png",
                 "latex-46e8f4c8e0c3a383dc2a57def41025bc434448f2.png",
                 "latex-485a7cbe2e06d77164d5eb7a34436693a75643a0.png",
                 "latex-4ddc707b657d3df2706a758c71a5337c80075e85.png",
@@ -2691,7 +2691,7 @@
                     "data": "",
                     "fields": [
                         "[latex]Welche Arten von Lichtbogentriebwerken existieren und wie ist das Wirkungsprinzip? Nennen Sie jeweils Beispiele für Triebwerke am IRS.[/latex]<br>",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Thermisches Lichtbogentriebwerk.\\\\Nutzt Thermische Expansion des Treibstoffs zur Schubgewinnung.\\\\Bsp. ARTUS/TALOS, MARX, HIPARC (stationär)</div><div>&nbsp; \\item Magnetoplasmadynamisches Triebwerk (MPD).\\\\Nutzt Lorenzkraft eines ionisierten Plasmas zur Schuberzeugung.\\\\Bsp. DT-x, ZT-x (stationär); SIMPLEX, ADD-SIMPLEX (instationär/gepulst)</div><div>\\end{itemize}[/latex]</div><div><img src=\"paste-6bdc401c5e07de383e3938dc5a159e1303826c37.jpg\"><br></div>"
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Thermisches Lichtbogentriebwerk.\\\\Nutzt Thermische Expansion des Treibstoffs zur Schubgewinnung.\\\\Bsp. ARTUS/TALOS, MARC6, HIPARC (stationär)</div><div>&nbsp; \\item Magnetoplasmadynamisches Triebwerk (MPD).\\\\Nutzt Lorenzkraft eines ionisierten Plasmas zur Schuberzeugung.\\\\Bsp. DT-x, ZT-x (stationär); SIMPLEX, ADD-SIMPLEX (instationär/gepulst)</div><div>\\end{itemize}[/latex]</div><div><img src=\"paste-6bdc401c5e07de383e3938dc5a159e1303826c37.jpg\"><br></div>"
                     ],
                     "flags": 0,
                     "guid": "NP>2tJtRPw",
@@ -4303,6 +4303,135 @@
                     "tags": []
                 }
             ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "f3f11220-fb6e-11ea-a991-0028f82ae61b",
+            "deck_config_uuid": "f3f136e6-fb6e-11ea-af24-0028f82ae61b",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [
+                "latex-07ff6ea713e8e1b7ce19ecdb8c7572b1c156fadf.png",
+                "latex-17f0a26a510c465da5ff00e199ad3f4efe46ffb0.png",
+                "latex-1f9cc44be7992879c501fb0ff03336263b934a61.png",
+                "latex-22a09e44e138f0ea0452be81e474f89a270310a3.png",
+                "latex-262ebfd7fba35f5416bc4836b27732b690c23aba.png",
+                "latex-3a90cf0ab39564a56a9a681c08c0896288f35fbd.png",
+                "latex-4872f7188e504e8fdaf55379549b1c33658b28ce.png",
+                "latex-722147fba249ee6cdb3a90aaa9b9f27a64f5915a.png",
+                "latex-7854294cd603c7bc20fc4705efb3d9f8e2299903.png",
+                "latex-856434bdf2aa05cdfa216fc23bd4c7260be98ec9.png",
+                "latex-b3dc453413c051ad893b00786eea95f22139c3db.png",
+                "latex-ba531d28f3e860933830e852f8c9100f2fe049b0.png",
+                "latex-ca8078d8a4c9581f05e0772d3fc5736588d078ea.png",
+                "latex-d6ccb87a22328fd6efe8f7fda6276d69ffd4d6f5.png",
+                "latex-f534baaeae7fde082d940d0d32b568a02090a48c.png",
+                "latex-ff2a01749626477d3c4031bcc333c26a49f1a1bb.png",
+                "paste-0eba75bdb6908415aa466a43020f1c090581b851.jpg",
+                "paste-321919b597465288a028c659ba1ad56bda7163f4.jpg"
+            ],
+            "name": " Prüfungsfragen",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist ein Plasma?[/latex]",
+                        "<div>[latex]</div><div>\\begin{itemize}</div>\\item el. Leitfähig<div>\\item ionisiert</div><div>\\item dissoziiert</div><div>\\item hohe Temperatur</div><div>\\item leuchtend</div><div>\\end{itemize}<br><div>[/latex]<br></div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "Q+98%gpc-O",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>[latex]</div><div>Wie unterscheidet sich das elektrischen Antriebssystemen zu Grunde liegende Prinzip\nvon chemischen Antrieben? Welche Vor- und Nachteile ergeben sich durch den\nEinsatz von elektrischen Antrieben gegenüber chemischen Antrieben.<br></div><div><div>[/latex]</div></div>",
+                        "<div>[latex]</div><div>\\begin{itemize}</div>\\item Energie-Treibstoff-Kopplung: für chem. aus Rkt. im Treibstoff, Kopplung in große\nMassenströme möglich, Max. Energie durch Treibstoff begrenzt, rein thermische\nKopplung<div><br><div>\\item elektrische Energieeinkopplung durch magnetische und elektrische Felder</div><div>\\item Treibstoff und Energiequelle können voneinander getrennt sein. $\\rightarrow$ Energie wird dem Treibstoff von außen zugeführt</div><div>\\item Mit elektrischen Antrieben hat man einen erhöhten Nutzlastmassenanteil, aber die Missionsdauer steigt signifikant während es bei chemische Antrieben umgekehrt ist&nbsp;</div><div>\\end{itemize}</div><div><br></div><div><br></div><div>Vorteile:</div><div><div>\\begin{itemize}</div>\\item höheres $c_e$ als bei chemischen Antrieben (höheres \\Delta v oder Treibstoffeinsparung)</div><div>\\item erweiterte Treibstoffauswahl<br><div>\\end{itemize}</div></div><div><br></div><div><div>Nachteile:</div><div><div>\\begin{itemize}</div>\\item niedrigerer Schub und Schubdichte als bei chemischen Antrieben</div><div>\\item Einsatz erst im Weltraum, können aufgrund des niedrigen Schubes nicht von der Erde abheben</div><div>\\item Leistungsbegrenzt (Chemische Energiebegrenzt)<br><div>\\end{itemize}</div></div><div>[/latex]</div></div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "P)<c3WY]AX",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex] Elektrische Triebwerke werden nach dem Beschleunigungsprinzip in 3 Kategorien\naufgeteilt. Nennen Sie diese 3 Kategorien und geben Sie für jede Kategorie\nmindestens ein Ihnen bekanntes Triebwerk an [/latex]",
+                        "[latex]&nbsp;<div>\\begin{enumerate}</div><div>\\item Elektrothermisch \\hfill TALOS, Arcjets</div><div>\\item Elektrostatisch \\hfill RIT-10, GIT</div><div>\\item Magnetoplasmadynamisch \\hfill ZT1, HAT, DT2, X16</div><div>\\end{enumerate}</div><div>[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "O=3M?*8l$w",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]&nbsp;<div>Skizzieren Sie ein thermisches Lichtbogentriebwerk und erläutern Sie an Hand der\nSkizze das Funktionsprinzip.&nbsp;<br></div><div>[/latex]</div>",
+                        "[latex]&nbsp;<div>Lichtbogen zwischen Anode und Kathode&nbsp;</div><div>\\\\Plasmaerzeugung und Heizung&nbsp;</div><div>\\\\ Entspannung in Düse $\\rightarrow$ Schuberzeugung<br></div><div>bzw:</div><div>\\begin{itemize}<div>&nbsp; \\item Der Massenstrom wird im Ulterschallbereich durch den elektrischen Widerstand eines Lichtbogens erhitzt</div><div>&nbsp; \\item Anodenansatz hinter dem engsten Düsenquerschnitts</div><div>&nbsp; \\item Anschließende Beschleunigungn durch Lavaldüse</div><div>\\end{itemize}</div><div>Aufheizung im Überschallbereich würde zu Verlusten führen. Daher ist Anodenansatz direkt hinter engstem Querschnitt platziert.</div></div><div>[/latex]</div><div><img src=\"paste-0eba75bdb6908415aa466a43020f1c090581b851.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "Ggzof+geg1",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex] In welchem Bereich liegen die Wirkungsgrade von thermischen\nLichtbogentriebwerken. Welcher Verlustmechanismus trägt den größten Anteil. [/latex]",
+                        "[latex]&nbsp;<div>30% $\\rightarrow$ Eingefrorene Verluste<br></div><div>[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "yoz<@/HHVM",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex] Was gibt das Paschen-Gesetz an? Skizzieren Sie qualitativ den typischen Verlauf einer\nPaschen-Kurve in einem Diagramm und beschriften Sie die Achsen. [/latex]",
+                        "[latex]<div>Zusammenhang zwischen Durchschlagsspannung in einem idealen Gas in\nAbhängigkeit des Produktes aus Elektrodenabstand d und Gasdruck p für ein\nhomogenes E-Feld.<br></div><div><br></div><div>\\textbf{Verlauf der Kurve:} \\\\</div><div>Steil am Anfang:\\begin{itemize}<div>&nbsp; \\item Bei konstantem Druck:\\\\Je geringer der Abstand, desto kürzer die Strecke, die Elektronen Beschleunigt werden, bis sie auf der anderen Elektrode auftreffen. Ist die kinetische Energie zu gering, so werden keine Gasteilchen Ionisiert.</div><div>&nbsp; \\item Bei konstantem Abstand:\\\\Je geringer der Druck, desto weniger Teilchen zum Ionisieren stehen zur Verfügung.</div><div>\\end{itemize}</div><div>Später steigt die benötigte Spannung wieder an, da der Widerstand des Gases überwunden werden muss. Also mehr Atome oder mehr Distanz (was irgendwie auch mehr Atome sind)</div></div><div>[/latex]</div><div><img src=\"paste-321919b597465288a028c659ba1ad56bda7163f4.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "px]vV2qYf=",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]&nbsp;Welcher Treibstoff wird bei einem thermischen Lichtbogentriebwerk meist\nverwendet? Warum verwendet man nicht die Treibstoffe mit der besten\nAustrittsgeschwindigkeit? [/latex]",
+                        "[latex]&nbsp;<div>meist Hydrazin (Abfallstoffe aus bemannten Systemen oder §H_2O$)</div><div>\\\\Weil nicht nur die Performance eine Rolle spielt sondern auch die Lagerfähigkeit. Für\nWasserstoff und Helium das Tankgewicht mehr wiegt als der Treibstoffeinsparung\ndurch den höheren Isp.&nbsp;<br></div><div>[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "M|yatmsP}B",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex] Nennen Sie zwei Vorteile von gepulsten Plasmatriebwerken gegenüber Kaltgastriebwerken für die Lageregelung von Satelliten [/latex]",
+                        "[latex]<div>\\begin{itemize}<br><div>\\item sehr kurze Niederschub-Impulse -&gt; höhere Ausrichtgenauigkeit&nbsp;</div><div>\\item reproduzierbare Schübe</div><div>\\end{itemize}</div><div>&nbsp;[/latex]</div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "N(cu}BZ^K?",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                }
+            ]
         }
     ],
     "crowdanki_uuid": "ceacbbb3-9b4e-11ea-8a75-b4d5bdceb84c",
@@ -4439,6 +4568,51 @@
                 "perDay": 200
             },
             "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "f3f136e6-fb6e-11ea-af24-0028f82ae61b",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    1,
+                    0
+                ],
+                "order": 1,
+                "perDay": 50,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 75
+            },
+            "timer": 0
         }
     ],
     "desc": "",
@@ -4488,8 +4662,6 @@
             ],
             "sortf": 0,
             "tags": [
-                "",
-                "{}",
                 ""
             ],
             "tmpls": [
